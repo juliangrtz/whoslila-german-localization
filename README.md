@@ -16,7 +16,6 @@ Who's Lila? is a project developed solely by Garage Heathen, who designed and pr
 
 ## To do
 
-- Add localization files for the DAEMON
 - Check localization quality
 - Add some voice acting (?)
 
