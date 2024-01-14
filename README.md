@@ -14,6 +14,12 @@ The game includes several endings, which depend on places the player chooses to 
 
 Who's Lila? is a project developed solely by Garage Heathen, who designed and programmed the game, as well as composing the music for it. He often posted behind-the-scenes screenshots and photos about the game's development on his Twitter account.
 
+## To do
+
+- Add localization files for the DAEMON
+- Check localization quality
+- Add some voice acting (?)
+
 ## Screenshots
 
 to do
