@@ -1,4 +1,8 @@
 # whoslila-german-localization
+
+![Will_Big](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/83545d1c-9ea1-4895-bddc-0dccc7f9c18a)
+
+
 Unofficial German localization for the brilliant game *Who's Lila?*
 
 *Who's Lila?* is a horror adventure game developed by Garage Heathen and published by Garage Heathen and IndieArk. It was released on Steam and itch.io for Microsoft Windows on February 23, 2022. *Who's Lila?* follows a young man named William Clarke who has trouble showing the proper emotions on his face and has to consciously move his muscles in order to make expressions. This forms the main gameplay mechanic of the game, where the player must morph William's expressions with a mouse to make the proper (or improper) expressions during conversations. This affects how other characters react to his dialogue and how conversations play out.
