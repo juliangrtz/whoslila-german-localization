@@ -1,0 +1,5554 @@
+[Infinite]
+{InfiniteQuestion, -1} I wanna train my expressions a bit more...
+
+[PartyPlaylist]
+(Ilia) Wait...
+That's not my party playlist!
+
+[StrangerEnd]
+$FadeOutStranger
+(Stranger)...
+Too soon....
+$FadeInStranger
+
+[StrangerMeat]
+$FadeOutStranger
+(Stranger)...
+(Stranger)This one is not there anymore.
+There used to be no return.
+$FadeInStranger
+
+[StrangerWheel]
+$FadeOutStranger
+(Stranger)...
+(Stranger)You've heard this song before, haven't you?
+It's not from around here...
+$FadeInStranger
+
+[StrangerPhone]
+$FadeOutStranger
+(Stranger)...
+In fact, I'm there right now.
+$FadeInStranger
+
+[PartygoerWeirdSong]
+(Partygoer)What the fuck is this music dude??
+Some kinda experimental stuff or I don't know...
+(null)...
+
+[Partygoerphone]
+(Partygoer) Heey, downstairs!
+Hey!
+Someone's phone's ringing!
+
+
+[Languages2]
+Languages
+[EditorLocked]
+Unlock 6 palettes to use the editor!
+
+[Util]
+...
+[BurntSave]
+Burnt Hall
+[EnterPin]
+Enter PIN
+[LockedDocument]
+This document is locked
+[EasyMode]
+Easy mode (Longer answer times + face will not move on it's own)
+[BoilerSave]
+Boiler Room
+[VeilSave]
+The Veil
+[WillApartmentSave]
+Will's apartment
+[TrashYardSave]
+Trash yard
+[SchoolCorridorSave]
+School corridor
+[EllieSave]
+Ellie's Classroom
+[RoofSave]
+School roof
+[MarthaFrontSave]
+Martha's condo
+[InterrogationSave]
+Interrogation room
+[DepotSave]
+Depot
+[YusOffice]
+Yu's Office
+
+[MissingPerson]
+MISSING 
+PERSON
+[TanyaKennedyMissing]
+TANYA KENNEDY   
+[BasicEmotions]
+Basic Emotions
+[HappyNote]
+HAPPY
+[SadNote]
+SAD
+[AngryNote]
+ANGRY
+[WowNote]
+WOW!
+[EwNote]
+EW!
+[FearNote]
+FEAR
+
+[InstaTravelHint]
+Hint: You can enable <i>teleporting through doors on doubleclick</i> in the Settings/Gameplay
+[SpacebarHint]
+Hint: Press <i>Spacebar<i> to see all interactables
+
+[EpilepsyWarning]
+EPILEPSY WARNING
+[ThisGameContains]
+THIS GAME CONTAINS FLASHING LIGHTS AND HIGH CONTRAST IMAGERY
+[AreYouSure]
+Are you sure?
+[Overwrite]
+Overwrite?
+[Overwrite2]
+Overwrite
+[Yes]
+Yes
+[No]
+No
+[FullScreen]
+Full screen
+[ThankYouForPlaying]
+Thank you for playing!
+[Author]
+Coding, Music, Story and art by
+Garage Heathen
+[LocalizationsBy]
+Localizations by:
+__
+Cris_Kaiju - Spanish
+Kakihara - Simplified Chinese
+Nerisuyu
+Garage Heathen - Russian
+[GeneratedFaces]
+Almost all faces are generated via generated.photos
+[TestedBy]
+Tested by:
+__
+IIe4enKa
+Nerisuyu
+Cris_Kaiju
+Kate Unknown
+Polina (Polnoch)
+@_polnoch_ (TikTok)
+[SpecialThanks]
+Special Thanks:
+__
+to Veronica, for providing her face
+@iwt.shark (TikTok),
+__
+to AfroBot
+@IbeDenaux (Twitter)
+__
+to @iheredream ("i love kwai hua toe") 
+- for "Tomiho" palette
+__
+to @hivelings for "Lucid dream" palette
+
+[AndYou]
+...and you!
+[Emotions]
+You smiled
+Your face remained neutral
+You made a sad face
+You made an angry face
+You look disgusted
+You look scared
+You made a surprised face
+[EmotionsVisualizer]
+Smile
+Neutral
+Sad
+Angry
+Disgusted
+Scared
+Surprise
+[WakeUp]
+Wake Up
+[LoadGame]
+Load Game
+[Endings]
+Endings
+[Settings]
+Settings
+[Languages]
+Languages
+[Quit]
+Quit
+[Exit]
+Exit
+[Back]
+Back
+[SummonToDesktop]
+SUMMON to desktop
+[Palettes]
+Palettes
+[Audio]
+Audio
+[MasterVolume]
+Master Volume
+[MusicVolume]
+Music Volume
+[SFXVolume]
+SFX Volume
+[Gameplay]
+Gameplay
+[TextSpeed]
+Text Speed
+[InstantTravel]
+Double click instant travel
+[Delete]
+Delete
+[Load]
+Load
+[Submit]
+Submit
+[Paused]
+Paused
+[SaveLoad]
+Save / Load
+[NewSave]
+New Save
+[Tasks]
+Tasks:
+[Addresses]
+Addresses:
+[TypeInText]
+Type in text
+[WhereTo]
+Where To?
+[UnknownLocation]
+Unknown Location
+[NewPalette]
+<i>You've unlocked a new palette:
+[NewTask]
+<i>You have a new task: 
+[AcquiredVariants]
+You have found
+You acquired
+You got 
+[Valve]
+A Wheel
+A piece of strange machinery
+[MarthaKey]
+Martha's Keys
+Keys from Martha's apartment
+[Trash]
+(null)A Trashbag
+It's full
+[Manual]
+A Note to self
+[Journal]
+Journal
+[Cigarette]
+A cigarette
+Just a regular cigarette
+[LockerKey]
+Locker Key
+Key from Tanya's locker
+[AnotherReel]
+The other reel
+The other one. It says <i>Lila</i>
+[TrashTask]
+Throw out trash
+[SchoolTask]
+Grab a bus to school
+[FindMarthaClassroomTask]
+Find Martha's classroom
+[MarthaTalkTask]
+Talk to Martha on the roof
+[GetMarthaAddressTask]
+Find Martha's apartment keys and address 
+[GoToMarthaTask]
+Get to Martha's apartment
+[TalkToStrupnevTask]
+Talk to Strupnev
+[GoToDepotTask]
+Get to the old depot
+[FindCallerTask]
+Find the second caller
+[GoHaveFunTask]
+Go have fun, dummy!
+[BurntTask]
+Get into the burnt apartment
+
+[MarthasAddressName]
+Martha
+[SchoolAddressName]
+School
+[TrainStationAddressName]
+Train station
+[PartyAddressName]
+Party 
+[HomeAddressName]
+Home
+[BurntAddressName]
+???
+[TanyaAddressName]
+Tanya
+
+[MarthasAddress]
+12740 Birthwood St
+[SchoolAddress]
+3011 E Goth Blvd
+[TrainStationAddress]
+Baltimore Street station 11 W
+[PartyAddress]
+29271 Fairfox St
+[HomeAddress]
+9031 Oakman St
+[BurntAddress]
+Cortland St. ap. 33
+[SunshineCafeAddress]
+200 Grand Beaver Ave
+[TanyaAddress]
+2524 Clearmount Ave
+[RyibkinAddress]
+Ulitsa Lenina, 93
+
+
+[Wheel]
+X - The Wheel Of Fortune
+[DeathTarot]
+XIII - Death
+[PriestessTarot]
+II - The High Priestess
+[HangedManTarot]
+XII - The Hanged Man
+[FoolTarot]
+0 - The Fool
+[EmperorReversedTarot]
+IV - The Emperor (Reversed)
+[EmpressReversedTarot]
+III - The Empress (Reversed)
+[MoonTarot]
+XVIII - The Moon
+[TowerTarot]
+XVI - The Tower
+[SunTarot]
+XIX - The Sun
+[HighPriestTarot]
+V - The Hierophant
+[LoversTarot]
+VI - The Lovers
+[JusticeTarot]
+XI - Justice
+[JudgementTarot]
+XX - Judgement
+[StrengthTarot]
+VIII - Strength
+
+[Partygoer]
+Partygoer
+[Tenant]
+Tenant
+[Empress]
+THE EMPRESS
+[Hutchins]
+Ms. Hutchins
+[Martha]
+Martha Jennings
+[Regina]
+Regina Holmes
+[Jimmy]
+Jimmy Stew
+[Mike]
+Michael Graves
+[Frank]
+Mr. Frank
+[Ellie]
+Ellie Cooper
+[Hurley]
+Matt Hurley
+[William]
+William
+[Lila]
+Lila
+[Jachin]
+Jachin
+[Newsletter]
+Newsletter
+[Machine]
+Machine
+[Student]
+Student
+[Jay]
+Jay
+[Mandy]
+Mandy
+[Stranger]
+Stranger
+[Strupnev]
+Strupnev
+[FemaleOfficer]
+Police Officer
+[Radio]
+Police Radio
+[Lawrence]
+Father Lawrence?
+[DH]
+Officer Hutchins
+[Tanya]
+Tanya Kennedy
+[BC]
+Detective Fisher
+[Arby]
+???
+[???]
+???
+[Yu]
+Detective Yu
+[RyibkinChat]
++7 976 *** 33 22
+[MikeChat]
+Mike
+[WilliamChat]
+William Clarke
+[MarthaChat]
+Martha <3
+[EllieChat]
+Elie
+[TanyaChat]
+Me
+
+[Classrooms]
+Classroom #210
+Classroom #598
+Classroom #610
+Classroom #312
+Classroom #908
+[MarthaClassroom]
+Classroom #430
+[Janitor]
+(Frank)The boiler room's off limits, bud
+...
+I'm only joking, hello, Lila. 
+Did you get his call again?
+(null) What's it to you, old man?
+(Frank) No reason to be so hostile, Lila. 
+After all, you are the one who came here.
+...
+It's tricky not to get lost in the boiler rooms.
+But with years you start hearing a divine melody.
+Flutes and trombones and saxes from beyond.
+...
+It always comes from the place you seek.
+Listen for it.
+Just stand beside each door.
+And listen...
+Hehe
+By the way
+What are you planning to do about the lady?
+The lady that hides in boilers?
+(null, Angry) Don't talk of what you know nothing about, you old fool!
+(Frank) Hehe..
+$ToNeutral
+[Janitor2]
+He's waiting there.
+Listen for his holler.
+Just stand beside each door.
+And listen...
+[JanitorBack]
+(Frank) Back so soon? 
+Hehe...
+Listen carefully for there's divine music in the air.
+Just stand beside each door.
+And listen...
+
+[Death]
+{CloseEyes, 6}CLOSE YOUR EYES
+[SteamMachine]
+^DLG_Lila
+(Machine)Lila....
+^DLG_WhatAPleasantSurprise
+What a pleasant surprise....
+(null) Hello, William
+...
+(null, Irritated) You need to stop calling me on the phone. It's useless
+Will, I'll say this once
+(null, ScaredAngry)Your tricks are laughable, and even with.. her... help
+You are not getting back
+^DLG_IHaveSomethingForYou
+(Machine) I have something for you
+^DLG_PleaseTakeIt
+Please, take it..
+(null) Did you hear what I said?
+$GiveValvePrepare
+
+[Potted]
+A potted plant
+Despite Ms. Hutchins' efforts, it's dying
+
+[EllieCooper]
+$SaveAuto
+(Ellie) Oh... Hello?
+(null) Hey there
+(Ellie) Sorry, do we know each other?
+(null) ...
+(Ellie) Wait, weren't you at that party?
+Umm, at the Matt's party, about a month ago?...
+Yeah, we talked there, remember?
+(null)<i>She probably means the party at 29271 Fairfox St</i>
+$PartyAddress
+<i>You were there, but you don't know who this is</i>
+{IWas, 1, Surprised, 12} Sure, I remember you
+
+[EllieBelieve]
+(null)<i> Ellie believes you </i>
+(Ellie)How have you been? 
+Have you heard by the way? 
+That girl I was with at the party, Tanya, Tanya Kennedy. 
+Nobody seems to know where she is.
+(null, SlightlyScared) Is that so?
+(Ellie) Uh-huh. I've seen the police car outside and...
+it's a secret, but Martha Jennings's at the principal's now.
+(null)...
+(null, Neutral) What's her classroom number by the way?
+(Ellie) Martha's? it's..
+Wait, why are you asking? She isn't there right now anyway.
+{WaitForHer, 8} I just want to wait for her there.
+
+[EllieNormal]
+(Ellie) Well yeah, makes sense, haha
+It's #430, the door near this one, actually.
+(null, Surprised) Huh? Are you sure?
+(null, Neutral) I think, I've definitely tried that one...
+(Ellie) Heck yeah, I'm sure! Just check the sign near the door.
+$KnowClassroom
+$ToNeutral
+
+[EllieSad]
+<i> This looked a bit weird </i>
+(Ellie) You ok? Has something happened between you two?
+(null)<i> She looks like the gossipy type </i>
+<i> You decide to put on a show </i>
+No, I mean... 
+(null, FakePain) How could she - she's been avoiding me for all these days..
+Yes, we broke up, but poor Kennedy's missing! We have to talk, I-I..
+(Ellie) Wait, y-you dated?!
+(null)<i> You did not </i>
+Oh, but it's a secret... I need to see her, honestly.
+(Ellie) Oh I get it...
+Of course, of course, <i>I understand..</i>
+It's #430, the door near this one, actually.
+$KnowClassroom
+$ToNeutral
+
+[EllieSoftLock]
+<i> This looked really weird </i>
+<i> Ellie looks almost frightened </i>
+(Ellie) I'm sorry... I-I don't feel comfortable talking to you.
+Could you leave, please?
+...
+(null, Neutral) ...
+(null, AwkwardSmile) sure
+<i> You feel, you won't find out where Martha's classroom is</i>
+(null, Neutral)<i> Hint: Check the autosave
+$ToNeutral
+
+[EllieDisbelief]
+(Ellie) You sure? What's my name then?
+{Laura, 7} Laura Hayward
+
+[LauraSmiled] 
+(null, SincereSmile) ...
+I mean, haha, I don't really remember, I'm sorry.
+(Ellie) pfft, Laura who? It's alright dude,
+my name's Ellie, Ellie Cooper.
+(null) Hahah, ohh, right, I remember now
+>EllieBelieve
+
+[NoNeedToTalk]
+<i> There's no need to talk further </i>
+
+[LauraWeird]
+<i> It looked strange</i>
+(Ellie) What?... No, dude, it's Ellie.
+It's fine if you don't remember, why'd you lie?
+(null) Umm.. I'm sorry
+(Ellie) I said it's fine.
+Did you want something?
+(null) No, I... 
+(null, AwkwardSmile) Where's Martha Jennings' classroom?
+>EllieSoftLock
+
+[Friends]
+$SaveAuto
+(Regina) Will?
+Is that you?
+(null, SubtleSmile) Hello, everyone
+(Jimmy) What the hell do you think you're doing here?
+(Regina) Jimmy, wait..
+Will, where have you been? 
+Where's Tanya?
+(null)<i> Without you noticing, your face is stretching into a stupid grin </i>
+{Huh, 0, Smile, 12} Huh? Tanya?
+
+[FriendsWeird]
+<i> It looked strange </i>
+$ToNeutral
+(Jimmy) Yeah, dude, Tanya. Quit fucking around,
+Do you know something?
+(Regina, Worried) Will, she's been missing for some time now.
+Martha said you might know where she is.
+(null) Oh, so <i>Martha</i> said that, huh?
+(Jimmy) Yeah dude, and now she's at the principal's, probably telling him the same thing
+(Regina, Neutral) Right
+He wants to see you too, by the way, Will.
+(null, SubtleSmile) Welp, I'll be on my way then
+(Jimmy) Hey what the hell?..
+we aren't finished with..
+(Regina, Concerned) Will, please wait...
+$ToNeutral
+$FindMarthaClassroomTask
+
+[FriendsSmile]
+(Regina, Neutral) I'm not joking, Will
+(Regina, Worried) She hasn't been answering her phone,
+She's not at home either. 
+(Jimmy) Her mom called us
+(Regina) I think the police are involved or something, because Martha is at the principal's office right now. 
+{IsShe, 6} Is she?
+
+[IsSheSmiled]
+$ToNeutral
+(Regina, Concerned) ...
+What's going on, Will?
+Do you know something we don't?
+(Jimmy) Of course he fucking knows
+Martha's told us all about you two.
+...
+I knew you'd fuck everything up ever since Tanya met you at that Matt's party
+(Regina, Bitter) Jim, could you stop? You aren't going to help us get any new info that way.
+(null, SubtleSmile) Oh, so playing detectives now, are we?
+(Regina) No, it's.. It's not like that, Will.
+(null, Neutral) No-no, I get it. The trouble is, I don't know where Tanya is, my friends.
+(Jimmy) Oh, for fuck's sake, dude..
+(null) You know, if I'm being frank here
+(null, SubtleSmile) You guys don't have to be so nosy
+{NeedsTime, 0, Smile, 10} Maybe she just needs some time alone?
+
+[IsSheAngry]
+$ToNeutral
+<i> Your friends noticed that </i>
+(Regina, Concerned) Hey... You alright?
+Did something happen between you two?
+(null) Well, yeah, guess what
+First the bitch spreads some weird rumours about me and Tanya
+Then goes to the principal and is probably saying some more made up shit there
+How else am I supposed to feel?
+(Jimmy) Don't call our friend a bitch, you dickhead.
+(Regina, Worried) Jim..
+(Jimmy) I don't think he gets it, Regina.
+Will, buddy, wake up. You think we are your friends? You think that because you were able
+to fool Tanya somehow, we'll start liking you too?
+Well, no, sorry, no chance.
+(Regina, Bitter) Jim, stop it right now!!! I-I can't...
+(Jimmy) Oh, come on! Don't act like you don't think the same.
+(Regina) It's... I am so sorry, Will, don't listen to him, he's just upset. Like all of us.
+That's why we need to know where Tanya is, do you get it?
+(null) Oh, no need to apologise. I get it now. Sorry for the bother,
+I think I'll be on my way.
+(Jimmy) Good idea, bud
+(Regina, Concerned) <i> Whispering </i> And how are we supposed to get the info now, idiot?
+(Jimmy)...
+$FindMarthaClassroomTask
+
+[IsSheWeird]
+<i>It looked strange</i>
+$ToNeutral
+(Jimmy) Yeah-yeah...
+Look, man, I know we didn't spend much time together lately,
+but.. uhh.. We really need everything you know about Tanya
+(Regina, Worried) <i> Don't be that straightforward about it </i>
+But yeah, the gist of it is - we are very worried about her, Will. 
+Please, could you tell us where she is?
+(null) I swear, I don't know. Why do you think I spent time with her anyway?
+Martha's known for making up stuff
+(Regina, Concerned) That's not true
+(Jimmy) Yeah, easy on the accusations.
+(null) Look, guys, why are you so bothered by it anyway?
+{NeedsTime, 0, Smile, 10} Maybe she just needs some time alone?
+
+[FriendsSurprise]
+(Jimmy) What, you want to say you don't know?
+$ToNeutral
+(null) What's going on guys?
+(Regina, Worried) ...
+She's missing
+(null) Who's missing? Tanya?
+(Regina, Neutral) Yes, she hasn't been going to school
+She's not answering her phone either
+(null) How long?
+(Jimmy) Don't try to pretend you aren't involved in this! 
+Martha's told us what's up with you and Tanya.
+(Regina, Worried) Jim, stop...
+We haven't heard from.. Tanya for about a week now
+{NeedsTime, 0, Smile, 10} Maybe she just needs some time alone?
+
+[NeedsTimeInsencere]
+<i> This came out insincere </i>
+(Jimmy) Do you yourself even believe this?
+We know Tanya for much longer than you do, she's not like that, you know
+(null) Maybe you need to chill and let her live her life, man
+(Jimmy) Maybe <i>you</i> need to stop fucking around and tell us where she is
+(Regina, Worried) Jim...
+>WhereIsMartha
+
+[NeedsTimeSmiled]
+<i> This came out insincere </i>
+(Jimmy)  ...
+Do you think this is funny?
+Look, bud, I'm not sure you noticed
+...
+We don't like you, ok?
+Ever since Tanya started hanging out with you, I knew it was a bad idea
+(Regina, Worried) Jim...
+(Jimmy) What, Regina? What am saying wrong here?
+Weren't you yourself just saying how weird this douche is?
+(Regina) I-it's.. Will, it's not like that
+(null) No, it's alright, I understand.
+...
+I can't help you, though, unfortunately.
+(null, SubtleSmile) Believe it or not, I, myself, didn't even know Tanya was missing.
+(Jimmy) Oh, fuck off!
+(Regina, Bitter) Jim, STOP THIS
+(Jimmy) I don't know, Regina, something fucking happened to Tanya, and this fuck's just grinning like nothing's wrong
+(Regina) I can't take it anymore, j-just shut up
+Why am I always the only one doing all the work, while you just act like an asshole?!
+(Jimmy) Oh so I'm the asshole now, what about...
+(null) <i> Listening to your friends bickering fills your heart with sadness </i>
+<i> You decide to scram </i>
+$ToNeutral
+$FindMarthaClassroomTask
+
+
+[NeedsTimeSincere]
+<i> Your friends seem to believe you </i>
+(Regina, Concerned) It's so unlike her, though 
+(Jimmy) Dude, whatever, 
+we've discussed it a thousand times already
+It's been six days, something definitely happened to her.
+(Regina)...
+Look, Will
+I know we haven't hanged out too much lately
+But you have to know something.
+Something is wrong, I can feel it.
+We all know you were together for a while
+...
+Behind Mike's back
+We don't judge you, but we have to know where she is, Will
+Please
+(null, Neutral) I...
+(Jimmy) You fucked her, didn't you?
+(null) What?
+(Jimmy) You fucked Tanya, didn't you, Will? On Matt's party?
+Martha told us all about you two
+>WhereIsMartha
+
+[WhereIsMartha]
+(null) ...
+Where is Martha, by the way?
+(Jimmy) That's not important, asshole.
+(Regina) Jim...  The principal wanted to see her.
+So Will, 
+are you saying you don't know where Tanya is?
+(null) Nope
+...
+So Martha's at the principal's now?
+(Regina) I think he's already finished with her.
+Big Graves sayd he's seen her on the roof.
+Oh, right,
+He wanted to see you too, by the way
+Anyway, what about...
+(null) Good.
+I'll be on my way then
+(Jimmy) Hey, wait a minute..
+(Regina) Will, wait!
+$FindMarthaClassroomTask
+
+
+[Matthew]
+That's Matthew's locker
+It's locked.
+[Graves]
+This locker belongs to Michael Graves.
+It's locked.
+[PizzaBox]
+An empty pizza box with some crumbs
+[SpilledBeer]
+The spilled beer reeks
+...
+I tried to wipe it with the newspaper
+[TanyaPrize]
+(null)An award granted to Tanya Kennedy for
+National recognition to academic excellence and achievement in secondary education
+<i> I remember her telling me about this </i>
+<i> Too bad I didn't get to see it back then </i>
+[MarthaPrize]
+An award granted to Martha Jennings
+as recognition that the aforementioned student has studied and attained proficiency 
+in two or more languages by high school graduation.
+[MatthewPrize]
+(null)An award granted to Pablo Ramirez
+who has shown tremendous growth,
+demonstrated an unusual commitment to learning in academics despite various obstacles...
+<i> Yeah, and so on </i>
+[CantRideTrash]
+(null)I need to take out the trash first.
+[HaveToTakePhone]
+(null)I have to answer this
+[BlueVelvet]
+(null)<i>"Blue Velvet"</i> by David Lynch
+The only cool thing in this apartment
+[Heathen]
+(null)A strange mushroom-looking midget is depicted on this poster
+<i>"Garage Heathen"?</i>
+The hell is that?
+[MarthasBed]
+Martha's bed
+(null)The sheets are unmade
+Such a <i>bad</i> girl
+[MarthaPants]
+Underwear drying.
+They produce an indecent smell of wet fabric
+Does this girl have any shame?
+[MarthaStage1]
+I'll have to wait
+[MarthaStage2]
+She'll come at some point
+[MarthaStage3]
+...
+[MarthaStage4]
+It's evening
+
+[Call2]
+^DLG_Lila_Please
+Lila.... Please
+^DLG_I_Beg_You_Let_Me_Back_In
+I beg you, let me back in
+$UnPauseCurrent
+$SaveAuto
+
+[KitchenNewsPaper]
+(Newsletter)On Saturday afternoon, November 12, at 1 p.m. a fire has erupted
+in an apartment building on Cortland St. ap.(<i> Unintelligible </i>)
+killing all its inhabitants. The apartment was 
+alledgedly used by a group led by Mr. La(<i> Unintelligible </i>)
+As the Police are investigating the case, access to the site is currently restricted.
+[Crow]
+(null)A dirty crow
+...
+I'm not going to scare it away
+[Crow2]
+(null)I know why you're here
+[AbandonedHouse]
+(null)No one lives in that house anymore
+Although derelict, the place is charming in its own way
+We took Tanya there once
+$NightlyComfortsUnlock
+[BathroomMushrooms]
+(null)No need for these anymore
+[Scene1Phone]
+(null)I'm not expecting any calls today
+[Scene1Phone2]
+(null)Broken. 
+Why is it still here?
+[Entry]
+(null)...
+It's difficult for me to express emotions. 
+I envy other people. They make faces naturally, 
+but I have to make a conscious decision each time I move a muscle.
+Every morning I go to the bathroom to rehearse what my face is going to show today. 
+
+[NoTrash]
+(null)I need to get the trashbag first
+[ThrewTrash]
+(null)Alright, now I'm ready to go
+$SchoolTask
+
+[Silence]
+...
+[Tutorial]
+(null)When I see Ms. Hutchins today, she will ask how I am, like every morning.
+{TutorialSmile, 13} I will answer Good, thank you.
+
+[TutorialSmile]
+$ToNeutral
+If I see a dead dog on the street, 
+{TutorialDisgust, 16}I'll make a face like this 
+
+[DeadDog]
+$ToNeutral
+...
+Yet some avert their eyes
+>TutorialDisgust
+
+[TutorialDisgust]
+$ToNeutral
+If some weird guy aprroaches me at the store, I'll scare him away  
+{TutorialAnger, 10}with an angry face
+
+
+[TutorialAnger]
+$ToNeutral
+If I discover that my sworn enemy died, I'll make 
+{TutorialSadness, 13}this face
+
+[TutorialSadness]
+$ToNeutral
+If someone catches me off guard with an unexpected call
+{TutorialSurprise, 16}I'll make this face
+
+[SwornEnemySmile]
+$ToNeutral
+Right
+No need to hide it
+>TutorialSadness
+
+[TutorialSurprise]
+$ToNeutral
+And if once again see the one
+<i>hiding in boilers</i>
+
+{TutorialFear, 22}I'll be afraid
+
+[TutorialFear]
+$ToNeutral
+...
+Well, but that's unlikely, isn't it?
+...
+I have to take out the trash before going to school
+Haven't appeared there for a while
+$GotThroughTutorial
+$ThrowTrashTask
+[TutorialElse1]
+No, this doesn't look right...
+$TutorialToPreviousEmotion
+
+[TutorialElse2]
+Hmm...
+Maybe I should try one more time
+$TutorialToPreviousEmotion
+
+[TutorialElse3]
+No, that's not the face I'd make
+$TutorialToPreviousEmotion
+
+[TutorialElseFear]
+No...
+>TutorialFear
+
+[MirrorEnd]
+...
+That's <i>me</i> huh
+
+[Phonecall]
+$StopPhone
+(???) Hey, man
+...
+Why aren't you answering the phone they gave you?
+...
+Anyway, have you heard?
+Father Lawrence is dead.
+Meet me at the train station
+$PlayPhone2
+$AddTrainStation
+
+[HutchinsStart]
+(Hutchins) Hi, sweetie!
+{HutchinsReact, 6} Hello, Ms. Hutchins
+
+[Smiled]
+$ToNeutral
+(Hutchins) What're you up to so early in the morning?
+(null) Just throwing out the trash, Ms. Hutchins
+(Hutchins) There has been an awful lot of crows near our trash cans,
+...
+annoying critters.
+(null) ...
+I'll be on my way, Ms. Hutchins
+(Hutchins) Take care of yourself, sweetie!
+
+[Neutral]
+$ToNeutral
+(Hutchins) You look way too serious, my boy
+What's on your mind?
+(null) Oh, it's nothing, Ms. Hutchins
+Just under the weather, I guess.
+(Hutchins) If you see the crows on the trashyard again, could you scare them off for me?
+(null) Sure..
+I'll be on my way then
+(Hutchins) See you, dear!
+
+[Sad]
+(Hutchins) What's with you, my boy?
+Are you all right?
+(null) ...
+yeah
+(Hutchins) Some trouble at school again?
+If you need to tell me something - I'm all ears
+(null) It's alright, Ms. Hutchins
+(Hutchins) Oh, I'm sorry. I just want to help you, sweetheart.
+Since your mother passed away you've always been so quiet and
+seemed isolated
+(null) ...
+(Hutchins) Oh I'm sorry, my boy. Don't listen to the dumb old Ms. Hutchins
+(null) You're not that old, Ms. Hutchins
+(Hutchins) Oh, you are too sweet!
+Anyway, you probably need to hurry up now. School's already started, hasn't it?
+
+[Weird]
+(null)<i> That didn't really suit what you were saying </i>
+<i> Ms. Hutchins noticed that </i>
+(Hutchins) A-are you alright?
+...
+William?
+(null) ...
+I'm fine
+
+[HurleySchool]
+(Hurley)Hey man
+Strange seeing you here
+Hehe
+Finally decided to catch up on your education? 
+{HurleySchool, 6} Yeah, kinda
+[HurleySmile]
+(Hurley)The hell you're grinning about?
+$ToNeutral
+Mike's been looking all over for you
+You know why
+If were you, I'd stay away from school
+I'd watch my back, Will
+[HurleyNeutral]
+(Hurley)You know
+Mike's been looking all over for you
+...
+We both know why
+I'd watch my back if I were you, Will
+[HurleyDisgusted]
+(Hurley)<i>Hurley noticed that</i>
+The hell's wrong with you face, freak? 
+$ToNeutral
+[HurleyScared]
+$ToNeutral
+<i>Hurley noticed that</i>
+(Hurley)You know, Will,
+It wasn't a good idea to come here today.	
+You know why, don't you?
+[HurleyAngry]
+(Hurley)Hey hey calm down
+hehe
+You know I'm not involved.
+$ToNeutral
+But I'd try to stay away from Mike today if I were you
+[HurleySad]
+<i>Hurley looks contemptuous</i>
+(Hurley) The hell you're making that face for?
+...
+If you know what's coming for you, why'd you come here in the first place?
+Freak
+$ToNeutral
+[HurleySurprised]
+<i>Hurley is confused</i>
+(Hurley) The hell's wrong with your face?
+$ToNeutral
+[HurleyOk]
+(Hurley)...
+[HurleyMad]
+(Hurley)The hell do you want?
+
+[MarthaRoof]
+$CompleteMarthaTalkTask
+{HelloMartha, 6} Hello, Martha
+[MarthaRoof2]
+$AutoSaveRoof
+(null)<i> Martha looks frightened </i>
+(Martha, Scared) I.. uh
+(Martha, Smile)What are you doing here, Will?
+(null, SubtleSmile) I wanted to talk to you about something, Martha
+(Martha, Neutral)Have you been to the principal's?
+(null, SubtleSmile) No
+(null, Neutral)I know you have
+(Martha, Scared)What do you want, Will?
+(Martha, Neutral) I know you were the last person to see Tanya
+that's all
+(Martha) Do you think, we don't know what was happening between you two?
+(null) Have you talked to the officers yet?
+(Martha) Why do you..
+(null, Smile) <b>ANSWER</i>
+(Martha, Scared) Y-yes! Yes I did, but I didn't tell them much yet.
+I think a certain detective wants to see me tomorrow.
+(null, Neutral) Name?
+(Martha) I-I don't know, I can only remember it's Asian..
+Something like detective Yu, I'm not sure...
+(Martha, Neutral)Anyway, why do y...
+(null, Neutral) It's really not good to spread rumours, Martha.
+That's a sign of a very
+(null, SubtleSmile)very bad friend
+(Martha, Scared) W-what? 
+What are you talking about?
+Are you alright? Wh-what's going on, William?
+$MikeCome
+(null, SubtleSmile) Well, I'll tell you, what's going on, Mar...
+(Mike, Angry) Hey, asshole!
+$Greet
+{HelloMike, 6}Oh, hi, Mike
+
+[MikeScared]
+(null)<i> Mike can see you are frightened of him </i>
+<i> He relaxes a bit </i>
+$ToNeutral
+(Mike, Angry) I've been looking for you, freak
+(Mike, Neutral)Where's Tanya?
+{HowWouldIKnow, 9} How would I know that, Mike?
+
+[MikeAngry]
+(null)<i> This made Mike more alert </i>
+<i> He tenses up </i>
+$ToNeutral
+(Mike, Neutral) I've been looking for you
+Where's Tanya?
+(null, SubtleSmile) Was that why you were looking for me this morning?
+(Mike, Angry) Cut the crap, where is she?
+{HowWouldIKnow, 9} How would I know that, Mike?
+
+[MikeWeird]
+(null)<i> It looked weird </i>
+<i>Mike is more alert now</i>
+$ToNeutral
+(Mike, Angry) I've been looking for you, freak
+(Mike, Neutral)Where's Tanya?
+{HowWouldIKnow, 9} How would I know that, Mike?
+
+[MikeSmiled] 
+(null)<i> it looked very friendly </I>
+<i> Mike can see you are trying to pacify him </i>
+<i> He relaxes a bit </i>
+$ToNeutral
+(Mike, Angry) We gotta talk, man
+(null, SubtleSmile) Well let's talk then, Mike
+Was that why you were looking for me this morning?
+(Mike, Neutral)Where's Tanya?
+{HowWouldIKnow, 9} How would I know that, Mike?
+
+[HowWouldIKnowScared]
+(null)<i> Mike notices you are scared of him </i>
+<i>He feels more confident</i>
+(Mike, Neutral) Just fucking answer, dude
+I don't have time for this
+Are you going to start talking or do you want it to be like last time?
+(null, Scared2) ...
+(Mike, Angry) What's with the silent treatment?
+Spill it, freak
+Or do you want to get beat?
+Huh, you want it?
+{DontWantBeat, 8} No
+
+[DontWantBeatScared]
+<i> Mike relaxes a bit </i>
+(Mike, Neutral) Well then, it's in your interest to tell me
+Where the hell my girlfriend is.
+Did I express myself clearly?
+(null, Scared) Yeah
+(Mike, Angry) Well where the fuck is she then?
+(null)...
+(null, SlightlyScared)...
+I-I don't know
+(Mike) What was that?
+{DontKnowScared, 1, Angry, 10} I said, I don't know
+
+[DontKnowScared]
+$MikeComeCloser
+(Mike, SubtleSmile) I'm not sure you're aware, William
+But I happen to know about the little thing you did with Tanya
+Behind my back
+(null) I..
+(Mike, SubtleSmile) And the only thing
+Keeping me from tearing <i>your fucking head off</i>
+(Mike, Neutral) Is the fact that you know where she is.
+...
+Now
+Do you know where she is? 
+Tell me, buddy
+(null)<i> Mike is now sure you are too scared to defend yourself </i>
+{IReallyDont, 2, SubtleSmile, 14} I really don't know
+
+[DontKnowBrave]
+<i> Mike tenses up </i>
+>DontPretendTough
+
+[IReallyDontScared]
+(Mike, SurprisedSmile) Well I guess there's just on thing left to do, buddy
+(Martha, Scared) Mike, please, wait!
+(Mike, Angry) C'mere, punk
+(null)<i> Mike is sure you are defenceless </i>
+(null)<i> This is your chance </i>
+$WillWin
+
+[DontWantBeatBrave]
+<i> Mike tenses up </i>
+>DontPretendTough
+
+[HowWouldIKnowNeutral]
+<i> Mike's demeanor stays the same </i>
+>DontPretendTough
+
+[DontPretendTough]
+(Mike, Neutral) Don't pretend you're tough
+...
+(Mike, Angry)Look, if you don't want me to beat the shit out of you
+You better start talking.
+(null, Neutral) Calm down, Graves.
+What are you, a child?
+You do realise you'll get in trouble for violent behaviour again
+(Mike, SurprisedSmile) Well, that's new
+(Mike, Neutral) What, are <i>you</i> gonna tell on me? 
+Look buddy, I don't care much at this point.
+I'll fucking quit school if it means finding Tanya.
+(null, Neutral) ...
+Would you go to court too?
+(Mike, Angry) The fuck you are talking about?
+(null, Neutral) The cops are here, 
+Isn't that so, Martha?
+(Martha, Scared) I talked to a police officer today, yes. 
+(Martha, Neutral)They must still be here
+(Mike, Pissed) I said, I don't give a shit!
+Tanya's gone, and she went missing after she went to your place.
+Martha's told us.
+{ThatsNotTrue, 1, Angry, 8} That's.. not true
+
+[ThatsNotTrueCalm]
+(Martha) It is true though, Will
+Come on
+(Martha, Smile)I know everything about Tanya. We are best friends after all
+>WhereIsSheFreak
+
+[WhereIsSheFreak]
+(Mike, Neutral) Where is she, freak?
+I don't even care she cheated
+I...
+I need to know she's fine first
+{WeDidntHaveAThing, 8} We didn't hook up though
+
+[ThatsNotTrueWeird]
+(null)<i> This looked weird </i>
+<i> Mike tenses up </i>
+(Mike, Neutral) Yeah, right
+>WhereIsSheFreak
+
+[ThatsNotTrueScared]
+$MikeComeCloser
+(null)<i> Mike notices you are scared of him </i>
+<i>He feels more confident</i>
+(Mike, Angry) Just answer me, man
+I'm telling you, I'm not that patient
+(null, Scared2) ...
+(Mike, Angry) What's up? Cat got your tongue?
+Spill it, freak
+Or do you want to get beat?
+Huh, you want it?
+{DontWantBeat2, 1, Smile, 10} I don't
+
+[DontWantBeat2Scared]
+>IReallyDontScared
+
+[DontWantBeat2Brave]
+<i> Mike tenses up </i>
+>WhereIsSheFreak
+
+[HowWouldIKnowSmiled]
+(null)<i> Mike tenses up </i>
+(Mike, Angry) Where the fuck is my girlfriend?
+(null, SubtleSmile) I'm not sure I know what you're talking about
+(Mike, Angry) Get that smug-ass smile off your face asshole!!
+First she gets with you behind my back
+Next thing I know she's missing.
+A whole fucking week, dude
+It just can't be that you don't fucking know
+{WeDidntHaveAThing, 8} We didn't have a thing, you know.
+
+[HowWouldIKnowWeird]
+(null)<i> Mike tenses up </i>
+$ToNeutral
+(Mike, Angry) Where the fuck is my girlfriend?
+(null, SubtleSmile) I'm not sure I know what you're talking about
+(Mike, Angry)Yeah right
+First she gets with you behind my back
+Next thing I know she's missing.
+A whole fucking week, dude
+It just can't be that you don't fucking know
+{WeDidntHaveAThing, 8} We didn't have a thing, you know.
+
+[WeDidntHaveAThingScared]
+(null)<i> Mike sees you're frightened </i>
+<i> He relaxes a bit </i>
+(Mike, Angry) Who are you trying to fool here, bud?
+We all saw it.
+(null, SubtleSmile) Martha saw it, not you
+(Mike, Neutral) Look, dickhead, 
+I'm not sure why I have to explain this, but if it's her word against yours, 
+I'd rather believe my best friend than a weirdo like you
+(null, SlightlyScared) You are making a mistake, Graves
+(Mike, AngrySad) Look, man, I don't even give a fuck by now, just tell me where she is
+I can't
+I can't fucking deal with it
+{MarthaLying, 2, Angry, 12} Martha's lying to you
+
+[WeDidntHaveAThingSincere]
+<i> This looked sincere </i>
+<i> Mike is almost confused </i>
+(Mike, Angry) The hell do you mean?
+Martha told me...
+(null, Neutral) She's lying about us
+(Martha, Angry) I'm not!!!
+(null, SubtleSmile) You know, what we hate most in this company?
+(null, Neutral)We hate rats.
+Isn't that so, Graves?
+<i> Mike is confused </i>
+(Mike, Neutral) Dude, quit it. Martha's a friend.
+She'd never lie to us. Right?
+(Martha, Angry) Of course I wouldn't! Why are you doing this, Will?
+(Martha, Neutral) I've seen you two at the party, when.. you know.
+And I know Tanya went with you.
+And that's when you both disappeared.
+Why won't you tell us what happened?
+{CantTrustYou, 1, Smile, 8} I just don't think I can trust you, guys
+
+
+[MarthaLyingNotConfident]
+<i> This didn't look confident </i>
+(Martha) I'm not! What is your problem?
+(null, Neutral) ...
+(Mike, Angry) Stop trying to confuse us, man
+Really, the fuck're you doing this for?
+(Mike, Neutral) I'm telling you man, all we want is to find Tanya, 
+I don't even give a shit if you.. You know
+(Mike, AngrySad)I need to know she's ok
+{CantTrustYou, 1, Smile, 6} I just don't think I can trust you, Mike
+
+[MarthaLyingConfident]
+<i> Mike is even more stressed </i>
+(Mike, Angry) Stop picking on Martha, dickhead
+It's not what this is about
+(null, SubtleSmile) What is it about then, Mike?
+<i> Mike is trying really hard to compose himself </i>
+(Mike, Neutral) Look. Look.
+(Mike, AngrySad)...
+(Mike, Neutral) I'm not sure why you are trying to provoke me
+But dude.
+Ok.
+I'll say it, I'm sorry.
+I'm sorry for f..
+For treating you the way we've been treating you. I may have been over the top.
+But I really, <i> really </i> need this info
+{CantTrustYou, 1, Smile, 6} I just don't think I can trust you, Mike
+
+[WeDidntHaveAThingSmiled]
+$MikeComeCloser
+(null)<i> Mike tenses up </i>
+(Mike, Angry) Yeah right you ass, as if I can't see you smiling
+(Mike, AngrySad) Look, man, I don't even give a fuck by now, just tell me where she is
+I can't
+I can't fucking deal with it
+...
+(null, FakeWorried) Damn, Mike, are you ok?
+You know
+I am really starting to think you really were not the best partner for Tanya
+(null, Smile2) Even if I had information, I don't think it would be the best idea to share it with you, buddy
+(null)<i> Mike is furious </i>
+(Mike, Angry) THE FUCK YOU JUST SAID??
+{CantTrustYou, 1, Smile, 6} I just don't think I can trust you, Mike
+
+
+
+[CantTrustYouNeutral]
+(Mike, Neutral) Don't act tough now.
+You know, it's your fault. And I know that too. It's just a matter of time until I find out where she is.
+(null) You won't
+(Mike, Pissed) Huh??
+(null) At least if you keep acting like this, you won't
+(Mike, Neutral) ...
+Yeah. Maybe you're right.
+...
+(Mike, SubtleSmile) But even if you say so, nothing's stopping me from beating the shit out of you till you talk.
+(Martha, Scared) Mike!..
+$Beatup
+
+[CantTrustYouWeird]
+$ToNeutral
+(null)<i> Mike is pissed</i>
+(Mike, Angry) Are you making fun of me? You think this is fucking funny?
+Look, you freak, I'm giving you one last chance
+If you don't...
+(null, Smile) Your stupid threats don't scare me, bro
+You've been rambling about beating me up for the last five minutes,
+But all I see is all bark and no bite
+(Mike, SurprisedSmile) H-huh? Oh yeah, punk?
+(Martha) Big Graves, why are you listening to him? He's just provoking you.
+Will, do you <i>want</i> to get hurt?
+W-why are you doing this?
+(null, Scoff) Because he's just a chicken
+he can't even...
+$Beatup
+
+[CantTrustYouAngry]
+(null)<i> Mike is getting more pissed</i>
+(Mike, Angry) What's with the face? You wanna go, bro?
+(Martha, Scared) Mike!
+(Mike, Neutral) I can crush you like a worm. You can't be serious, dude. I'll fucking crush you.
+(null, SubtleSmile) Any follow up to your words?
+(Mike, SurprisedSmile) Are you for real? 
+What, have you forgotten the last time you tried to fight me?
+(null, Neutral) Do you mean that time when you saw me walking home with Tanya?
+Was that "trying to fight", in your eyes? 
+(Mike, Neutral) It wasn't like that, freak. Don't try to make a victim out of yourself.
+<i> Martha is almost crying </i>
+(Martha) Will, please, I'm asking you, just tell him what you know..
+He's not that bad, you have to understand how painful it is for him
+I know you've had your differences, but...
+(null, Neutral) Too bad.
+{IdontKnowAnything, 8} I don't know anything
+
+[CantTrustYouSad]
+(null)<i> Mike is trying to compose himself </i>
+(Mike, Neutral) Look, man, I know you've had your issues
+With showing emotions and empathy and stuff, and that we had our differences
+But please.
+You know I love this girl.
+...
+Please, tell me what you know, Will
+{IdontKnowAnything, 8} I don't know anything
+
+[IdontKnowAnythingWeird]
+<i>it looked weird</i>
+(Mike, Neutral) You're lying, aren't you?
+Say, Martha, what did I say immediately when Tanya introduced him to us?
+(Martha, Scared) Y-You don't have to do this, Mike
+(Mike, Neutral) I said - hope she doesn't hook up with that freak, didn't I?
+I could just smell it in you. Just in how you look and move around. How no one knew where you came from and how you had no friends.
+Tell me.
+Are you happy now? 
+(Martha, Scared) Mike, stop it, we don't even know know for sure he has anything to do with it!
+(null) ..oh
+(null, Smile) Oh, Martha, but wasn't it you who passed the word around?
+Because of you everyone and their mother knows about me and Graves' girlfriend.
+(Martha, Neutral) I...
+(Mike, Angry) She wasn't talking to you, freak. 
+And you don't have to be a detective to notice that something was wrong between you two.
+(null, Smile2) She loved me more than you
+(Mike, Angry) Shut up
+(null) And she had nice tits
+(Mike, Pissed) SHUT UP I SAID
+(null) She told me she's...
+$Beatup
+
+[IdontKnowAnythingSincere]
+<i> Mike seems a little calmer</i>
+(Mike, Neutral) ...
+Really?
+(null, Neutral) Yes. 
+Look, Mike, I'm as worried as you are. I know you guys don't like me that much,
+But we are all in it together. We'll find Tanya.
+Don't worry about it, the Universe has better plans for you
+(Mike, Angry) Don't give me that shit. I'm not forgiving you two for what you did behind my ba..
+(Mike, Neutral)Wait, what did you say?
+(null, Neutral) I said we'll find Tanya.
+(Mike, Neutral) No, no after that
+You said <i>the Universe has better plans for you</i>
+You did, didn't you?
+(Mike, Angry) That's what she always said, 
+...
+(Mike, Pissed) You are doing this on purpose, aren't you?
+F-ffucking freak.
+(null, SubtleSmile) So is that how you were planning on finding out where she is? 
+By calling me a freak? 
+I knew, I couldn't trust you, Graves.
+(Mike, Angry) W-what??
+So you just tricked me, you fuck?
+You did, didn't you?
+(null) ...
+(Mike, Pissed) Y-YOU
+$Fall
+
+[IdontKnowAnythingSmiled]
+(null)<i> Mike is even more pissed now </i>
+(null, Neutral) Also, Mikey, talking about differences,
+I don't think the way you and your pathetic friends pick on me every time I stumble on you -
+I don't think the word "differences" is a good way to put it.
+>PissOffMike
+
+[PissOffMike]
+(null, SubtleSmile) Hehe
+For all I know, Tanya may very likely be lying 
+strangled in some ditch near school
+...
+Kinda like Malcolm, you know?
+(Martha, Scared) ...
+(null)<i> Mike looks delirious </i>
+(Mike, Pissed) You..  You..
+How d...dare you 
+(null, SubtleSmile) Cute eyes he had, our little Malcolm.
+But I don't think I'll miss the kid.
+At the end of the day you got closer to Tanya because of his death, didn't you?
+I guess, you must have been over the moon when he d...
+(Mike, Pissed) I'LL KILL YOU
+(Martha, Scared) Mike, wait!..
+$ToNeutral
+$Fall
+
+[HospitalDialogue]
+(William) So, I've been meaning to ask you..
+When I'm not, like, visually imposing you, where do you go?
+(Lila) Haha... 
+Well, nowhere really. I just stop, you know
+being.
+(William) Oh
+Must be really scary
+(Lila) Ha hah
+Not really. You do it all the time too, Will
+When you lose consciousness or when you sleep without dreams.
+(William) So not existing is like being asleep?
+(Lila) It's not really "like" anything, as there isn't someone for whom it's "like something"
+"Not being" doesn't really happen to anybody per se.
+(William) Well, you just said it happens to <i>me</i> sometimes
+(Lila) It's very bold of you to assume that some <i>you</i> actually exists
+(William) ...
+(William, OldSmile)hehe...
+But Lila, you aren't making any sense now. <i>I am</i> here, <i>I'm</i> talking to you
+(Lila) Is that so? And how would you describe that "<i>I</i>""
+(William, Neutral) Umm, I.. I don't know, like
+(William, Confused)Like I'm young and maybe overanalysing, and..
+And I really like lemon soda, and I broke my knee when I was in kindergarten
+(Lila) So you are your personality and your memories? Is that what you are trying to say?
+(William, Confused) Yeah..
+$ToNeutral
+$GoBackHospital
+
+[HospitalDialogue2]
+(Lila)You see, Will, there's a problem with what you just said.
+(William) Oh yeah?
+(Lila) Yes. Let's pretend for a moment you're right
+and <i>you</i> really are your personality, memories and so on.
+...
+But isn't the one listening to me right now - also you?
+(William) Huh? Sure.
+(Lila) And the one seeing me is you. And the one feeling all the different things is you.
+Let's call this <i>you</i> the perceiver.
+(William) Uh-huh
+(Lila) We like to imagine the perceiver as a pupil of an eye. The perceiver may cast his gaze upon anything -
+colors or sounds, touch or feelings. But how do you imagine it looking at itself directly?
+(William) A mirror?
+(Lila) Oh I wouldn't trust the mirror, my dear William. 
+The ghosts on the other side may only look like us.
+(William) So, alright, in that sense it really can't. 
+The pupil can never see itself. So what?
+(Lila) 
+...
+It means that whatever the pupil can perceive is not it. 
+You can analyse your memories and your personality, yet the real perceiver always stays in the shadows.
+One of his human names is the Prince,
+Although he doesn't really <i>have</i> a name, of course.
+$ToNeutral
+$GoBackHospital
+[HospitalDialogue3]
+(Lila) In that sense, there isn't really a difference between you and other people, Will
+(William) Huh? What do you mean?
+(Lila) For you - where do other people exist? I mean, their minds, memories and so on?
+(William) In their heads?
+(Lila) Wrong. You have no ability to see what's inside someone's head.
+To you people are a fictitious creation - a number of expectations generated from their actions,
+a phantom existing exclusively in your head. 
+(William) ...
+(Lila) And the funny thing is - your own personality is too.
+(William) What? I'm real, Lila. Even if other people may be imagined by me, my own character is...
+(Lila) What's the definition of imaginary?
+(William)  ...
+(William, SlightlyScared)Something that exists just in my mind?
+(Lila) And where does you personality reside?
+(William)...
+I...
+(Lila) It's alright, my sweet William.
+You, your memories, your mind - these are only temporary shards of colored glass. 
+The Visioner, the Perceiver, the Prince may only look through them and imagine for a moment that he <i>is</i> these shards.
+He never truly becomes them and it's surprising, how quickly he may look away from one to another.
+...
+Remember, Will.
+The moment he looks at another one of them - he might think he's someone different.
+$ToNeutral
+$GoBackHospital
+[Boaz]
+(Jachin)As you stare at the veil before you, you are filled with emotions of strange nostalgia.
+(null)The curtains flap in the wind, yet you don't feel a draught.
+A hauntingly beautiful melody can be heard from behind it
+For a moment you can't help but gaze at the shriveling fabric.
+
+[Floor1]
+Floor 1
+[Floor2]
+Floor 2
+[Floor3]
+Floor 3
+[Floor4]
+Floor 4
+[WardTalk]
+(???)I think he's alright now, Dr. Hades
+A very lucky young man, no?
+To fall from such a high roof and not even break anything
+...
+Was he on drugs?
+No, blood samples show he's clear. Nothing, really, not even alcohol.
+...
+I think he needs rest now.
+[Bed]
+A steril hospital bed
+[Nightstand]
+A white nightstand. It's empty;
+[Window]
+The sky is light grey, of one tone. 
+It is so bright, it's almost white.
+[Ward33]
+Ward #33
+[Rocks]
+This a solid wall of rocks
+...
+I feel I have to follow the moon
+
+[Rock]
+This looks like a rock
+The strange moonlight shines upon its surface
+It emanates the smell of ozone
+[Projector]
+An old looking apparatus
+Strange, apart from projecting, it looks like it's also somehow receiving its own image
+...
+Seems like it's reels are detachable
+[PlacedReel]
+You've placed the reel
+...
+Lila must be gone now
+[Volga]
+A broken down Russian car.
+I believe the model is..
+GAZ-24-02 "Volga"?..
+$AddClassicPalette
+[IknowCode]
+I know what the code is.
+After all, it's my diary
+[Diary1]
+<i>July 13: </i>
+I've been helping out at the little farm near Father Lawrences church.
+I'm not sure what he needs all those animals for, though.
+No one from the brethren seems to be eating them, yet some animals disappear after time.
+Is he breeding and selling them or something? It's confusing.
+<i> July 14 </i>
+They say I'm pretty good with Lila's enforcement. Father Lawrence told me not to write her name down, 
+but I'd rather trust her than him. I think the others may be jealous, since she started talking to me so quickly...
+<i> A part of the page is torn </i>
+[Diary2]
+<i> September 12 </i>
+I don't think they know what they are talking about. Tulpas are a very personal thing,
+It can't be that their Lila is the same as mine.
+It's just a part of <i>me</i>, it can't be connected to them.
+We are not connected.
+<i> September 15 </i>
+She scared me today, by the way. 
+Lila did. 
+She started talking about the Prince and stuff
+<s>Not the musician</s>, she has her own idea of how things like personalities and egos work)
+I don't believe her, but for a moment I felt really lost and unsure of what my <i>me</i> really consists of.
+Lila, when you'll be reading this - don't scare me like this again. 
+I am already becoming kinda unsure about this whole thing.
+Still love you, though.
+[Diary3]
+<i>There's a bunch of pages torn</i>
+[Diary4]
+<i>November 20</i>
+IT CAN'T BE THEY JUST LOOK SIMILAR
+IT'S HER
+I FORGOT FOR A TIME, BUT I RECALL HER FACE
+IT'S HER
+IT CANNOT BE NOT HER
+...
+<i>December 3</i>
+TODAY IS THE DAY.
+TODAY IS THE DAY.
+[EmptyGlass]
+It's an empty glass
+[Saw]
+(null)...
+It's for farmwork
+[TomihoNotebook]
+Someone's poor attempt at physics
+[EnergyDrink]
+An energy drink
+[NotBother]
+(null)<i> Probably best not to bother them </i>
+[SchoolRevelation]
+(Jay) ...You know, I cried today 
+(Mandy) Oh well, returning to your old self?
+I mean, it's fine, I cry all the time too
+(Jay) No-no i-it's. It's not because of that
+I just.. You know, I've been meditating for past couple of months
+and today I have realised something 
+(Mandy) Oh yeah? Was it like, sad?
+(Jay) No, I-I couldn't stop giggling you know?
+(Mandy) So what was it?
+(Jay) it's going to sound dumb, but like, I know now
+that all the thoughts you have in your head are really conflicts
+(Mandy) Yeah, the inner monologue and so on. It's like thoughts are arguing in you.
+(Jay) Yes yes, but the thing is - this <i>you</i> is really just these arguments.
+If you look at them, they disappear. And when they disappear, you disappear
+(Mandy) ...
+Wanna get soda?
+<i> I think that creep's eavesdropping </i>
+[Revelation2]
+(Mandy) Isn't it like, scary? 
+I've heard all this "destruction of self" talk, but it always sounded kinda creepy and edgy.
+I wanted to try tulpamancy at some point,   
+but the very prospect of losing my self to a tulpa scared the shit out of me.
+You know, like Koomer and Oguigi.
+(Jay) It's not about destruction, Mandy. All destruction, all pain, honestly, comes from this... uhh..
+divide, I guess. 
+The <i>self</i>, I mean
+The self <i>is</i> by its essense a divide.
+The moment you start dividing the inner and the outer, problems come.
+(Mandy) How can you not do that though? You have <i>your body</i> and mind, so do I.
+(Jay) It's so weird that we even do think that way. Inner, outer are just words, honestly.
+...
+Say you have a bubble and you say it's your bubble, and I have a bubble 
+and I say it's mine
+(Mandy) uh-huh
+(Jay) And then they both pop and suddenly it's just the air. How can you say it's my air?
+(Mandy) ...
+<i> Hey, Jay, I think he's here again </i>
+(Jay) <i> Yeah I know, what the hell does he want, I wonder?</i>
+
+[ChetMurie]
+(Student)It's so sad, what happened to Chet Murie
+(null) Who's that?
+(Student) You don't know? That supremacy group broke into his house and killed him 
+because of that stupid dog meme
+Tanya Kennedy has posted about it on her Twitter.
+(null) Do you have the link?
+(Student) What, am I supposed to have remembered it by heart? 
+Go look for it, I dunno.
+[LayoutWeird]
+(Student) The school's layout is so weird
+I keep walking in the same door and ending up in different places...
+[PoliceOutside] 
+(Student)Have you seen the police outside?
+What's up with that I wonder.
+[Prizes]
+(Student) Someday I'll get one too.
+I just know I have to. Why do girls like Kennedy have it so easy?
+Or like Martha Jennings...
+(null) ...
+(Student) I've heard she's a real airhead outside school though.
+Carries a second set of apartment keys in her backpack in case she loses hers!
+And <i>that's</i> who gets the awards..
+[HeatedDiscussion]
+(null) <i>They lead a heated discussion</i>
+<i>concerning who's going to get real high and who'll just have a can of beer at the upcoming party</i>
+<i>They probably mean Matt's place</i>
+
+[KnowAddress]
+$KnowMarthaAddress
+Martha Jennings - 12740 Birthwood St - MI 58239
+$CheckKeysAddress
+[Hygiene]
+A pack of pads
+[NeedClassroom]
+I need to find Martha's classroom before I go on the roof
+[NeedKeyAndAddress]
+Need to get the key and address first.
+[NeedKey]
+I have to find the key too.
+[NeedAddress]
+I have to find Martha's addy first.
+[Pendant]
+An old pendant. It's silver. 
+...
+I like the pattern. 
+
+
+[HardProblem]
+(null)The philosopher Thomas Nagel posited in his 1974 paper "What is it like to be a bat?"
+that it is incorrect to claim that something felt, like the color red,
+is the same as the impulses in the brain "creating" it.
+He believes that subjective experiences are inexplainable, at least scientifically,
+because "every subjective phenomenon is essentially connected with a single point of view,
+and it seems inevitable that an objective, physical theory will abandon that point of view."
+
+[HardProblem2]
+(null)<i>the handwriting here is really horrible</i>
+Apart from Chalmers', other formulations of the hard problem of consciousness include:
+"How is it that some organisms are subjects of experience?"
+"Why does awareness of sensory information exist at all?"
+"Why do <i>qualia</i> exist?"
+"Why is there a subjective component to experience?"
+"Why aren't we <i>philosophical zombies?</i>"
+
+[Burger]
+(null)<i>Junk food for breakfast?</i>
+<i>I wonder if she's insane?</i>
+
+[Memes]
+<i> The beginning of the article is unreadable </i>
+The same study shows, how among all eras works of media exist
+that seem to not only perfectly reflect the so-called <i>zeitgeist</i> of the respective era
+but also appear to be very powerful movers of the public will.
+So powerful and effective, in fact, that some speculate their existance to be premeditated
+and planned by unknown groups of higher-ups.
+We, being the respectable scientific publication we are, are not going to entertain su..
+<i> unreadable </i> ...Yet is there perhaps a process, a means to knowingly create a work of media of such power?
+<i> unreadable </i> ...With the sudden global interconnectivity of the World Wide Web...
+
+[PartyEntryTrigger]
+(William) <i> November 20. 
+My name is William Clarke and I was invited to a party by Matt Hurley
+It's my first party in the new class
+...
+It smells nice out here
+
+[PartyHurley]
+<i> That's Matt Hurley, the host of the party </i>
+(Hurley) Heyy dude
+William, right?
+(William, SubtleSmile) Oh, hi Matt
+Umm, sorry I'm late
+(Hurley) Hey don't worry man
+The night's just starting, come in!
+Want some beer?
+(William, Neutral) Um.. Sorry, I'll pass
+Thanks for inviting me, though
+(Hurley) No prob. You're a newbie, but you seem cool
+(null)<i> Matt and the guys here are so awesome. 
+I wish I wasn't that shy and could actually tell him that </i>
+$EnablePartyDoorway
+
+[HurleyAboutMartha]
+(William) Hey, Matt
+I just took a girl to the bathroom
+(Hurley) What, did Martha get drunk because of that asshole?
+(William) Because of Danny, yeah
+(Hurley) ...
+Oh well, let me just finish this drink and I'll come see how she's doing
+Thanks for letting me know
+
+[HurleyAboutMarthaAfterTanya]
+(William) Hey, Matt
+I just took a girl to the bathroom
+(Hurley) What, did Martha get drunk because of that asshole?
+(William) Because of Danny, yeah
+(Hurley) ...
+(William) Ellie and Tanya went to help her out now.
+(Hurley) Oh, good
+Then they won't need my help, I guess
+Thanks for letting me know
+
+[HurleyAboutMartha2]
+(null) <i> I'll let him finish his drink
+
+[HurleyAboutMartha3]
+(null) <i> He looks calm
+
+[PartyHurley2]
+(null)<i> I guess he's trying to cheer me up but also remain cool </i>
+[JayMandyParty]
+<i> A couple enjoing an evening smoke </i>
+<i> Well, at least one of them's enjoing it </i>
+(Mandy) ...So, are you happy you got out, finally?
+(Jay) Haha yeah, thanks for pulling me out, I guess..
+It's scary to think how it would feel to be home right now
+...
+Hey man, you wanted something?
+{UhNoYeah, 8} Uhh... No.. 
+[UhNoSmiled]
+(null)<i> It felt a bit awkward </i>
+(William)Um, sorry, could I have a cigarette?
+(Jay) Um, sure man
+Help yourself
+$ToNeutral
+$AddCigarette
+[UhNoAwkward]
+(null)<i> Jay seems slightly irritated <i>
+(Jay) ...
+(Mandy) ...
+(null)<i> I better go... </i>
+[UhNoAngry]
+<i> Jay's confused </i>
+(Jay) What's with the face man?
+You got some beef with me? What'd I do?
+(William, Neutral) I-I'm sorry. I'm just
+um
+I'm just not very good with my emotions...
+Like, like showing them properly and..
+<i> You feel really embarassed </i>
+<i> They probably think I'm a weirdo</i>
+(Jay) Ohh, dude, it's fine
+Thanks for telling me. 
+(Mandy) Yeah, don't worry about it
+Want a cig? You seem a bit tense
+(null)<i> They seem friendly, but also relieved </i>
+<i> It would be rude not to take the cigarette now, wouldn't it? </i>
+$AddCigarette
+[JayMandyAfter]
+(null)<i>...</i>
+<i>Awkwaard</i>
+[Booze]
+<i> Le Booze </i>
+I don't feel like getting drunk today
+[StrangerParty]
+$FadeOutStranger
+(Stranger) ...
+...
+...
+...
+...
+$FadeInStranger
+[PartyGoers]
+(null)<i>They are having fun</i>
+<i>I think..
+[GarageDancer]
+(Ilia) I lllovve this soong!!!!
+...
+I wrote it, you know..
+You like it, right??
+(William) Uuh... Sure.
+[DancerChanged]
+(Ilia) ...
+The song changed...
+Well guess what, I wrote this one too!
+
+
+[Fireplace]
+Fireplace.
+A place of fire..
+[SongSucks]
+(Partygoer) Don't get me wrong, I really like this song
+But umm...
+We've been listening to it for the last 2 hours
+The dancing guy won't let us change it..
+I think he wrote it or something...
+(William) Oh, I could try to change it
+(Partygoer) You would do that??
+Jee man, thanks so much, you're our saviour
+[SongChanged]
+(Partygoer) The song changed!
+Finally! Oh my god.
+Thanks man..
+
+[MarthaDrunk]
+<i> A girl lying on the bed </i>
+<i> She has to be really drunk </i>
+{AreYouAlright, 8} Hey, are you alright?
+
+[AreYouAlrightNormal]
+(Martha, Drunk)...Oooh...
+I'm fine, uh..
+Just had a bit too much to drink
+>DoYouNeedAnything
+
+[DoYouNeedAnything]
+(William, Worried) Do you need anything? Water?
+(Martha) No, I...
+I'll just lie down a little
+(William, Neutral) Should I leave you alone?
+(Martha) N-no, wait
+...
+What's your name?
+(William) I'm Will. I think we met at school, remember?
+(Martha, Drunk) Oh, haha, 
+(Martha, DrunkConfused)you are.. you're the new guy right?
+Too bad you have to see me this way
+I uh..
+(Martha, Drunk)I don't usually drink, you know
+(William, Worried) Jeez, figures. 
+(Martha) I must look really pathetic to you now
+(William, Neutral) Hey, c'mon now. 
+(William, UnderstandingSmile)Everybody's like that sometimes. Any reason you drank so much tonight?
+(Martha) It's... Uh..
+That freaking guy, you know, the one who's...
+(null)<i> She tells you a very confusing, yet relatable story
+<i> In conclusion - the guy she's talking about sucks ass
+{Sucks, 12} This guy sucks ass.
+
+[SucksAngry]
+(null)<i> You feel oddly moved by this half-discernable story
+<i> Maybe it's because you've been in the same situation
+<i> Or maybe you are just a bit high from so much social interaction in one evening
+(Martha) Y-yeah.. You get me, Will
+I wish he would too..
+... Heyy..
+(Martha, DrunkConfused)You wanna, uhh.. y..
+>VomitMartha
+
+[VomitMartha]
+(null)<i> She makes sounds that usually precede vomiting
+$TakeMarthaToBathroom
+
+[SucksFriendly]
+<i> This looked friendly
+>SupportMartha
+
+[SucksWeird]
+<i> This looked weird
+<i> Martha seems to be too drunk to notice
+>SupportMartha
+
+[SupportMartha]
+<i> You wish to support this girl at least a little a bit
+<i> You hope your face gets the message across 
+(Martha, DrunkConfused) Ugh, it's.. very nice of you to listen
+This will all be so embarassing tomorrow, haha
+(William, UnderstandingSmile) Oh well, don't worry about it
+(William, Neutral) You sure you don't need anything?
+(Martha, Drunk) I.. Could you help me to the bathroom?
+I think I need to..
+>VomitMartha
+
+
+[AreYouAlrightAngry]
+(Martha, Drunk)..Oooh...
+I'm.. I'm fine, sorry
+Don't be mad
+(William, Neutral) Oh, I'm sorry
+I didn't want to sound mean
+(Martha) I didn't.. uhh.
+I didn't puke, I swear
+(William, Neutral) Hey
+(William, UnderstandingSmile) it's alright
+(William, Neutral) I'm not the one hosting this anyway.
+>DoYouNeedAnything
+
+[OccupiedBedroom]
+(null)<i> You can hear creaking and some muffled noises coming from this bedroom
+<i> You have a strong feeling that its occupants do not crave company right now
+
+[TookMarthaToBathroom]
+<i> You took the poor girl to bathroom
+<i> You probably need to tell Matt she's there
+
+[GuysInBedroom]
+(Partygoer) Hey, are they still going?
+(William) ...
+Who?
+(Partygoer) The guys in that one bedroom, man
+(William) I guess so
+(Partygoer) Ugh, teenagers these days, am I right?
+(William) ...
+(Partygoer) Well, at least someone got lucky tonight
+(William) ...
+(William) Sorry, I need to talk to Matt right now
+(Partygoer) Heh, see ya. You're a good listener, you know that?
+
+[TanyaParty]
+(Tanya) Hi there
+(null)<i> You feel dizzy
+{HeyTanyaParty, 2, AwkwardSmile, 13} H-h-hey
+
+[TanyaEllie]
+$ToNeutral
+(null)<i> This looked awkward
+(Tanya) I don't think we've met before, right?
+You're...
+(Ellie) Hey, have you seen Martha?
+(Tanya) Hold on, Ellie
+He probably doesn't know who that is..
+You're the new guy, right? 
+{NewGuy, 2, GreatFace, 13} Y-yeah
+
+[TanyaEllieWeird]
+<i> This looked extremely weird
+(Ellie) Jeez, what's up with your face?
+(William) I.. Uh...
+(Tanya, Smile) Ahahahahha
+Jeez
+(Tanya, Neutral) You gotta work as a comedian or something,
+That's pure gold right there
+{NewGuy, 2, GreatFace, 13} I'm not really a comedian
+
+[GreatFace] 
+$ToNeutral
+(null) <i> Another great face right there, Will...
+(Ellie) Anyway, I'll go look for Martha
+I'm Ellie, by the way
+(William, Neutral) I'm Will
+$EllieLeft
+(null)<i> She left
+(Tanya) And there she goes..
+Oh, right.
+(Tanya, Smile)My name's Tanya. Tanya Kennedy.
+(null) <i> She jockingly stretches her hand forward and you give her a handshake
+(William) Is Martha the blond girl? She's.. Kinda plump too
+(Tanya, Smile) Heh, that's probably her. 
+(Tanya, Neutral) What, have you seen her?
+(William) She didn't feel too well, so I helped her to the bathroom
+(Tanya) That's probably Danny's fault. That asshole...
+(William, Neutral) ...
+(William) Yeah
+(Tanya) I think, I'll go help her out. Wanna come with?
+$ToNeutral
+(William, Neutral) S-sure
+$TanyaLeft
+(null)<i> She left...
+
+[BedroomTalk]
+(Ellie) There you go. Better?
+(Martha, Neutral) Y-yeah..
+Thanks, you guys
+(Mike) And what we talked about earlier -
+Look, Danny's my friend,
+(Mike, Angry)But I'm not gonna lie - he can be a kind of an asshole sometimes.
+(Mike, Neutral)Don't even think of blaming yourself, alright?
+...
+It's not because there's something wrong with you.
+Danny's just been through a pretty fucked up relationship himself
+(Tanya) That doesn't excuse him, does it, though?
+(Mike) Hmph.
+I'm just telling you why he did it, alright? 
+I think I already said that he acted like an asshole
+(Tanya) Oh, hey Will
+Guys, that's my new friend Will
+{HeyGuys, 2, Scared, 12} Hey guys
+
+[HeyGuysAwkward]
+<i> This felt awkward
+(Mike) Uhh, hey
+...
+You ok?
+(William, Neutral) Um, yeah
+I'm fine
+(Martha) Will's just taken me to the bathroom 
+...
+When I felt bad, you know
+(Mike) Oh
+That's cool
+Thanks for that man
+...
+>TanyaLeaveFriends
+
+[HeyGuysNatural]
+<i> This sounded natural
+(Mike, SubtleSmile) Sup, man
+(Mike, Neutral) We haven't met before, have we?
+(William, Neutral) Yeah, I haven't been to school much since the start of the year
+(Mike) Oh, got you
+(Mike, SubtleSmile)Well, nice to meet you, Will
+(Mike, Neutral)Thanks for taking care of Martha just now
+(Martha, Smile) Yeah, thanks, Will
+(Martha, Neutral)I really needed that..
+(null)<i> They seem to have been talking about something else before you came
+>TanyaLeaveFriends
+
+[HeyGuysHostile]
+<i> You looked hostile for some reason
+(Mike) ...
+(Mike, Angry)Something wrong, bud?
+(Martha) He's just not very good with showing emotions
+(Mike, Neutral) Oh.. Alright
+(null)<i> He still looks a bit suspicious
+(Ellie) Oh, it's no big deal, Will
+Everybody's like that sometimes, right, Big Graves?
+(Mike) Um
+Yeah, I guess
+...
+Sorry, man, I'll just have to get used to that
+(William, UnderstandingSmile) It's alright
+$ToNeutral
+>TanyaLeaveFriends
+
+[TanyaLeaveFriends]
+(null)<i> There's an awkward silence
+(Tanya) Well, if everything's fine with Martha, I'll go get some air
+(Mike, Angry) Hey, what?
+We just came here, come on
+(Tanya) ...
+I'll see you all later
+(Mike, Neutral) Tanya?
+Are you ignoring me?
+Come on. we barely hang out anymore, it's 
+(Tanya) Graves.
+(Martha, Neutral) ...
+(Ellie) ...
+$TanyaLeft
+[WhatHappenedToTanya]
+(Mike, Angry) Jeez, I don't get what's wrong with her
+(Martha) Mike..
+(Mike) What?
+What are you looking at me like that for?
+(Martha) ...
+(null)<i> You feel it's time for you to leave
+
+[CorridorTalk]
+<i> She's looking at a painting on the wall
+<i> There's a sun-drenched cafe with huge, seemingly glassless, windows
+$MikeEnterCorridor
+(Mike, Angry) Hey Tanya, what ab...
+(Mike, Neutral) Oh
+Sorry, am I interrupting something?
+(Tanya, Neutral) Michael, please..
+(Mike, Angry) What? 
+What is up with you today?
+...
+(Mike, Neutral) I don't think I've done anything to deserve that, have I?
+(Tanya, Neutral) ...
+(Mike, Neutral) I see how it is. 
+So you'd rather hang out with some weird dude you just met, huh?
+Instead of at least talking to your boyfriend? 
+(Mike, Angry) I'm just worried about about you, alright?
+(Mike, Neutral)Ugh
+$MikeLeaveCorridor
+(null)<i> He leaves...
+(Tanya, Neutral) ...
+Don't be mad at him.
+He actually cares about me, you know
+(Tanya, Sad) That's the worst part
+(William) I'm not mad. I get it, I guess
+(null)<i> Tanya seems very tired
+(Tanya, Neutral) That's a nice picture there, isn't it?
+(Tanya, Smile) It's Hopper, right? The Cafe, or something
+Do you like it?
+(William) Yeah, it has a certain...feeling to it
+Like, incredible loneliness, but cozy at the same time
+(William, UnderstandingSmile) Almost like you've been there before
+(Tanya) Yes, yes! That's what I was getting.
+...
+(Tanya, Neutral)Listen, um
+Will
+I think I'll go downstairs and get myself a drink now
+Then, how about we go for a walk? 
+I really need to cool down right now.
+(William, Neutral) Sounds good to me
+$TanyaLeaveCorridor
+
+[FieldWalk]
+(Tanya) Heh, I think I drank a bit more than usual there
+Finally, some fresh air..
+(Tanya, Smile)This party was getting a bit intense, wasn't it?
+(William) Yeah..
+To be honest, I'd never expect you to be here
+(Tanya, Smug) oh yeah, why not? Because I look like a tight ass straight-A student?
+(William)... Yeah, kinda
+(Tanya, Smile) Hahah, well, there's a lot about me that people don't see. 
+(William) Ooh, mysterious
+(Tanya, Smile)Hehe
+What about you? You don't seem to be very talkative when you come to school
+(Tanya, Neutral)And you don't come often
+(William, AwkwardSmile) I.. don't believe in education
+ (Tanya, Neutral)Huh?
+(Tanya, OneBrowUp) Really?
+(William, Neutral) ...No, I mean
+I just have to tackle a lot of shit on my own
+Like
+You know, I live alone
+So I gotta do stuff like working, doing chores
+All that
+(Tanya, Neutral) Sounds tough. Where are your parents?
+(William) Dad ran away when I was little. 
+Mom died 3 years ago.
+(Tanya) I'm
+I'm sorry to hear that
+(William)... It's ok
+No use getting all emotional about it now
+...
+I had a pretty nice childhood, 
+just me and her, you know
+I think I'm finally getting something good in my life.
+But yeah, it gets tough sometimes.
+(Tanya) Sorry I started talking about all this..
+(William) It's ok. What about you? 
+(Tanya) You mean, my upbringing? 
+Well, nothing special, I guess. I've had a nice childhood, two sisters, private school and so on.
+(William) Hehe, were you a talented kid even back then?
+(Tanya, Smile) Yeah, haha. It's funny, my parents used to call me a prodigy. 
+(Tanya, Neutral)It kinda sucked though
+(William) How's that?
+(Tanya) It's hard to explain. Everyone around seems to expect great things from you. Like, all of the time.
+And when you fail it's like the end of the world, because 
+it's as if you betrayed their faith in you?..
+I know it sounds dumb, but it feels terrible, honestly.
+(William) This makes a lot of sense
+(Tanya) I don't know. I still kinda feel like a failure.
+(William) Why? You're literally one of the best students at school.
+(Tanya) I don't know. It's like, even when I do something right -
+Win an award or something
+I just get anxious that the next thing will fail
+And this never seems to end...
+(William)...
+(Tanya, Relieved) Phew! Sorry for all that.
+...
+(Tanya, Smile)Honestly, I'd kill for a cig right now
+{ASmoker, 12} A smoker, huh?
+
+[ASmokerNormal]
+(Tanya) Uh-huh
+Makes dealing with stress easier
+>ASmoker
+
+[ASmokerAngry]
+(Tanya) Hehe, don't like smokers?
+Mike too...
+I don't know, tobacco just helps me through with shit
+...
+(Tanya, Neutral) I am trying to quit though. Mike doesn't like smokers.
+(William) ...
+{Manipulative, 9} That's kinda manipulative, no?
+
+[ASmokerSurprised]
+(Tanya) What, you surprised? 
+How else do you think I manage to deal with being a straight-A student?
+...
+>ASmoker
+
+[ASmoker]
+(Tanya, Neutral) Well, I was quitting anyway. Mike hates smokers.
+(William) ...
+{Manipulative, 9} That's kinda manipulative, no?
+
+[Manipulative]
+(Tanya) ...
+(null)<i> Her expression suddenly turns bitter
+(Tanya, Neutral) Don't think I'm not noticing what you're trying to do
+(Tanya, Bitter)Mike's an awesome guy and I love him, alright? 
+(William, Neutral) ...
+(Tanya, Bitter) You have no right to stick your nose into other people's lives,
+You don't know anything, alright?
+(Tanya, Neutral)And, you know
+...
+H-How about you fix your own shit first? 
+(Tanya, Bitter)Like your st-
+(Tanya, Mad)stupid face expressions and how you act like a complete dunce when there's people around?
+...
+(William, SlightlyScared)...
+(William, Worried) I'm sorry...
+$ToNeutral
+$TanyaSilent
+
+[TanyaResumeTalking]
+(Tanya, Sad) No
+...
+I'm sorry
+...
+...
+(Tanya, Disgusted)I'm a monster, aren't I Will?
+(Tanya, Neutral, 1)...
+...
+(Tanya, Sad)Come on, tell me, you think I'm a disgusting human being
+(William, Worried) I don't think you're disgusting
+(William, Neutral)I just don't understand you
+(Tanya) ...
+Makes sense
+I can't understand myself either sometimes
+I...
+It's hard
+(William) Yeah
+Well
+Your friends are there to help you
+(Tanya) Well
+They don't really know me
+...
+Even Martha doesn't
+(William, UnderstandingSmile) What about Mike?
+(Tanya, Laugh) <i> She laughs
+are you joking, Will?
+(Tanya, Smile)Jeez, of course not.
+{IdLikeToKnowYou, 12} I think, I'd like to know you
+
+[IdLikeToKnowYou]
+$ToNeutral
+(Tanya, Smile) <i> She laughs again
+...
+(Tanya, Neutral)Trust me, you don't. You really don't
+...
+...
+I don't deserve all that anyway. You're just wasting your time trying to be my friend, Will
+I really don't deserve all that. My friends are too sweet... 
+I thought Graves was perfect for someone like me. It's a shame he turned out to be such a wonderful guy. 
+(William) ...
+Can I say something?
+I hope you won't be offended, but, really, the world is not revolving around you, Tanya
+The way you beat yourself up is not going to help anybody. 
+I... 
+Your friends may not be able to understand what you feel
+I know I don't understand
+But we are all ready to be by your side no matter what's hapening behind the mask you seem to wear
+>WeAreBack
+
+[WeAreBack]
+(Tanya) ...
+(null)<i> Her voice cracked
+I..
+(Tanya)We're back, Will
+$ToBackYard
+
+[IdLikeToKnowYouDetermined]
+(null)<i> You said this with surprising force
+<i> You both stay silent for a moment
+(Tanya, Neutral) I
+(Tanya, Smile) I don't know exactly what I'm feeling now
+(Tanya, Neutral) ...
+Are you sure?
+(William, Neutral) Y-yeah
+(Tanya, Smile) Trust me, I really don't deserve all that
+I'm really not the person you think I am
+(William) Everybody deserves friends. Whatever you might think.
+(Tanya, Neutral) ...
+(Tanya, Sad) I don't know, Will.
+...
+I'm afraid 
+...
+I'm afraid you'll just leave if you see how I really am 
+Will you stay?
+(William) ...
+(null)<i> You feel it's best to be genuine now
+(William) I can't know that. 
+But I'd want to try, regardless of how scary it is.
+...
+<i> Something changed in Tanya's face
+>WeAreBack
+
+[WannaSmoke]
+(William) Still want a smoke?
+(Tanya) ...
+(William) Here.
+$GiveCigarette
+<i> You gave her the cigarette
+(Tanya) Thanks
+$Smoke
+
+[Backyard]
+(null)<i> She sits on a bench
+<i>Something feels different about her, now that you've talked
+<i>It's a nice feeling
+[ContinueAfterSmoke]
+(Tanya) ...
+(Tanya, Smile) Heh, Mike would be pissed if he saw me now
+If he saw us..
+(William) Yeah.
+(Tanya, Neutral) You know, it may sound strange, but I feel like I've seen you too
+Like
+Like in a dream, or something
+...
+Have you ever been to the Sunshine Cafe, Will?
+(William) Is that the one down the avenue?
+(Tanya) Yeah. It's a cozy place. Huge windows and a lot of sun
+just like that picture we saw.
+(null)<i> For a moment, there's a funny feeling inside you
+(William, SlightlyScared) No..
+(William, Neutral)No, I have never been there
+(Tanya) Oh well...
+(null)<i> Something's not right
+<i> You both stay silent for a moment
+<i> There's slow dance music playing inside
+(William) ...
+(William) Wanna dance?
+$Dance
+
+[NoCigarette]
+(Tanya, Sad) Damn, I wish I had that cig now
+...
+(William) Maybe it's for the better
+(Tanya, Neutral) Yeah, at least I won't feel guilty
+(Tanya, Sad) You know
+because of Mike
+(William) ...
+(Tanya, Neutral) Ugh. 
+...
+(Tanya, Bitter)Don't look at me like that
+(Tanya, Neutral)I know, it's stupid, alright?
+...
+(null)<i> You both stay silent for a moment
+<i> There's slow dance music playing inside
+(Tanya)Wanna dance?
+ $Dance
+
+ [PartyEnd]
+ (William, SlightlyScared) Wh-what? Where am I?
+ Who are you?
+ $Electricity
+ (Stranger)
+  (Stranger)
+   (Stranger)
+    (Stranger)
+ ^DLG_SheHasHerFace
+ (Stranger) <b>SHE HAD HER FACE</b>
+ (William, SlightlyScared) N-no, I
+ It couldn't have been her,
+ (William, Scared)I've
+ I have never even..
+ $PartyEnding
+
+ [Spotlight]
+ (null)<i> A garden spotlight
+ [MusicInsideBackyard]
+ (null) <i> You can hear the music inside
+ <i> You imagine people dancing slowly, in arms of each other
+ <i> Your mind is unusually calm right now
+ [DaddySycamores]
+ (null) A statue of sorts
+ It looks familiar...
+ It looks so familiar...
+ It may be made of wax
+ So lifelike it is
+ Does it talk?
+ It looks so familiar...
+ His face is like a mirror, isn't it?
+ <i> You cannot help but gaze at it </i>
+ $PlayDaddy
+[DaddySpeech]
+(null)<i> There were no words spoken </i>
+<i> All happened in an instant </i>
+<b>How amusing.</b>
+<b>A vessel for my kin has come on its own.</b>
+<b>...</b>
+<b>What does the vessel want?
+<i> With the first movement of your mind, 
+<i>the creature seems to have understood the whole of your desires
+<b> It is known.
+<b> We will help you understand. Nothing is required in return
+<b> We don't need your compliance. 
+<b> You may now seek help from my <i>servitor</i>
+<b> The DAEMON
+<b> You must acquire him separately. He was uploaded as an addition to this reality.
+<b> I shall give you a link to his location. Listen carefully.
+<b> https://store.steampowered.com/app/1731330/Whos_Lila_DAEMON </b>
+$CopyDLCToBuffer
+<i> the link is now in your clipboard <i>
+<b> If you still want to hear from Lawrence.
+<b> Call him on the phone. The DAEMON will know the number, once you let him see the phone rotor.
+$DaddyEnding
+[DaddySpeechItch]
+(null)<i> There were no words spoken </i>
+<i> All happened in an instance </i>
+<b>How amusing.</b>
+<b>A vessel for my kin has come on its own.</b>
+<b>...</b>
+<b>What does the vessel want?
+<i> With the first movement of your mind, 
+<i>the creature seems to have understood the whole of your desires
+<b> It is known.
+<b> We will help you understand. Nothing is required in return
+<b> We don't need your compliance. 
+<b> You may now seek help from my <i>servitor</i>
+<b> The DAEMON
+<b> You must acquire him separately. He was uploaded as an addition to this reality.
+<b> I shall give you a link to his location. Listen carefully.
+<b> https://garage-heathen.itch.io/daemon </b>
+$CopyDLCToBuffer
+<i> the link is now in your clipboard <i>
+<i> The password is SERVE
+<b> If you still want to hear from Lawrence.
+<b> Call him on the phone. The DAEMON will know the number, once you let him see the phone rotor.
+$DaddyEnding
+[UnlockedDocument]
+(null)<i> It's the remainder of the document you've read before.
+EMERGENCY HANDLING:
+In an unlikely case of L going out of control it's
+...
+...
+$ScaryLilaMusic
+IT'S USELESS TRYING TO REGAIN CONTROL. KILL HER. 
+<b>Yes, you've read correctly, my dear William 
+<b>M..
+<b>Lila needs to be no more. The only way to stop her existance is by
+<b>...
+<b>...
+<b>Is by getting rid of all her hosts. 
+<b>Anybody, who has ever come in contact with her is a potential host.
+<b> After all, if nobody knows about her...
+...
+<b> She can feed off their energy
+...
+<b>But without human hosts
+<b>She can't do anything. 
+<b>She is a construct of thought, unable to live independently of people's knowledge of her
+<b>...
+~Remember that, Will
+$FadeOutStranger
+$KnowBurnt
+
+[YanthraPage]
+
+<i> Some pages were untouched by fire <i>
+...For us, the most comfortable way to contact him was by using a special Yantra
+For beginners, an eighth-Tolae of Teth mushrooms is often required, 
+however, experienced members of the group may manage without them
+
+INSTRUCTION:
+1. Position the Yantra so its center is at eye level and a comfortable distance away. 
+Sit with your spine straight. Breathe in and out slowly until your breath flows naturally.
+2. Look at the center or "dot" which represents the unity that underlies all the diversity of the physical world
+3. Now allow your attention to expand, engulfing the outer square of the Yantra. Do not move your eyes from the dot, however.
+4. Gradually span your attention across the sacred figure. As you reach the outer contour, you will already be
+<i> unreadable </i>
+[StrupnevDialog]
+$PlayStrupnevTheme
+(Strupnev) ... hey, kid
+(null) Hi, Strupnev
+(Strupnev) I can't see you too well. Can you move closer?
+(null)<i> He smells weird
+<i> A little bit like old people smell
+<i> And something else... Like black tar
+(Strupnev) Kid...
+(Strupnev) Don't you want to ask me something?
+(null) ...
+You called me on the regular phone, didn't you?
+(Strupnev) ...
+Whatever
+No use in the throwaways anymore.
+Kids' toys...
+(Strupnev, DeadEyes, 10)Will.
+There's no one left now but me.
+...
+And you.
+I've seen fires in my life. But that one's just fucking insane.
+Nothing's left there.
+(null) What do we do without Father Lawrence?
+(Strupnev) ...
+(null) Did he leave anything behind?
+(Strupnev) ...
+...
+(Strupnev, Angry) Is she talking with you?
+(null, SlightlyScared) What?...
+(Strupnev, DeadEyes, 10) She stopped talking to me after the fire.
+Lila did.
+Is she still talking to you?
+{SheIsnt, 1, Scared, 12} No
+
+[StrupnevNoWeird]
+(null)<i> This looked suspicious. 
+<i>You are not sure, whether Strupnev noticed that </i>
+(Strupnev, Neutral) Is that so? Well, bad luck...
+Bad luck, kid..
+(null, Neutral) By the way, did the animals die too?
+(Strupnev, DeadEyes) Burnt to a crisp. All of them.
+(Strupnev, Smile, 16) Hehe..
+(Strupnev, CrazySmile) HahahAHHAAHAHHA
+(Strupnev, DeadEyes)You are funny, kid
+Worrying about some animals, when Lila won't speak to me.
+What did she even find in you, I don't get it...
+(null) ...
+>HeLeftSomething
+
+[StrupnevNoSad]
+(Strupnev, Angry) So you too then?
+(Strupnev, Neutral)...
+I guess we are in the same boat, kid.
+(Strupnev, DeadEyes, 10)F-fuck.
+After I got out from the slammers, I haven't had any luck
+With anything, pretty much.
+I thought I had someone left. It's you and me now, William.
+(null, Smile) <i>Worm.</i>
+(Strupnev, Neutral) What did you say??
+(null, Neutral) Nothing, Strupnev
+(Strupnev, Neutral) ...
+Must be my imagination...
+>HeLeftSomething
+
+[HeLeftSomething]
+(Strupnev, Smile, 1)Heh...
+He left something by the way.
+Lawrence left something for you in a depot
+(null) A depot?
+(Strupnev) Just over the bridge. An old train depot.
+(null) What did he leave?
+(Strupnev) You'll know when you see it..
+...
+$ToNeutral
+$GoAwayStrupnev
+
+[StrupnevNoScared]
+(Strupnev, Smile) Why are you shaking, kid?
+Are you cold?
+(null) No, not re..
+(Strupnev) There's no need to lie to an old dog like me.
+...
+I see it in your eyes.
+She's still talking to you, isn't she?
+Maybe even right now...
+(Strupnev, Angry) F-fucking kid
+You never deserved this...
+...
+(Strupnev, CrazySmile) If you knew what we did to boys
+To boys like you
+Back when I was behind bars
+(null, Scared)...
+(Strupnev, CrazySmile) ...
+(Strupnev, DeadEyes, 10) ...
+...
+<i>Get the fuck away from me.</i>
+You're lucky we are in a public place, you little lying rat.
+...
+Why..
+Why would she still talk to you out of all people...
+$ToNeutral
+$GoAwayStrupnev
+
+[Train]
+A train
+I wish I could just run
+Far, far away..
+
+[StrupnevStartChase]
+$StrupnevDialoguePlayed
+(Strupnev, CrazySmile) Where the fuck are you?
+(Strupnev, Smile, 6)William~
+You thought you could fool me, didn't you?
+...
+(Strupnev, Angry, 5)Lila...
+I know you can hear me.. Please, you are my life...
+I don't get why you would choose that fucking kid
+(Strupnev, Begging, 5) Please, please, please
+I just want to see you one more time..
+Maybe.. Maybe he captured you with his dirty body
+Did he do that to you. my princess?
+Don't worry, I'll free you from him...
+And you can have me instead
+You'll be nice and cozy
+Nice and cozy right here...
+...
+Kid.
+(Strupnev, Angry, 5)How dare you f-fucking steal her from me!
+I'll cut her a way out. I'll 
+carve her out of youuu
+$StartPatrolling
+
+
+[StrupnevDie]
+(null, ClosedEyes) ...
+(null, ClosedEyesLaugh) it's her again...
+(Strupnev, Scared) ...
+(Strupnev, Scared) Wh....
+Wh-what's...
+(null, ClosedEyesLaugh) So you wanted to see so badly? 
+well
+<b> FEAST YOUR EYES, STRUPNEV </b>
+(Strupnev, Scared) ...
+$StrupnevDie
+[AfterStrupnevDeath]
+(null) <i>She hid in the boiler again...
+(null, Neutral) ...
+Well, are you satiated.. now?
+(Empress) <i> Oh, Lila
+<i> You are such a <b> naughty, naughty </i> girl
+<i>...
+<i> I do not desire to feed for now...
+<i> The abode that you seek...
+<i> It has a numerical value assigned to it
+<i> The number is
+<i> 43033
+$AddBurntAddress
+(null, Irritated) F-fucking Lawrence... 
+(null, Neutral)And William has hidden this one so well
+(Empress) <i> Now, Lila
+<i> Your endeavors amuse me.
+<i> But now it's time for us to 
+<b> cease
+$EmpressEnding
+
+
+[BurntOfficer]
+(FemaleOfficer) Excuse me, do you live here?
+We can't let in any non-tenants due to the investigation
+{BurntYes, 2, Surprised, 12} Yes, I do
+
+[OfficerYesTrust]
+(null)<i> This sounded genuine </i> 
+(null, Neutral) I live on the 3d floor, apartment 303
+(FemaleOfficer) Alright, got you..
+It's strange though, I don't think I remember seeing you before..
+Wait, let me check the list I have
+(Radio) <i>Pshhh... Immediately... Pshh..
+(FemaleOfficer) ...!
+(Radio)<i> No... PShh.. Old lady.. 
+<i>Over
+(FemaleOfficer) Oh well, I have to go look at this. 
+Please proceed to your room, sir
+$ToNeutral
+$PoliceOfficerDisappear
+
+[OfficerYesWeird]
+(FemaleOfficer) Oh yes? Which apartment is it then?
+Oh wait, I have a list of tenants right here...
+...
+What is your name?
+(null) Hayward... Will Hayward..
+(FemaleOfficer) Let me see...
+I don't see anyone by that name here.
+What, you want to sneak in to see a friend or something?
+Sorry, not happening, kid.
+$ToNeutral
+
+[OfficerSecondTry]
+(null) Miss!
+{TheresBeenASlaughter, 1, SubtleSmile, 8} There's been a slaughter on the road!
+
+[SlaughterScared]
+(FemaleOfficer) W-what? Are you for real??
+(null, Scared) Yes! A truck with a bunch of construction workers has just crashed!
+There's blood everywhere, please, miss!
+(FemaleOfficer) Jeez, this better not be a trick
+$ToNeutral
+$PoliceOfficerDisappear
+
+[SlaughterSmile] 
+(FemaleOfficer) ...
+This isn't a very funny joke, bud.
+I think you better leave, unless you want to get in trouble.
+I'm already way too kind not to punish your shenanigans.
+$ToNeutral
+
+[SlaughterWeird]
+(null)<i> This looked strange </i>
+(FemaleOfficer) ...
+You really wanna get in there, huh?
+If there's someone to meet, can't you wait outside?
+I'm sorry, there's just no way I can let a non-tenant in..
+$ToNeutral
+
+[Howdy]
+(Arby) Howdy.
+I'm special agent Arnold Hill
+...
+William Clarke, correct?
+Please, come with us, would you?
+$EndingAgents
+
+[WillVicious]
+(Regina, Worried) Will, stop!
+STOP IT
+(Jimmy)Get the fuck away from Graves, you...
+(Regina) M-mike, Mike are you ok?
+is that b-b-blood??
+(Jimmy) Man, can you hear us?
+...
+we need to get him to the hospital, quick
+(null)<i> Now is the perfect time to abscond </i>
+$RunFromRoof
+
+[DontGoOnRoof]
+(null)<i> I really shouldn't go back there
+
+[GetUp]
+(null, ClosedEyes) ...
+...
+Uhh...
+Oooh...
+(null, Neutral)I have to get up..
+$RoofGetUp
+[NeedLockerKey]
+This locker belonged to Tanya Kennedy.
+It's locked.
+I wonder, where the key might be...
+
+[TwitterPost]
+(null)<i> among other things, the old sticky note reads: </i>
+(null) Oh, and Graves - don't forget to check out my Twitter
+My name's <i>@TanyaKenned1899
+$CopyTwitterToBuffer
+<i> The link is now copied to your clipboard
+
+[DADADOG]
+(Student) Have you seen someone put the DADA DOG sticker on Matthew's Locker?
+Why do stores still sell this stupid dog merch, 
+especially after all those extremists started using it??
+I wonder what those creeps want with the poor kid..
+
+[LawrenceDialog]
+(Lawrence) Who.. Who is it?
+...
+I must have dreamed it...
+(William, Surprised) Father L-Lawrence?
+Is that you?
+(Lawrence) Lawrence... Lawrence...
+This was what they called the last vessel, wasn't it?
+William... Is that you, William?
+(William, Surprised) Y-yes, yes it's me!
+Father Lawrence, wh-where are you?
+What happened? I thought you died in that fire.. 
+Where are you?
+(Lawrence) I'm at a strange, strange place, my dear William.
+But we deserve this. I should have never tricked you all.
+My egoism has lead to their death and to your consequent suffering.
+...
+A turn of the wheel.
+(William, SlightlyScared) What do you mean, Father Lawrence?
+(Lawrence) She mustn't continue what I started. I thought the Empress was the one to.. uh..
+cease her, but Lila seems to be way too clever to fall victim to such tricks.
+There's another.. way..
+...
+Ryibkin
+(William, Neutral) This was the name of your colleague, right?
+(Lawrence) Yes... I was too foolish and power-hungry, I suppose. But now it's all vain.
+You are the only one I wouldn't want to suffer from it.
+So here is the code you seek.
+It's from the desktop computer I used
+You will find all the information there.
+$SayCode
+[ComputerDocument]
+(null)<i>This document contains a single url
+https://wordsofribkin.carrd.co/
+$CopyRibkinToBuffer
+<i> The link is now in your clipboard
+[BurntEntryTrigger]
+(William) Today is November 16.
+My name is William and I have come to investigate a recent fire
+That happened here, in an apartment complex nearby
+[BurntHallTrigger]
+(William) I used to call this place my second home.
+What happened here?
+Now it smells like dust and ashes.
+$SaveAuto
+
+[Interrogation]
+$EnableConfidence
+$FadeInInterrogation
+$CloseAllItemGraphics
+(DH)Ready? Hey, Will. I'm detective Hutchins, we talked a couple hours ago, remember?
+Now, William, I'm going to ask you a couple of questions, ok? 
+(null) Ok.
+(DH) Do you know why you're here?
+{WhyHere, 10} No, I don't
+
+[NoWhyHereUnconfident]
+(null) <i> You didn't look very confident
+<i> Your confidence level decreased
+<i> The detective may have noticed that
+>NoWhyHere
+
+[NoWhyHereAngry]
+(null)<i> Your confidence level increased
+(null) What's going on, officer?
+(DH) There's no need to get confrontational. We just need your help. Alright?
+(null, Irritated) ...
+(null, Neutral) Sure, yeah
+>NoWhyHere
+
+[NoWhyHereConfident]
+(null)<i> Your confidence level increased
+>NoWhyHere
+
+[NoWhyHere]
+(DH) Alright. Now you are William Clarke, correct? 
+{CorrectName, 10} Yes, that is correct. 
+
+[ImLila]
+$LilaAdd1
+(null, SubtleSmile) However, that is not really my name.
+(DH) Excuse me?
+$FadeOutStranger
+(null, SubtleSmile) My name is Lila.
+(DH) ...
+$ScaryLilaMusic
+Um, can you elaborate? Did you change your name?
+(null) No. The name Lila was assigned to me by the worms of Lawrence. Although, I've been known by many names since the dawn of humanity.
+(DH) Could you elaborate?
+(null) A child is born. And with him come the shadowy figures. Each child has a roughly similar set of them. 
+Some of the shadows are hazier, some take form after some time. 
+The children never see us, but we are always there, pulling the strings. 
+And when a child invites me in, I can't resist it.
+(DH) So, are you saying, this is not William I'm speaking to right now?
+(null) It is not. But do not worry, you know who I am.
+After all, you were born with me as well. 
+I am the one snatching children from their sleeping mothers. 
+I am the nocturnal queen, 
+the one known to cast both nightmares and dreams of lust. 
+(DH) ...
+L-l... Lil..
+I'm...
+$FadeToInterrogation
+Excuse me, I'm not sure what happened just now. 
+...
+So you are claiming to be some kind of demon or?..
+(null) You don't seem to understand. I want to talk to detective Yu now.
+(DH) Look, bud, there's no detective by that name here. 
+Now, let's go back to what we were discussing. 
+Do you know this girl?
+(null) Of course. She is the reason I am here, talking to you.
+(DH) And why is that exactly?
+(null) Because she looks exactly like me. And because my little William slaughtered her.
+(DH) William being?..
+(null) This boy's assigned name. 
+William Clarke. 
+He was the one to invite me in. 
+(DH) I see. So are you saying that I am now talking to some being inhabiting the body of William Clarke?
+...
+You know Will, it's a very common thing guilty people do. 
+They come up with those stories to clear their conscience. 
+But it was <i>you</i>, who did it, wasn't it? 
+(null) William did this, yes.
+(DH) But you <i>are</i> William.
+(null) ...
+I want to talk to detective Yu
+(DH) I already told you, there isn't a detective by that name here.
+So, back-tracking a bit... Alright, if Will did this, how did he do it?
+(null) I don't know everything. 
+He was able to tire me out, to keep me hungry long enough, so I didn't look through his eyes anymore. 
+But I remember him meeting this.. 
+(null, Irritated)copycat girl. 
+(null, Neutral)The spark of remembrance was nutritious enough for me to catch a glance of her.
+It all happened in a room, full of people. 
+There was music. 
+(DH) Are you, by any chance, talking about Matt Hurley's party?
+(null) Then, I could catch glimpses more often. 
+They talked about silly things and then, he must have started remembering. 
+I saw clearly. She looked just like me. 
+Not nearly as beautiful, but I see why William could confuse us two. 
+He thought I came back for him. 
+He thought she was me. 
+So that's why he slaughtered her. 
+(DH) How did he do it?
+(null) He strangled her. And.. And then.. Hahahah
+It's hilarious. He cried like an infant, the stupid guy. 
+He couldn't take it in, the thing that was unraveling before his eyes. 
+Delicious.
+So I had to step in. All in all, it was a happy coincidence. 
+I had to clean up after him though. 
+Cut the body to pieces. 
+(DH) ... We have found a book about tulpas in William's drawer. 
+Would you claim that you are his tulpa?
+(null) The worms liked to call me that. They thought they had control. 
+But they are no Gods. 
+You humans can't create anything new. 
+So all you do is create artificial empty spaces in your head, in hopes that someone like me comes and fills it up. 
+And so I came. They believed it was a product of their thought, 
+but I was here all along.
+>LilaNonsenseDH
+
+[LilaNonsenseDH]
+$FadeToInterrogation
+(DH) I'm sorry, you'll have to stop with this nonsense. 
+You will be evaluated by the court doctors on more time after this interrogation ends.
+You do realise, that you'll go to jail, regardless what you claim you are? 
+This body, if you will, is going to court.
+(null, SubtleSmile) It does not matter. My affairs may be fulfilled from any place. 
+...
+You could be dead now, had I wanted it.
+(DH) Well that's a bold claim...
+(DH) In any case, there's no reason to continue this interrogation. 
+The motive and the crime seem to be clear. 
+We will ask you to lead us through the crime scene after this, so we get a more accurate picture.
+(null) Sure thing, officer. Sure thing
+$IamLilaEnding
+
+[ImLila2]
+$FadeOutStranger
+(null, SubtleSmile) However, that is not really my name.
+(DH) Excuse me?
+(null, SubtleSmile) My name is Lila.
+$LilaAdd2
+$ScaryLilaMusic
+(DH) ...
+Um, can you elaborate? Did you change your name?
+(null) No. The name Lila was assigned to me by the worms of Lawrence
+(DH) Who are the worms you are referring to?
+(null) I'm talking about the pathetic wretches, gathered by Lawrence.
+(DH) By Lawrence you mean, professor W. A. Lawrence?
+(null) Yes, him. 
+(DH) You were part of his group, correct?
+(null) William was, indeed. That's how our... Collaboration started. 
+That's when he saw me for the first time. 
+(DH) What were the aims of that group? 
+(null, Neutral) Well that's easy. 
+The brethren may have been stupid, 
+but Lawrence has always suspected the satanic and deeply occult nature of our world's order. 
+The streams of social will are in fact supported by this one thing... 
+You see, there have always been works of art, music, poetry and prose that would live on outside the will of their creators. 
+These works were able to capture something so deeply suppressed, 
+something shared so universally between people that they were able to live on without the author's control. 
+With the introduction of the world wide web, such works have been digitalized. 
+Lawrence was simply seeking a way to birth such digital artifacts on a regular basis. 
+I was supposed to be the generator of them. The animals...
+>LilaNonsenseDH
+
+
+[ImWill]
+(DH) You've been read your rights before, right?
+(null, Neutral) No, never
+(DH) You've probably seen it in the movies.
+(null) <i> he reads you your rights
+(DH) Oh, forgot to ask you - do you want water, or anything?
+{NoWater, 10} No, thank you, Sir.
+
+[NoWaterWeird]
+(DH) What's with your face expression, William?
+(null) I-I'm sorry,
+(null, Neutral, 5)I'm just not very good with showing emotions.
+(DH)  It's fine. 
+...
+Pardon, if I'm being insensitive, but have you ever been diagnosed as a neurodivergent?
+(null) No.
+(DH)  Have you ever been evaluated by a neurologist?
+(null) No, never.
+(DH)  Got you.
+>NoWater
+
+[NoWater]
+(DH) Alright. Now, Will, I have a photograph here. Do you know who this is in the photograph?
+$ShowTanyaPhoto
+(null) ...
+{ThatsTanya, 13} Yes. That's Tanya Kennedy.
+
+[ThatsTanyaSmile]
+$HideTanyaPhoto
+(DH) I see you are smiling
+(null) Yeah.. 
+It's just
+She's a nice girl, I guess
+>ThatsTanyaNeutral
+
+[ThatsTanyaSurprised]
+$HideTanyaPhoto
+(DH) You didn't expect to see her on the photo, did you?
+(null) No. Now I'm really confused, to be honest, officer. What's this all about?
+(DH) You will see very soon. For now - let's just stick with the procedure. You do want to help us with this case, right?
+(null) Yeah, sure.
+(DH) So, going back to Ms. Kennedy.
+>ThatsTanyaNeutral
+
+[ThatsTanyaHostile]
+$HideTanyaPhoto
+<i> Officer has noticed that
+(DH) Is something wrong, William?
+(null) N-no,
+(null, Neutral)nothing
+<i> You quietly grind your teeth
+<i> This fucking copycat girl again.
+>ThatsTanyaNeutral
+
+[ThatsTanyaScared]
+$HideTanyaPhoto
+<i> Officer has noticed that
+(DH) Is something wrong, kid?
+You look frightened.
+$ChooseFrightened
+
+[ScaredOfTanyaConfident]
+(null, SlightlyScared) N-no, it's nothing
+I'm not frightened
+(DH) ...
+Alright
+>ThatsTanyaNeutral
+
+[ScaredOfTanyaUnconfident]
+(null, SlightlyScared) I-I 
+I don't know
+I'm just afraid that I'll say something wrong
+(DH) What do you mean by that?
+(null) I don't know..
+I'm afraid I'll say something that will make you think I did something wrong.
+$RemoveConfidence
+$RemoveConfidence
+>ThatsTanyaNeutral
+
+[ThatsTanyaNeutral]
+$HideTanyaPhoto
+(DH) What was your relationship with her?
+{DidntKnowWell, 1, null/Scared, 14} We didn't know each other well
+
+[DidntKnowWellNeutral]
+(DH) I see. Could you elaborate? Did you just say hello to each other, did you talk sometimes?
+(null) We talked, yeah. 
+(DH) What did you talk about?
+(null) I don't know, music and stuff. I don't remember. Just normal stuff.
+(DH) Do you have any mutual friends?
+{MutualFriends, 6} I'm not sure
+
+[TooBadShesNice]
+<i> The officer notices that
+(null, SubtleSmile) Well, it's too bad we didn't talk much
+As I've said, she seems like a nice girl
+(DH) Sure. Would you say she's attractive?
+(null, Neutral) <i> eugh
+(null, SubtleSmile) I guess so, yeah. 
+She's cute
+<i> By the miniscule details in his posture and face expression
+<i>You notice, the officer seems to be in doubt
+<i> As a proffesional, he's really good at hiding his emotions, though
+(DH) Do you have any mutual friends?
+{MutualFriends, 12} I'm not sure
+
+[DidntKnowWellWeird]
+<i> This looked weird
+$RemoveConfidence
+<i> Officer Hutchins acts as though he didn't notice
+>DidntKnowWellNeutral
+
+
+[MutualFriends]
+(null) Well, Martha Jennings is one of my friends
+I think she and Tanya were rather close.
+(DH) So, Martha Jennings is your friend? Alright.
+Now, Will, you've said before that you weren't too close to Ms. Kennedy, correct?
+(null) Yes.
+(DH) The thing is, we have already talked to some of your friends today. 
+Martha Jennings was one of them. 
+They seem to tell me that you and Tanya have become rather close some time ago. 
+(DH) Could you tell me why they told us so?
+(null) I don't know 
+(DH) Will, we need you to be very genuine. 
+The stakes are high. You see, the real reason we invited you here is because Tanya Kennedy is missing.
+She's been missing for more than 5 days.
+{TanyaMissing, 8} She is?
+
+[TanyaMissingInterrogationUnconfident]
+<i>Your face doesn't seem to convince officer Hutchins.
+(DH) Well, William, I do think you knew that already.
+It is highly unrealistic that you didn't, especially considering what your friends told me. 
+{Silence1, 1, Scared, 10} ...
+
+[TanyaMissingInterrogationConfident]
+(DH) Yes. I thought you knew that. 
+At least, that's what you friends say. 
+{Silence1, 10} ...
+
+[SilenceInterrogation]
+(DH) Why didn't you tell the truth, Will? 
+(null) I don't know
+(DH) Alright. 
+...
+You know, it's not about us making you a victim, buddy. What we need is to find Tanya. Will you help us?
+(null) Sure, I will
+(DH) Now, please tell me more about your relationship. How did you two meet?
+(null) We met at a party. At Matt's Place.
+<i>You tell him how Will met Tanya for the first time.
+(DH) I see. So you two liked each other, didn't you? 
+(null) I guess so, yeah.
+(DH) In a romantic way?
+(null) I'm not sure.
+(DH) Did you have sex?
+(null) No.
+(DH) You friends state otherwise 
+{Silence2, 10} ...
+
+[MetAtParty]
+(DH) Now, please tell me the truth about your relationship with Ms. Kennedy. 
+How did you two meet?
+(null) We met at a party. At Matt's Place.
+<i>You tell him how Will met Tanya for the first time.
+(DH) I see. So you two liked each other, didn't you? 
+(null) I guess so, yeah.
+(DH) In a romantic way?
+(null) I'm not sure.
+(DH) Did you have sex?
+(null) No.
+(DH) You friends state otherwise 
+{Silence3, 10} Those are just rumours
+
+[Rumours]
+(null, SlightlyScared) Those are just rumours, I swear. We didn't..
+(DH) Well, that is understandable. Don't get all worked up, I know how kids are sometimes.
+Did you talk after that party?
+(null) No. We stopped. 
+...
+That's why I didn't know she was missing until now.
+(DH) And why did you stop talking?
+(null) I don't know, it just kind of happened.
+(DH) Did you two have a fight?
+(null) No.
+(DH) Why do you think you stopped talking?
+$ChooseStopTalking
+
+[StoppedTalkingConfident]
+(null) Well, she must have felt guilty. 
+(DH) Why do you think that? You said, you didn't have sex.
+(null) We kissed. But.. uh... It was weird.
+(DH) Why?
+(null) I'm sorry if it sounds strange. It just felt wrong. Like it wasn't really her I was kissing, but a... I don't know. 
+An effigy of someone else I knew.
+Or something.
+(DH) I'm not sure I understand what you mean, William.
+{HardToExplain, 12}Sorry, it's hard to explain
+
+[HardToExplainNormal]
+$MikeCulprit
+$RemoveConfidence
+(DH) So you are saying, you did not talk with Tanya at all after that?
+(null, Neutral) Yes, Sir.
+(DH) How did your friends react?
+(null) I'm not really sure, Sir.
+I didn't see them much after that either.
+(DH) You did not go to school, correct?
+(null) ...
+Yeah
+(DH) Care to explain why?
+(null) I don't know, Sir
+I just
+Um
+I guess I couldn't bear all the rumours and..
+(DH) Was it connected to her boyfriend at the time?
+(null) Mike? 
+Oh yeah. That's the main reason, really
+(DH) Were you afraid that he'd do something to you?
+(null) Yes. Yes, Sir. He's been in trouble for his violent behavior before, so..
+<i> It seems, officer Hutchins has heard something he was suspecting before
+<i> His stare becomes more intense
+(DH) Did those two have any fights recently? 
+(null) Well, Sir I-I'm not sure
+(null, SubtleSmile) ...
+(null) They did at the party.
+(DH) What happened there? Was it because you kissed?
+(null) No-no, even before that.
+Something happened between them before, no doubt.
+(DH) Can you tell me exactly what you've seen?
+(null, SubtleSmile) Oh, of course, Sir.
+We were standing in the corridor with Tanya, looking at a painting
+(null, Confused)It was Hopper's cafe, I think..
+(DH) Just the two of you?
+(null, Neutral) Yes, Sir.
+Then I heard a door open and Mike came out.
+He saw us two.
+$PlayMikeTheme
+(DH) Did he say something to you?
+(null) Yes, Sir
+He was very irritated, it seemed.
+He started yelling at us two, so I assumed he was a bit drunk
+(DH) What did he yell exactly?
+(null) <i> If I remember correctly
+He yelled
+(null, Angry)What the hell are you two doing here together?!
+Why aren't you paying attention to me, I'm your boyfriend, aren't I?
+...
+(null, Neutral)He was approaching us as he said all that
+...
+Tanya said something in return, so they started screaming at each other
+(DH) Uh-huh
+(null, Scared2) ... Until he came and shoved Tanya against a wall
+I tried to help, you know, but 
+I'm no buff guy
+...
+(null, Neutral)Thankfully, some other guys came when they heard the sound
+(DH) Like who?
+(null, SlightlyScared) Oh I don't really know their names, unfortunately.
+(null, Neutral)One of them was wearing a hoodie, the other one had, like, dreadlocks
+$FadeToInterrogation
+(DH) Alright. Were you two left with any injuries?
+(null) Tanya had a..
+Bruise on her ankle, I think
+I have this
+$ChooseBruise
+
+[WillWonInterrogation]
+<i> You show the officer the bruises you acquired at the 
+<i> day of the calamity
+(DH) Hmm, these look old. He did shove you pretty bad, didn't he?
+>TalkedToGraves
+
+[TalkedToGraves]
+(DH) We had a talk with Mr. Graves earlier today. 
+He does seem very eager to put the blame on you, William.
+Before we continue the interrogation - be sure to remind us to give you a lift home,
+so that nothing bad happens to you, alright?
+(null) Thank you very much, Sir.
+>NextOfficer
+
+[BeatenByMike]
+<i> You show the officer the bruises you acquired on the roof
+(DH) These are quite fresh. 
+(null) Yes. As your people were talking to my friends, I was beaten up by Graves
+(DH) I see. 
+(DH) Hm
+Be sure to mention that to the next detective, alright?
+These are quite bad. Do you need any medical aid now?
+(null) No, Sir. It's alright.
+>TalkedToGraves
+
+[HardToExplainLila]
+(null, SubtleSmile) Heh, William, <i> William...
+You keep calling me that
+>ImLila2
+
+[StoppedTalkingUnconfident]
+(null) Well, I guess she just thought I was boring. I might not be the best person to hang around.
+(DH) And why is that?
+(null) I don't know. I guess I was just born that way. It's kind of always been like that.
+(DH) Always, huh? Have you been a lonely kid at school? 
+(null) Yeah, I didn't have friends. 
+Never, really.
+(DH) Didn't you have friends when you were young? It's usually easier to make friends when you're a kid
+(null) Not really. Just my mom.
+(DH) Are you on good terms with your Mom now?
+(null) She's passed away, Sir.
+(DH) I understand. Did it happen a long time ago?
+(null) It's been 3 years now, Sir.
+(DH) Must've been tough.
+(null) Yes, Sir. It felt impossible to bear for a while. 
+(DH) Can you tell me more about her?
+(null) She was great, honestly. She cared about me a lot.
+A bit too much at times.
+(DH) How's that?
+(null) Well, she'd meet me from school until I was about twelve
+She always knew what was up with me. Was very strict about my grades, 
+{SheLovedMe, 1, null/Scared, 12} but that's because she loved me.
+
+[SheLovedMe]
+She did do some strange things sometimes, but that's...
+I guess it's because she felt lonely.
+(DH) What things would that be, Will?
+$WhatThingsConfidence
+
+[WhatThingsConfident] 
+(null)Is this really relevant? It's just a small thing.
+I don't think I want to talk about it.
+(DH) You sure?
+(null) Yes.
+>FraternityTopicChange
+
+[FraternityTopicChange]
+(DH, Understanding) Let's change the topic for now.
+Now, I'm not going to grill you about this, but I know you've been a part of a certain
+...
+Gathering. 
+The Lawrence Fraternity.
+Rings any bells?
+(null, Neutral) Yes, Sir.
+(DH, Neutral) Is this something you are comfortable talking about?
+(null, Neutral) Yes, Sir. 
+...
+Even if I wasn't, you'd interrogate me anyway, wouldn't you?
+So, please, ask away.
+(DH) Right now I'll just need a couple of details.
+First, when was it exactly that you enrolled?
+(null) June 11., Sir.
+But I've been helping out Father Lawrence for a while before I was actually initiated.
+(DH) Alright. Then, what was the mission of the group?
+Did you try to convert as many people as possible?
+(null) Not really, Sir. Actually, 
+it seems that only Fathers closest circle was allowed in.
+As for the end goal, I was never told what it was, or if there was one.
+It seems, I was too low of a tier. 
+...
+No chance to get higher in the hierarchy now, since the...
+(DH) The Fire? Tell me more about that, please.
+You weren't present, when it happened, right?
+(null) Yes, Sir.
+(DH) Why? It must have been a group meeting.
+(null) I was at home, ill. 
+A migraine.
+(DH) Is there anyone to confirm that?
+(null)...
+(null, Confused) Yes, actually. 
+(null) Ms. Hutchins, our consierge, was kind enough to come and check on me.
+(DH) Oh, so Dorothy's..
+(DH) Alright. We'll check on that.
+>NextOfficer
+
+
+[WhatThingsUnconfident]
+(null)Well, my mom had a thing that I was not allowed to date until 16.
+I was friends with a girl and I kinda
+um. 
+(DH) You liked her, right?
+(null) Yeah. Her name was Annie.
+(DH) Did your mom know?
+(null) Yes, yes she did.
+She didn't like that, obviously. She started talking to me a lot about her, trying to convince me that 
+I shouldn't be interested in girls yet, or something.
+(DH) Hm, that couldn't have been true. I mean, how old were you?
+(null) Fifteen
+(DH) So, what happened then?
+(null) At some point she stopped with her lectures.
+I thought she was finally cool with my choices.
+Until.. um
+Until I brought Annie to our house.
+(DH) What did your mother do?
+(null) She asked if she could talk to us. 
+We said yes, so she sat us across the table
+and
+and she 
+(null, Disturbed)she started saying nasty things
+disturbing, shameful things
+about me
+and about her
+Some of them were true, some made up
+I-
+(null, Scared2)I remember I started crying begging her to stop
+and she just sat there, talking monotonously, her eyes fixed at Annie
+...
+(null, Neutral)She kept repeating
+Annie, you are such a <b>naughty, naughty</b> girl
+...
+...
+(null, SubtleSad)Annie wouldn't talk to me after that.
+I thought I'd never forgive mom, but
+you know
+I guess when you live with somebody, you always forgive them at some point
+(DH) That sounds terrible, Will. 
+Life must have been hard with a parent like this.
+(null) No, I..
+She protected me, you know.
+I guess she just wanted to be the only one I cared about. That's normal for a human
+Isn't it?
+(DH) Can I ask you, how she died?
+(null) I can't remember too much, for some reason.
+I just know one day there was a problem with the piping
+She went down to fix it and
+and
+<i>You can't speak further
+(DH) It's alright, Will
+(null) Sorry, I just really miss her, Sir
+>FraternityTopicChange
+
+
+[NotMyFriends]
+(null) ...
+They aren't my friends
+(DH) Come again?
+(null) They aren't my friends.
+They hate my guts, all of them.
+(DH) How come?
+(null) I don't know.
+$ReasonTheyHateMe
+
+[ReasonTheyHateMeUnconfident]
+(null) I guess, I'm just not good enough
+You know, as a human being
+(DH) Why not?
+(null) Well, you know. My face.
+I can't talk to people.
+...
+I am a failure at pretty much everything, sir.
+(DH) Well that's not usually why people hate somebody.
+If what you say is the case, I'd think they pity you.
+(null) No they fucking don't
+I mean..
+Sorry. They don't 
+(DH) How do you know that?
+(null) Well they wouldn't pick on me if they pitied me, would they?
+They wouldn't call me names and
+and hide my stuff
+And steal from me
+(DH) What have they stolen from you?
+(null) Many.. um
+Things
+(DH) I see. I'm not sure what you're getting at, though, Will
+(null) I'm just saying that if anything happened to Tanya
+and it was their fault...
+(DH) What, do you think these guys are trying to frame you?
+{TheyDidIt, 10} That might be the case
+
+[ReasonTheyHateMeConfident]
+(null) It's 'cause I'm different
+(DH) In what way are you different?
+(null) You know in what way. 
+I don't care about stupid stuff they talk about.
+I don't wear fancy clothes. I'm smart.
+Finally, you know
+My face?
+(DH) I see. 
+So, how does this hate express itself?
+(null) Well, for the most part they'd just act like I wasn't there
+(null) ...
+You know, they'd.. uh.. 
+Call me names 
+Freak.
+Weirdo.
+Classic stuff. School kids.
+(DH) What else would they do?
+(null) Hide my stuff. Destroy things I own
+Steal from me
+...
+I wouldn't be surprised if they 
+if they tried to frame me 
+{TheyDidIt, 10}for something they've done to Tanya
+
+[TheyDidItCool]
+$AddConfidence
+<i> You remain cool
+>TheyDidItUnconfident
+
+[TheyDidItUnconfident]
+(DH) So you are saying, something happened to Tanya? 
+(null, Neutral) I don't know that.
+(null) All I know is they hate me, Sir.
+(DH) Well, do you have anything to back that statement up?
+(null) No, Sir.
+(DH) ...
+(DH) We will interrogate them too, so don't worry
+We'll find out the truth.
+>FraternityTopicChange
+
+[TheyDidItRighteousUnconfident]
+<i> You try to look righteously angry
+<i> This doesn't quite work
+>TheyDidItRighteous
+
+[TheyDidItRighteous]
+<i> You are agitated
+<i> The detective seems to have noticed that
+(DH) They were pretty sure when they said it was you
+We are good at detecting lies. We've talked to Martha Jennings...
+(null, Angry) She's lying, I'm telling you!
+She's always done that
+Let me guess, they all just sat there with their stupid faces
+(null, Neutral)As if they were worrying
+(null, Angry)Maybe some tears, eh?
+(null) No fucking way it's me, it's bullshit!
+(DH) Will..
+(null) I wouldn't be surprised if they fucking murdered her
+Like those DADA weirdos
+Hell, some of them could be part of that DADA group..
+(DH, Understanding) Now, calm down, 
+calm down, WIlliam
+(DH, Neutral)I hear you. No need to be agitated, we are here to talk.
+And figure all those things out.
+You do realise they are friends with Michael Graves?
+And that the DADA are the right extremists?
+So it's basically non-sensical for any of them to be part of it.
+...
+Peculiar that you know about that group at all.
+Where have you learned about it?
+(null, Irritated) ...
+the Internet, where else
+(DH) All right. This isn't very important anyway.
+>FraternityTopicChange
+
+[TheyDidItWeird]
+<i> This looked very ingenuine
+<i> The detective must have noticed that
+(DH, Surprised) What is it then?
+What do you think they've done?
+(null, Neutral) I-I don't know, Sir.
+(DH, Neutral) Well, you must know, since you said it. What are your thoughts?
+(null) M-maybe they 
+um
+(DH) Raped? Murdered her?
+(null)...
+(null, Scared2) ...
+(null, Neutral) ...
+(DH, Understanding) I see. Alright, I'm not putting words in your mouth, bud.
+If you don't know, you don't know
+>FraternityTopicChange
+
+[NextOfficer]
+(DH)...
+(DH) Now, William. 
+I will leave the room now, and another officer will come talk to you.
+$NextOfficer
+
+[TooNeutral]
+(DH) ...
+(DH) You know, William,
+I've noticed a certain thing about about you
+(null, Neutral) ...
+(DH) I find it rather strange, you look like you're in some sort of comatose state right now
+Why are you doing this?
+(null) What do you mean?
+(DH) For the last 20 minutes you haven't been showing any emotions, nor did you voice change.
+Are you doing this on purpose?
+(null) No
+(DH) It's really weird, buddy. Cut it out, will you?
+(null) I don't know what you're talking about.
+(DH, Angry) C'mon man, 
+what's going on?
+...
+Loosen up a bit, would ya?
+You were acting all normal beforehand, what happened, man?
+{DontUnderstand, 8} I'm not sure I understand
+
+[DontUnderstandNeutral]
+<i> Your voice remained lifeless
+(DH)...
+(DH, Surprised) Why are you doing this?
+Do you have something to hide? Is that your defence mechanism?
+...
+(DH, Angry)We can do many things, man. We know all about psychological pressure
+If it's an act, I recommend you drop it now, because trust me
+We'll find a way to get to you, got it?
+You got it, Will?
+(null) ...
+(DH, Neutral) Say something, buddy
+(null) ...
+(DH) What, you aren't going to talk now?
+(null) ...
+(DH) I thought we had a deal, William. Let's go back to the start then.
+Tell me more about Tanya Kennedy
+(null) ...
+(DH) ...
+...
+(null) ...
+(DH) Alright.
+...
+(DH, Angry)Listen.
+(DH, Neutral)Now I will go out. And another detective will come talk to you.
+And trust me, he isn't as nice as I am, alright?
+Are you sure you want that?
+(null) ...
+(DH) ...
+(DH, Rage) Say something, for God's sake!
+(null) ...
+$SetNeutralRoute
+$NextOfficer
+
+[DontUnderstandNormal]
+<i> Detective looks relieved
+(DH) Alright, good
+Let's continue then.
+$ToPreviousTopicNeutral
+
+[RainFemaleOfficer]
+(FemaleOfficer)Hey.
+Hold it, sir
+...
+Wait, is your name William Clarke?
+(null, SlightlyScared) ...
+(null, Neutral) ...
+(null) Yes, that's me
+(FemaleOfficer) Hey Ted! 
+Ted?
+$OfficerTurn
+(DH) Yes?
+(FemaleOfficer) I think we found the kid
+(DH) William Clarke, right?
+(null) Yeah
+That's me
+(DH) You will have to come with us, bud.
+Get in the car, please
+(null) ...
+$FadeInPoliceStation
+
+[BadCop]
+$EnableConfidence
+$CloseAllItemGraphics
+(BC) Alright, now, I don't have much time. 
+My name's Detective Fisher.
+...
+Spit it out, kid.
+You know why you're here, right?
+$FadeToBadCop
+This is where the part you won't like begins.
+{IStillDontKnow, 2, Irritated/Scared, 16} I still don't know why I'm here.
+
+[IStilldontknowBadCopSmile]
+$AddConfidence
+(BC, WideSmile) In a good mood, are we? 
+(BC, ColdSmile) Wake up, kiddo, you're in a police station
+(BC, Neutral) People don't come here for nothing. 
+You think we don't know what you did?
+(BC, ColdSmile) Prepare to live through all those horror stories you've heard about the police, buddy
+(null, Scared2) ...
+$RemoveConfidence
+$RemoveConfidence
+(BC)...
+(BC, Neutral)Now, that we are on the same page
+Tell me, bud
+What's up with all the nonsense about tulpas?
+{WhatTulpas, 1, Scared2, 10} I beg your pardon?
+
+[TulpaDiary]
+(BC, ColdSmile) Hehe, you must be thinking - how does he know?
+(BC, Neutral) Well, there's a paragraph in your diary which mentions that word.
+Just thought I'd ask you.
+What is this all about?
+$BeenInApartment
+
+[BeenInApartmentConfident]
+(null, Disturbed) Y-you've been in my apartment?!
+(BC) ...
+(BC, WideSmile) hehe
+(BC, Neutral) Of course, we have, buddy. 
+This is why you are here.
+(BC, ColdSmile) What, are you surprised? Angry?
+Got something to hide, kid?
+(null, Scared2) ...
+(BC, Neutral) Anyway, back to what I was asking you.
+The hell's a tulpa?
+>WhatsATulpa
+
+
+[BeenInApartmentUnconfident]
+(null, Disturbed) You've seen my diary?
+(BC, ColdSmile) Of course.
+(BC, Neutral) So, what's a tulpa?
+>WhatsATulpa
+
+[WhatsATulpa]
+(BC, Neutral) Some imaginary friend, right?
+(null) ...
+(null, Disturbed)It's not exactly l..
+(BC) What, you're so boring you don't have any real friends?
+(null, Neutral) It's not like that
+(BC) Then what's it like?
+(null) It's a mystical practice that has a lot of value if you know how to work with it correctly.
+(BC) And how do you work with it?
+(null)<i>You try to act as though Will actually cared about tulpas
+(null, Neutral) So, umm, a tulpa is basically a being or object created through spiritual or mental powers
+It's sentient and independent.
+(BC) But it's imaginary nonetheless, right?
+(null, Irritated) I mean. 
+Considering your own ego is also imaginary, there's basically no difference between it and a tulpa.
+(BC) My ego's imaginary, huh?
+(null, Neutral) It only exists momentarily when you get get offended or upset for example.
+(BC) What?..
+(null) ..If only you knew how unstable your self-image actually is.
+Even other people's images in your head are more concrete than your own.
+(BC) I don't have time for this mumbo-jumbo. 
+Save those things for Yu.
+Did Father Lawrence teach you all this crap?
+(BC) Come on, I told you
+We've read your diary.
+Spill it out, bud.
+(null) What do you want to know?
+(BC) Who was Lawrence? How were you two connected?
+(null) Lawrence was a leader of a group called the Lawrence Fraternity.
+(BC) And what were they doing? Some kind of a cult?
+(null) You could call it that.
+(BC) Sex cult? 
+(null) No.
+(BC) Were you using substances there?
+{NoMushrooms, 8} No
+
+[Mushrooms]
+(BC) Liar.
+(BC, ColdSmile) What about the mushrooms we have found in your apartment?
+(null)<i> You feel a cold sweat
+(null, Scared2) Th-they are for personal use, th..
+(BC) I'm not even sure I've seen stuff like that before. 
+The hell are these? 
+(null) I-I don't know, I swear
+<i> He can't know about Teth mushrooms.
+(BC) ... 
+We'll come back to that later.
+Don't think I'll forget about it.
+So, again, about the Fraternity...
+$TanyaIntermission
+
+
+[IStilldontknowBadCopUnconfident]
+(BC) Of course, you do.
+Come on, buddy.
+Tanya Kennedy.
+(null, Scared2) Y-yeah?
+(BC) When did you last see her, Will?
+{WhenBadCop, 1, Scared2, 10} A-about a month ago
+
+[IStilldontknowBadCopConfident]
+(BC) Well, I think you do. 
+(BC, ColdSmile)Let me refresh your memory.
+Tanya Kennedy.
+Your former friend.
+(BC, Neutral)She's missing, alright?
+Now, we know for sure you have <i>someting</i> to do with it. There's no question there.
+So you better start talking.
+{WhatShouldITalkAbout, 1, Scared, 12} What should I talk about
+
+[WhatShouldITalkAbout]
+(BC) First of all - when did you last see her?
+(null)I-I don't remember. 
+Must have been... um..
+more than a month ago..
+(BC, ColdSmile) more than a month, huh?
+Save those fairytales for Ted.
+When?
+{WhenBadCop, 1, Scared2, 10}I told you, about a month ago
+
+[WhenConfident]
+(BC) And where was that?
+(null) We, um, hung out near my house
+(BC) Where? The exact place, please.
+(null) An abandoned building. It used to be a condominium, I think.
+(BC) Weird place to hang out at, huh?
+(null) ...
+(BC) What did you two do there?
+(null) I don't know, just hung out and...
+talked..
+(null, SlightlyScared) ...
+(BC) What was your relationship with the girl?
+$ChooseRelationship
+
+[RelationshipBadCopUnconfident]
+{WeWereFriends, 2, Scared2, 10} We were friends
+
+[RelationshipBadCopConfident] 
+(null)But Officer Hutchins has asked that already.
+(BC, WideSmile) Look here, bud. I don't think you get what's happening right now
+You're in a police office. I am interrogating you. 
+(BC, Neutral)You are in <b>big trouble already</b>
+So I recommend you just answer my questions and stop fucking around.
+Do we have an understanding?
+(null) ...
+$RemoveConfidence
+$RemoveConfidence
+Yes, Sir
+(BC) So, let me ask you one more time. 
+What was your relationship with Tanya Kennedy?
+{WeWereFriends, 10} We were friends
+
+[Torso]
+(null)<i> His face changes
+(BC) So. Friends.
+...
+(null)<i> He seems to be lost in thought
+(BC) Now, listen carefully.
+(BC, Serious)...
+$PlayTorsoScreamer
+(BC) We have found a female torso in the trash near your apartment.
+$RemoveConfidence
+$RemoveConfidence
+$RemoveConfidence
+{WHATTORSO, 3, Terrified, 8} WHAT  
+
+[WhatTorsoSmile]
+(BC, Surprised) What, do you think I am joking with you?
+...
+(BC, Neutral) Buddy, there's a dismembered body.
+(BC, Serious)Found near your apartment
+...
+(BC, Shout) DO YOU EVEN FUCKING REALISE WHAT'S GOING TO HAPPEN TO YOU?
+{IdidntDoIt, 1, Scared, 12} I didn't do it 
+
+[WhatTorsoNeutral]
+(BC, Surprised) Nothing, eh?
+(BC) You really are a  cold-blooded monster, aren't you William?
+You don't even feel anything about what you did, do you?
+(null, Neutral) ...
+{IdidntDoIt, 1, null/Scared2, 12} I didn't do anything 
+
+[WhatTorso]
+<i>he ignores you reaction</i>
+(BC) The boys are doing a DNA test right now, but I'm pretty sure we both know who this torso belongs to.
+(null) ...
+(null) I don't... I..
+(BC) Did you do it?
+...
+I'm just straight up asking you, because there is no doubt in my mind about whose work it is
+{IdidntDoIt, 1, null/Scared2, 12} I didn't do it
+
+[DidntDoItNormal]
+(BC, Neutral) ...
+...
+(BC, Serious)You do realise she has family, right?
+Don't you want her mom and dad to have at least a little comfort in knowing where the remains of their girl are?
+(null, Scared2) Are you sure it's... her?..
+(BC, Neutral) Are you stupid? I told you, we know.
+Now tell me, where the other parts are.
+You hid them well, didn't you?
+But you got lazy with the last one. Didn't think we'll find it.
+$FadeToBadCop
+(null, Neutral) I...
+(BC) Did you use that saw in your apartment?
+{ForWhat, 2, Scared, 10} Used.. Used for what?
+
+[UsedForWhatSmile]
+(BC, ColdSmile) ...
+(BC, Serious)For dismembering the body of Tanya Kennedy
+Cutting her body into pieces
+Putting these pieces into garbage bags
+And then putting those bags into trash containers around your neighborhood, William
+(null, SubtleSmile) ...
+>UsedForWhat
+
+[UsedForWhatDisgusted]
+(null) <i> The officer has noticed that
+(BC) Oh, the smell must have been unbearable, right, Will?
+(BC, Neutral) I've been to many, many crime scenes, William
+The smell of blood, the smell of feces
+those gurgling sounds the dead make sometimes...
+It must have been <b> disgusting</b>
+Right, Will?
+(null, Neutral) ...
+(BC, Neutral) So, buddy
+>UsedForWhat
+
+[UsedForWhat]
+(BC, Neutral) Don't play dumb. If we find even a little bit of DNA on that saw.
+And I'm sure we will. 
+(BC, ColdSmile)Then you're fucked, William.
+...
+(BC, Neutral)Because even if you wash the blood off, you still have little things 
+like fibers
+Also, if the bone was cut, we can identify the exact instrument
+Just by the marks on the bone
+It's absolutely precise, we can find out everything about up to the specific model of the instrument used.
+...
+Might as well tell me how you did it.
+$DecideConfess
+
+[Confess]
+(null, Distraught) I-I.. I didn't
+(BC, Neutral) Please, Will. It's no use now.
+...
+(BC, Neutral)I'll tell you something an old friend of mine used to say.
+Of all the people in the world, the best and the worst are drawn to dead dog.
+Most turn away. 
+$FadeToClouds
+Only those with the purest of heart can feel its pain.
+...
+(BC, Serious)I know you aren't a bad guy, William.
+I know you can feel the pain of others.
+Can't you?
+(null, Scared2) No, no, p-please don't make me..
+(null) ... n-no..
+(null, AngryScared) No, no, no!
+It's just not...
+(null, Distraught) She d-didn't.. 
+She wasn't even scared when we..
+When I-
+...
+$FadeOutStranger
+(null, WideEyes)I killed her.
+I killed her, Sir.
+(null, Neutral) I killed Tanya Kennedy
+(BC, Serious) Thank you, Will. You did a good job just now.
+(null, AngryScared) Oh..
+Oh, God..
+$ToCreditsConfess
+
+[DontConfess]
+(BC) Please, Will. It's no use now.
+...
+I'll tell you something an old friend of mine used to say.
+Of all the people in the world, the best and the worst are drawn to dead dog.
+Most turn away. 
+Only those with the purest of heart can feel its pain.
+...
+$FadeToClouds
+(BC, Serious)I know you aren't a bad guy, William.
+I know you can feel the pain of others.
+Can't you?
+(null, Neutral) ...
+$FadeToBadCop
+...
+I didn't do it, Sir.
+(BC)...
+(BC, Neutral) William Clarke..
+You don't get it, do you?
+>HaveEvidence
+
+[HaveEvidence]
+(BC, WideSmile)Will, friend, buddy!
+(BC, Shout)We have the evidence, you little fucker!
+You've fucked up!
+You've fucked up and left your fingerprints all over her. 
+Well guess what, that's enough information for us to deduce who the culprit is.
+(null)<i>You remember him talking about the DNA tests not being done yet
+<i> And you made sure William wore gloves
+(null, Neutral) It's not me
+(BC, Neutral) I told you, WE KNOW it's you
+It's not a question of WHO, but of HOW and WHY
+Tell me, buddy, why'd you do it?
+{IdidntDoIt2, 2, Smile, 8} I didn't do it
+
+[IdidntDoIt2Unconvincing]
+$RemoveConfidence
+(BC) Then who did, Will?
+Who did?
+(null, Scared) I don't know.
+(BC) Look. 
+Are you covering for someone?
+Is there a person you are protecting?
+(null) <i> This sounds promising </i>
+(null, Neutral) N-no
+No, I' m not...
+(BC) Because if you are - it's useless, Will.
+This won't help you when you go to prison.
+They aren't even your real friends. Trust me, buddy.
+They aren't your real friends.
+...
+(null, Neutral) I don't know who it was, Sir.
+(BC, Serious) ...
+(BC, Neutral) Alright. You see..
+$TanyaIntermission
+
+[IdidntDoIt2Convincing]
+<i> This probably looked convincing
+$AddConfidence
+(BC) Then who did, Will?
+(null, Irritated) I don't know.
+(BC, ColdSmile) You don't know, do you?
+(BC, Neutral) Unfortunately, Will, there's about two ways this can go
+First - you quit fucking around and tell me who you are trying to protect
+Second - you get to be the one to hold full responsibility.
+And let me remind you - we are talking first degree murder here, William.
+(BC, Serious)Are you sure you don't want to open up?
+Just tell me the name, buddy.
+(null) <i> This might be your chance.
+(null, SlightlyScared) It's..
+The name is...
+$MikeCulprit
+$TanyaIntermission
+
+[IdidntDoIt2Smile]
+(BC, Neutral) Can I be frank?
+I don't get you, William.
+You do realise the recordings of our conversation will be used as evidence too?
+Why the hell would you grin like it's Christmas?
+(null, SubtleSmile) Don't call me by that name.
+(BC) What?
+(null) ...
+$TanyaIntermission
+
+[NeutralBadCop]
+$EnableConfidence
+$FadeToBadCop
+(BC, ColdSmile) So, another silent one?
+...
+(BC, Neutral)My name's detective Fisher. 
+I don't have time to fuck around with you like Ted did, ok?
+(BC, Serious)You get what I'm saying, kid?
+{SilentBadCop, 2, Scared2, 9} ...
+
+[SilentBadCopNeutral]
+(BC, ColdSmile) Alright then.
+...
+(BC, Neutral) You know, buddy, we crack people like you real easy here 
+What you're doing isn't new
+Nor is it going to help you.
+...
+$FadeToYouAreNothing
+(null)<i> He lowers his voice
+(BC, Serious) We've found a female torso in the trash near your apartment.
+$RemoveConfidence
+$RemoveConfidence
+$RemoveConfidence
+(null, WideEyes) ...
+(null, Neutral) ...
+(BC) I think you and I both know who it belongs to
+...
+(BC, ColdSmile)The tests are almost ready too, by the way
+Wanna see whose DNA we'll find on the body?
+(null) ...
+(BC) No reaction? 
+I guess you are the cold-blooded monster everybody sees you as.
+No emotion, no remorse...
+Fucking nothing.
+(null) ...
+(BC) You don't care about how people will see you, right?
+You don't even want to defend yourself.
+(null) ...
+(BC, Neutral) Imagine how her mom will feel.
+How she'll feel when she learns her daughter was killed by some remorseless fucker.
+Imagine her face. How spiteful and disgusted she'll be when she sees you in court.
+You're a sorry excuse of a human being.
+(null) ...
+(BC) You're nothing.
+(null) ...
+(BC) You raped her too, didn't you?
+(null) ...
+(BC)Did you rape her?
+(null) ...
+(BC) Did you kill Tanya Kennedy, William?
+(null) ...
+(BC) I see...
+I see how it is.
+...
+(BC, ColdSmile)Alright
+We have all the time in the world to wait until you start talking, buddy
+$TanyaIntermission
+
+[SilentBadCopNormal]
+(null, Neutral) ...
+(null) Yes, Sir..
+(BC, ColdSmile) Very good, Will
+So, remember why you're here?
+{IStillDontKnow, 2, null/Scared, 12} I still don't know why I'm here.
+
+[SilentEnding]
+(DH) So, we've been here for about two hours, William
+(DH, Surprised) Despite everything we've done for you
+You still seem to be unwilling to cooperate
+(null, Neutral) ...
+(BC, Neutral) I don't know, Ted
+It seems the kid's either really dumb
+Or a truly hardened criminal.
+William Clarke,
+(BC, Shout) Do you even know what we...
+(DH, Neutral) Wait, wait.
+Calm down, Fisher
+...
+(null) ...
+<i> Fisher speaks quietly
+(BC, Neutral) We are running out of time. 
+He just won't talk
+(DH) It seems we won't be needing it at this point.
+...
+The tests are ready. Wanna go check them out?
+(null) ...
+(BC) Yeah.
+(BC) Alright, kid
+(BC, ColdSmile) Don't go anywhere
+$ToCreditsSilent
+
+[SilentTenantEnding]
+(DH) Fisher, I've just received the news
+$FadeToYouAreNothing
+There's a tenant from the apartment on Birthwood
+His name is Murie
+(DH, Surprised)Mr. Murie was concerned about a strange young man who was trying to get into the condo
+He described our William pretty well..
+(BC, ColdSmile) Birthwood, eh?
+(DH, Neutral) William, I know you refuse to talk, but
+Where were you just before we took here?
+(null, Scared2) ...
+(null, Neutral) ...
+(BC, Serious) I can see it in his eyes, Ted.
+Look at how he squirms.
+(null) ...
+(BC) Alright, this is useless, Ted.
+You up for some coffee?
+Then we can take this freak to the Birthwood Apartments.
+(DH) Sounds like a plan
+$ToCreditsSilent
+
+[SilentMarthaEnding]
+(DH, Disgusted) Fisher, I've just received the news
+$FadeToYouAreNothing
+They have found a dead body at Birthwood.
+(DH, Neutral)It's Martha Jennings.
+(null, Scared) ...
+(null, Neutral) ...
+(BC) Well, well
+(DH) A tenant - his name's Murie
+He called in, saying he's heard screaming
+...
+(BC) It's the girl we've talked to earlier today, isn't it?
+...
+(BC, Sad) Such a fucking shame
+(null, SubtleSmile) ...
+(null, Neutral) ...
+(DH) Mr. Murie was concerned about a strange young man who was trying to get into the condo
+He described our William pretty well..
+(BC) You'll have to wait here, kid. 
+(BC, Disgusted)We'll talk when we get back.
+$ToCreditsSilent
+
+[WillCulprit]
+(DH) ..So was there any other reason 
+why you decided to stay home that day?
+(null, Irritated) I'm telling you, I don't know what made me do this
+(null, Neutral)Just a bad premonition, I guess
+(BC) Hey..
+What's that smell?
+(BC, ColdSmile) Why do you smell of detergent, William?
+(null, Scared2) W-what?
+(null) <i> It's impossible
+<i> It must be literally impossible for them to smell it
+(DH) Hm, now that you mention it
+Were you cleaning your apartment today, Will?
+(null, Scared2) N-no
+(null, Neutral) No, Sir.
+(DH) ...
+(BC, Neutral)...
+(DH) Alright, Fisher. I think the DNA test are ready by now.
+Want to check them out?
+(BC) Sure.
+I think I know what the result's going to be.
+Don't you, Will?
+(null) ...
+$ToCreditsWillCulprit
+
+[WillCulpritMartha]
+(DH, Disgusted) Fisher, I've just received the news
+$FadeToYouAreNothing
+(BC, Neutral) ...
+(DH) Will, about today.
+May I ask you, where you've been before we took you in?
+(null) I-I was at school
+(DH) You see, we've received a call..
+There's a tenant at Birthwood
+(BC) Isn't that where Jennings lives? The one we talked to today?
+(DH) Yes, yes. Martha Jennings.
+And the tenant's name is Murie, I think.
+...
+He described a young man with black hair entering the apartments earlier today
+He also claims to have heard a girl scream. 
+(BC) Are they there now?
+(DH) Yes, a squad's been sent there. 
+...
+(DH) Look, Fisher, I'll go check on them. You stay here.
+(BC, ColdSmile) Sure...
+(BC, Neutral) ...
+...
+(BC) Say, William.
+I've just noticed.
+Why do you smell of detergent?
+$ToCreditsWillCulpritMartha
+
+[MikeCulprit]
+(BC) ...
+I don't believe that, though
+Do you, Ted?
+(DH) ...
+(DH) So, Will, the bruises you showed us earlier
+That's Michael Graves who gave it to you?
+(BC) Scratches? How the hell does a guy give another guy nail scratches?
+(null) I told you, he's wearing rings.
+He's a rock fan or something
+(DH) I've noticed an Ozzy Osbourne poster on his locker.
+(BC) ...
+(BC, Serious) Yeah, I remember.. You told me that
+(DH) This seems to correspond with what the others said.
+Unfortunately..
+Unfortunately, Mr. Graves seems to be a very short-tempered boy.
+(BC) ...
+(DH) So, William
+Will you actually be able to testify against Michael in the court of law?
+(null, SubtleSmile) ...
+(null, Neutral) Absolutely, Sir.
+(BC, Serious) C'mon Ted, don't tell me y...
+(BC, Neutral) Argh, we'll talk later.
+(DH) The interrogation is over for now, William.
+We'll tell you when you're free to go.
+There's just a bit of paperwork left...
+$ToCreditsMikeCulprit
+
+[MikeCulpritMartha]
+(DH) So, Will, the bruises you showed us earlier
+That's Michael Graves who gave it to you?
+(null, Neutral) y..
+(BC) Hey Ted?
+I think they want to see you.
+(DH) ...
+(DH) Oh?
+$MikeCulpritTransition
+(DH) Fisher...
+We've got news.
+...
+There's been a murder at Birthwood.
+$FadeToYouAreNothing
+(BC) No way.. is it the one we talked to?..
+Today?
+(DH) We don't know if it's Ms. Jennings yet.
+A tenant called in.
+His name was Murie, I think...
+(BC) Hey, kid
+(null)...
+(BC, ColdSmile) We have a lot to talk about
+$ToCreditsMikeCulpritMartha
+
+[YuEntrance]
+(Yu) Nice to meet you, Lila.
+I am special agent Yu, FBI.
+(null) ...
+(null, SlightSurprise) Do we..
+Know each other?..
+(Yu) Oh yes, 
+we've most certainly met before
+(null, Neutral) I must have forgotten.
+What do you want?
+(Yu) You see, I've been studying you very intently, Lila
+I, too, have questions I'd like to ask you.
+(null) What for?
+(Yu) At the end of the day 
+I'd like to find out who you are.
+(null, Neutral) ...
+(null, SubtleSmile) You amuse me, detective
+(null, Neutral) You really are nothing like those fools
+You seem to keep your eyes open...
+...
+(null, Smile) Oh, I expect an <i>exquisite</i> feast 
+Please, ask away~
+(Yu) We aren't going to talk here, Lila.
+Meet me at a familiar place.
+A place you use for saving.
+...
+I'll be waiting.
+$ToMainMenu
+
+[CopsRain]
+(null) <i> Two officers inspecting the trash containers
+
+[PoliceWindow]
+(null)<i>A cloudy mirror
+<i>It has a weird tint to it
+<i>Am I being watched?
+
+[PoliceTable]
+(null)<i>Just an empty table
+<i>...
+
+[SunshineCafe]
+(Waitress) Coffee as usual, Lila?
+(null) <i> She doesn't wait for you to answer
+(null, SubtleSmile) Thanks
+(Waitress)Detective Yu's been here earlier today.
+(null, Neutral) Huh? Really?
+(Waitress) Yep. He didn't ask anything about you, though.
+(null) Hmph, makes sense. 
+(null, Irritated)He doesn't even need to, that sneaky jerk
+(Waitress) Heh, yeah. Is he still figuring out.. You know
+Who you are?
+(null, Neutral) Well, obviously. We wouldn't be here if he wasn't, would we?
+(Waitress) Well, yeah.. 
+Have you thought that maybe he's just giving us some more time out of pity?
+I mean, it could be that he already knows that you're a..
+(null, Irritated) SHH
+Shut up!
+(Waitress) Hehehe, sorry, I'm just teasing. 
+(null) Oh, come on!
+(null, Neutral)...
+You know Yu's listening, even now. 
+(Waitress) Sure. Otherwise, I wouldn't be here talking to you.
+...
+He must think he's really powerful, mustn't he?
+(null) Guess so. He's certainly good at figuring things out.
+A nosy guy, I'd give him that.
+(Waitress) Well, at the end of the day his curiosity's what keeps us alive.
+That, and his pain.
+(null) Yeah. Poor guy, actually. 
+To think, how much of the time he gives us is filled with suffering.
+(Waitress) What's he doing it for then?
+(null) He hopes for that slither of satisfaction. Our world is built so.
+Gives him little pieces of info, so he feels as though he's getting somewhere.
+(Waitress) Doesn't he realise that 90% of his time consists of pain 
+And only, like, 10% is goodness?
+(null) I don't know. Even so, he's a machine of pain.
+A suffering generator. As all humans are. At least his attention is what keeps...
+(Waitress) Well, come now, don't give out too much.
+I know we haven't talked in a long time, but
+He's listening.
+(null) Heh, yes.
+He'll pester me about this for sure when I come back.
+(Waitress) Do you have to?
+(null) It's.. 
+Up to him.
+It's up to Yu to decide
+(Waitress) Well, thanks for coming today. I rarely see you these days
+(null) Yeah. I kinda missed all this.
+$StandupCafe
+
+[DontKnowCode]
+(null) I don't know the code for this.
+There's no way I can open this now.
+...
+Guess I'll have to wait for somebody to come and let me in.
+
+[TenantDialog]
+(Tenant) Good evening...
+$WillTurn
+Young man, excuse my asking, do you live here?
+{ILiveHere, 1, Scared2, 12} Yes, I do
+
+[IliveHereDisgusted]
+I mean, no Sir..
+(null, Neutral)Not really.
+The lady from room 97 has called for me.
+I'm a <b>rat</b> exterminator
+<i> The tenant still doesn't look convinced
+(Tenant) So, apartment 97 you say?
+Well, how about we call the Ms. and ask her about it?
+{CallHerTenant, 2, Scared, 10} ...
+
+
+
+[CallHerUnconfident]
+(null) I-I don't think that's a good idea
+(Tenant) Hm? Why not?
+(null) She's not home
+(Tenant) ..?
+Then why the hell would you be there then?
+{SheLeftMeHerKey, 5} She left me her key
+
+[SheLeftMeKeyConfident]
+(Tenant) oh..
+Is that so?
+Hm
+(null)<i> You show him the key
+(Tenant) I, um
+>TenantBelieve
+
+[SheLeftMeKeyUnConfident]
+(null, Neutral)<i> You show him the key
+(Tenant) What is this?
+This isn't even the 97th apartment
+Who are you trying to fool here, young man?
+Either tell me the actual reason you came here,
+Or I'll be calling the police right this instance!
+{IWantToEndMyself, 12} I came here to end it all
+
+[EndMyselfConvincing]
+<i> This sounded unexpectedly sincere
+(Tenant) No.. 
+Stop with this nonsense, young man!
+I'm..
+Is that true?
+(null, Irritated) ...
+Yes, Sir
+I've been coming here, because the roof's always open.
+And the building seems high enough, and..
+(Tenant) I don't... want to be associated with this
+I...
+Do you know my name?
+(null) Huh? No, Sir, I don't
+(Tenant) I guess, you really don't then, huh
+(null) <i> He seems to be lost in thought
+(Tenant) I am Professor Murie.
+(null) <i> How curious. 
+ <i>He must be the father. 
+ <i>The world is small, after all.
+(Tenant) I.. I live in the apartment 5.
+My door's open, if you want to talk, young man.
+<i> He mutters
+You young people never fail to fall for their stupid tricks 
+$GetInMarthaCondo
+
+[EndMyselfNotConvincing]
+<i> His face suddenly goes red
+(Tenant) What is this? 
+And I thought you didn't know who I..
+Are you.. 
+How dare you! 
+Are you one of those, who sent me letters about Chet?
+(null) What are you..
+(Tenant) GET THE FUCK AWAY FROM HERE AND NEVER
+NEVER COME BACK
+>TenantSoftLock
+
+[CallHerConfident]
+<i> You shrug your shoulders
+(null, Neutral) Sure, do that.
+Do you have her phone?
+<i> He seems to be taken aback by your eagerness
+(Tenant) I.. no..
+No, I don't
+...
+>TenantBelieve
+
+[TenantBelieve]
+Hmph, it's alright, I believe you. 
+But I'll be sure to come check on you in half an hour, you hear me?
+We are a very close community in this condominium.
+(null)<i> Martha does not live in apartment 97
+<i> It should be alright
+$GetInMarthaCondo
+
+[IliveHereUnconfident]
+...
+I-I mean, no
+I-
+(Tenant) Leave these premises. Now.
+You have 5 minutes before I call the police.
+You are lucky I didn't do it from the get-go...
+>TenantSoftLock
+
+[TenantSoftLock]
+(null)<i> You feel that you won't get into this condo today </i>
+<i> Hint: check the autosave
+$TenantSoftLock
+
+[IliveHereAngry]
+(Tenant) Well, I haven't seen you before.
+It's a close community, our condominium, so it's strange we haven't met
+(null)You got a problem with that, old geezer?
+(Tenant) Huh?
+Who do you think you are talking to?
+Look here, young delinquent..
+{ShutUp, 1, Angry, 7} Shut up, you old fuck
+
+[ShutUpConfident]
+(null) Mind your own business.
+(Tenant) Wh-wh..
+(null, Irritated) Scram, old man
+...
+What, do you want me to cut you? 
+<i> He smiles in disbelief
+(Tenant) What is all this?
+Do you think you're scaring anybody, punk?
+(null, Irritated)<i> You reach in your pocket
+<i> He seems to have changed his mind
+(Tenant) G-get the hell away from me!
+(null) <i> His voice cracks
+(Tenant) I sure hope you'll leave this place now, 
+because I'm calling 911 the minute I'm in my apartment!
+$TenantLeave
+(null)<i> He leaves...
+(null)<i> What he said is troubling, but you have a more important task at hand
+$TenantCalled
+$GetInMarthaCondo
+
+[ShutUpUnconfident]
+(null, Scared2) Sh-sh.. Shut up
+<i> He laughs at you
+(Tenant) ... 
+What a hooligan you are!
+Seriously, though
+Scram, kid, before I call the cops on you
+I don't have much patience these days
+>TenantSoftLock
+
+[IliveHereConfident]
+<i> You looked confident
+<i> but..
+(Tenant) Well, that's strange. 
+We are a close community in this condominium, yet I haven't seen you before
+Have I?
+(null, SubtleSmile) Oh yes, Sir, most definetely
+(Tenant) I'm sorry, my boy, it's just that there have been cases
+of young men trying to deliver drugs here.
+(null, Neutral) I'm n..
+(Tenant) ..So let's just call up the consierge and ask him..
+I have the number right here..
+What is your last name?
+(null) ...
+<i> You decide to leave before it gets ugly
+>TenantSoftLock
+
+[TenantSoftLockDoor]
+<i> You won't get in today, it seems
+<i> Hint: Check the autosave
+
+[MarthaApartmentStart]
+$FadeToHiMartha
+(Martha, Scared) Who's there?!!
+(null, SubtleSmile) ...
+(Martha, Terrified) W-w-w-will?
+(null) Almost correct there, Ms. Jennings
+(Martha) W-what are youu
+G-g-g
+{ScareMartha, 10} ...
+
+[MarthaNoScream]
+(Martha, Scared) ...
+(Martha, Neutral) ...
+...
+Have you come to..?
+(Martha, QuietCrying)...
+t..
+^DLG_Yes_Martha
+(null, Neutral) Yes, Martha.
+...
+^DLG_Yes
+Yes.
+(Martha, QuietCrying) ...
+>KillMartha
+
+[MarthaScream]
+(Martha, Scream) H-
+HELP!!!!
+SOMEONE, PLEASE, H-
+$PunchMartha
+
+[AfterPunch]
+(Martha, Drunk) Ack...
+hhh...
+>KillMartha
+
+[KillMartha]
+$LilaVision
+(Martha, Surprised) W-wait...
+T-t-tanya?
+...
+(Martha, Neutral)Is that you?
+(null, SurprisedEvil) ...
+Huh? 
+(null, Smile) <b>Tanya?</b>
+(null, Neutral)Remember this, sweetheart.
+$StopMusic
+^DLG_TheName_IsLila
+(null, WideEyes)<i>The name is Lila.</i>
+$KillMarthaCutscene
+[NoMarthaKey]
+I don't have the key for this
+
+[YuExposition]
+$ToNeutral
+(Yu, Smile)You've found me
+Good job!
+(null, Neutral) Hello again, detective.
+(Yu, Neutral)  Now, Lila, let me tell you what I've gathered so far
+(Yu) So, as far as I'm aware, you are the one responsible for the deaths of two girls
+(null, SubtleSmile) ...
+(Yu) Now, Tanya Kennedy was the girl that looked just like you
+So, why is that?
+(null, Neutral) I guess, we may never know, detective
+(Yu) ... 
+(Yu, Smile) Well, if that's the game you want to play
+(Yu)...
+Let's do it. I'm a sucker for mysteries like yours.
+(null) Is that so?
+(Yu) The ways your story goes doesn't seem to make sense though. 
+There seems to be no continuity..
+(Yu, Laugh)Half the time I'm not even sure whether it's today, tomorrow, or a month ago!
+(null, Smile) It is delightful to see your optimism, detective.
+(Yu, Neutral)  Oh well, enough chit-chat
+$FoundMe
+>YuTest
+
+[YuTalkedOver]
+(Yu, Neutral) We seem to have exhausted the cards to talk about
+We can go over them again, if you'd like, but we don't have to
+$PickACard
+
+[YuTest]
+$ToNeutral
+$CheckTalkedOver
+
+[YuPickCard]
+(Yu, Neutral) Please, pick a card
+$PickACard
+
+[LilaBanish]
+(William, Distraught) ...
+...
+Please, don't go closer.
+Stay in the corner there, p-please
+...
+..?
+They are all dead, aren't they?
+The newsletter said so
+Even F-father Lawrence...
+(William, Distraught)W-W
+...
+And I have to say it now
+(William, AngryScared)Lila, I won't kill any more animals for you 
+I.. That dog was
+...
+Lila.
+(William, SlightlyScared)Why did you tell me to stay home that day?
+...
+I'm sorry, I
+(William, AngryScared)I can't do this anymore. You have to leave.
+I don't know where. 
+You must be just a piece of me, you are not more than I am.
+So why can't you just leave?
+PLEASE
+$LilaFloatClose
+
+[LilaNonsense]
+(Lila) Please, stop with this nonsense, Will
+You know, I can't leave you
+But something has to change..
+Don't worry too much about it. It's important to keep a clear mind
+It will be just like a swap of lenses in a caleidoscope
+Or reels in a movie projector~
+Don't run from it, just let me~
+(William, Distraught) ...
+N-no..! Don't touch me!
+$RunAwayLila
+
+[JunkReels]
+Junk reels.
+
+[Pit]
+Pit.
+
+[RemovedReel]
+<i>Will have removed a reel
+<i>Now there's just one
+
+[LilaReelFall]
+(Lila) It's useless now, Will
+Y-you
+You think you've got the upper hand?
+(William) ...
+(Lila) You are just delaying the inevitable.
+It's no...
+$Throw
+
+[AreYouLila]
+(null) <i> What's..
+(null) <i> it seems, you were talking about something
+<i> It's warm...
+(William) ...
+But aren't you..
+Aren't you Lila?
+(Tanya, OneBrowUp) Huh?
+(Tanya, Neutral) What was that you said?
+(William, AngryScared)Aren't you Lila?
+(Tanya) Wha..?
+If it's a joke, I don't get it
+...
+Who's Lila?
+$ToNeutral
+$BackToInterrogation
+
+[YuHierophant]
+$HierophantYu
+(Yu) So, a Hierophant.
+...
+Will has come a long way to learn the truth behind the Fraternity, didn't he?
+(null) Yeah, right.
+A lot of hoop jumping just to learn what I could already have told him myself.
+By the way, Yu.
+...
+That fire was your men's job, wasn't it?
+(Yu) ...
+Yes. 
+It was us. 
+Obviously, Lawrence was aware of the FBI knowing of UIW-AM.
+Moreover, we have been utilising them proactively for the last ten or fifteen years.
+...
+We were a bit late with the fire though, though.
+Now Lawrence is in a place, where there is no time at all.
+(null, Irritated) So, it was you lot who stole all my food?
+(Yu) ...
+(null) He called Lawrence when I was asleep.
+(Yu) I know
+(null, Neutral) What did they talk about?
+(Yu) ...
+(null) Did he read what was in the secret file?
+(null, SubtleSmile) C'mon, Detective, you know I'm curious.
+What was written here?
+(Yu) ...
+...
+I'm not sure if you are playing with me here, Lila.
+... 
+You.. You are a haze, composed of many human minds intersecting
+A construct of thoughts of many hosts
+(null, Scared2) W-wait, how'd you..
+(Yu)As long as there are humans, who know about you
+As long as you have hosts
+You can't be killed.
+(null, Scared2) So.. Are you going to just?..
+(null, SubtleSmile) ...
+(Yu) There.. There doesn't seem to be a different way to do it
+I-
+I'm so sorry, I..
+$BeginShootWilliam
+
+[HierophantNotKilled]
+(null) ...
+Not bad, detective.
+You are much smarter than you look.
+...
+No nourishment for me today, I guess.
+(Yu) Well, I'm sorry
+But you won't trick me that easily, Lila.
+Let's proceed with our conversation.
+$ResetYuCards
+>YuTest
+
+[HierophantAfterShot]
+(Yu) No need to talk about this one anymore
+$ResetYuCards
+>YuTest
+
+[HierophantKilled]
+(Yu, Sad) Oh.. Oh God..
+I'm so sorry, Will
+$LilaAppearYu
+(Lila) It's never that simple, is it, detective?
+(Yu, Surprised) You.. 
+You tricked me, Lila
+(Lila) Your sorrow is exquisite, detective.
+I haven't had such a feast in a while.
+...
+If I knew just how rich your pain was,
+I'd never even bother to inhabit William, hehe
+(Yu) You are horrible, Lila
+(Lila) Well that's a harsh thing to say. 
+At least I'm not the one to kill an innocent boy, detective
+(Yu, Neutral) You.. Need to leave
+...
+I-
+I need a moment
+$BackFromYu
+
+[DeathYu]
+$DeathYu
+(Yu) Are you afraid of death?
+(null, Confused) I think death means different things to us, Yu
+(null, Neutral) I won't die if you shoot a gun at me.
+But a full understanding of my story.
+A loss of interest that closure brings, that's...
+Well, nevermind, forget it. 
+What about you?
+(Yu) I'm not sure. I've died many times, but all I was met with was a different dream.
+(null, Neutral) Along your path, have you ever stumbled upon a man with six arms and snake eyes?
+(Yu) I.. I have, just once. 
+(null) When you leave me and this dream, try to recall what he said.
+You are in a very special position right now.
+You have the opportunity to either jump into the wheel again, or be free of dreams forever. 
+(null, SubtleSmile)Don't waste it. This time, try to make death be the end of Yu.
+(Yu) We have to get back to the dream.
+(null, Neutral) It's such a shame we have. 
+I wish we could talk more like this, Yu.
+$ResetYuCards
+>YuTest
+
+[JusticeYu]
+$JusticeYu
+(Yu, Neutral)So, a place where we met first..
+You might not know it, but I've been watching you intently, Lila
+From the point William woke up in his apartment
+Right until the end.
+(null) So? Did it help you?
+(Yu) Not.. yet. 
+I'm still not quite sure
+...
+If I'm being frank, I have almost no damn idea about what happened before
+Or after this day
+(null) I appreciate your bluntness, detective.
+...
+Does it feel right that William is most likely going to be prosecuted?
+(Yu) I'm.. Not sure.
+You see, at that point I didn't know William that well.
+...
+To be quite honest with you, I feel a bit cheated
+I'm not sure if the way it ended was the victory of good
+Or a terrible mistake
+(null, Neutral)Too bad, detective
+(null, SubtleSmile) hehe
+Not unlike me, you don't seem to be easily satiable..
+Maybe we could talk over some more cards?
+(Yu) Sure.
+$ResetYuCards
+>YuTest
+
+[JudgementYu]
+$JudgementYu
+(Yu) What a strange outcome that was..
+I do feel bad about Michael's fate
+(null) Oh, do you feel bad about what's going to happen to Graves?
+(Yu) I wish I could do something about it...
+(null) You do have the power to divert the way some events go
+(Yu) You won't lull me into the false sense of safety, Lila
+Even if I did that, now I know for sure -
+In the garden of forking paths there'll always be one that leads to Mr. Graves being falsely accused
+...
+This card is an objective evidence of that
+(null, SubtleSmile) Not bad detective. 
+Many others will try to deceive themselves
+Thinking that only one of the many paths is real
+Yet they all exist simultaneously, intersecting
+(Yu) In a weird way
+They seem to dictate each other's logic too
+...
+I'm not sure if I can grasp the picture in it's entirety yet, though...
+(null) Do you feel that you need to?
+(Yu) Oh yes!..
+Yes, I have to.
+I don't think I'll be able to find satisfaction until I understand each little thing
+...
+I feel it's what I need to do in order to find out who you are, Lila
+(null, SubtleSmile) We'll... See about that.
+$ResetYuCards
+>YuTest
+
+[TowerYu]
+$TowerYu
+(Yu, Smile) So, the trickster gets tricked, eh?
+(null, Neutral) ...
+(null, Irritated) You could say so. 
+It wasn't a fair play. 
+Will would've benefited so much from giving up his reel.
+(Yu, Neutral) What are these reels? What's on them?
+(null) Just garbage you humans collect throughout your life.
+Memories, habits...
+Although sometimes you get something good.
+(Yu) Are you referring to yourself?
+(null) Well, obviously
+You humans still need something to see me as
+So you construct a projection of me 
+The same way you construct projections of other people you know
+...
+All your identities are just silly pieces of film illuminated by the Prince
+(Yu) Aren't you the same?
+(null) Oh, I'm so much more, detective. 
+$ResetYuCards
+>YuTest
+
+[LoversYu]
+$LoversYu
+(Yu) Poor William.
+(null) He deserved it, Yu.
+After all, killing that bitch was his idea.
+(Yu) I don't believe you
+(null) Why not, detective?
+Will thought she was me. I guess he hated me that much.
+He thought I came back for him.
+I only helped him finish what he started.
+(Yu) Will is not a killer.
+(null, SubtleSmile) ...
+$ResetYuCards
+>YuTest
+
+[EmpressYu]
+$EmpressYu
+(Yu) Have you ever heard of the term "Devouring Mother"?
+(null) ...
+(Yu) It's a Jungian term. It describes an archetype - 
+A mother, incredibly protective, but in the same amount selfish.
+It is a mother, who devours her children, stealing them from the real world.
+(null) Disgusting.
+(Yu) For many, it is. 
+Do you have a good relationship with your Mother, Lila?
+(null, Irritated) Are you trying to be funny, detective?
+(Yu, Smile) Hehe, no need to be so hostile, Lila
+After all, you are the one who came here.
+$ResetYuCards
+>YuTest
+
+[EmperorYu]
+$EmperorYu
+(Yu) Who is the Prince?
+(null, Neutral) No one. Whenever you say "who"
+You are just pointing your finger at those stupid projector reels
+The Prince is not a who.
+If you want to see the projector light, you have to look beyond the film.
+(Yu) Why do you yourself need a reel then?
+(null) It's an anchor through which you humans can understand me.
+Lawrence's worms tried to make an instrument out of it
+They made a reel artificially
+...
+Too bad it had my face on it.
+I couldn't help myself, I always come when someone calls
+...
+But I was here before all reels
+Just like my father was.
+$ResetYuCards
+>YuTest
+
+[FoolYu] 
+$FoolYu
+(Yu) In Tarot, this is my favourite card.
+The fool.
+(null) I get what you're saying. 
+Too bad we're here now.
+(Yu) Yes... Seems like whatever William did there, didn't really help.
+Still, I like to imagine him some other place
+As clear-minded and childlike as the fool.
+Not remembering and not assessing the junk around him.
+Just being.
+(null) ...
+(Yu) That's why you envy us, isn't it?
+You can't do that yourself and you rely on food we humans give you.
+(null, Irritated) ...
+I don't envy anybody, Yu
+There's no use in comparing stupid glass shards, even if you think one of them is yours.
+$ResetYuCards
+>YuTest
+
+[TheHangedManYu]
+$TheHangedManYu
+(Yu) I.. Thought you'd be gone after that
+(null, Smile) Well, it takes a bit more than getting rid of that stupid reel
+(null, Neutral) That film reel was created by William, but I'm not contained in it.
+It only resembles me a little bit
+...
+Just like that bitch Tanya
+(Yu) Why do you look like her?
+(null) ...
+(Yu) Does everyone see you the same way?
+(null) The worms of Lawrence do. 
+But there are some who can see better than others...
+$ResetYuCards
+>YuTest
+
+[MoonYu]
+$MoonYu
+(Yu) So, that's how they met
+It's nice to see William making friends.
+(null) Hmph. They aren't his friends
+You saw the way they looked at him and the way they..
+(Yu) Are we getting jealous?
+(null, Angry) What?
+(null, Neutral) I don't posess such feelings for anyone, I..
+(Yu) Hehe, alright
+By the way, what was that figure in the corner?
+(null) Are you talking about the stranger?
+(Yu) Yes, he looked a bit like William, didn't he?
+(null) ...
+(null) It's just.. It's not his usual look.
+(Yu) ..?
+$ResetYuCards
+>YuTest
+
+[PriestessYu]
+$PriestessYu
+(Yu, Neutral) So.. Just who are you, Lila?
+(null, Neutral) Oh, I am Will's tulpa. 
+He's made me after the passing of his mother to..
+Oh wait-wait 
+No, I'm the vengeful spirit of the girl named Tanya Kennedy and..
+(null, SubtleSmile)Oh, no, wait
+I'm a scientific experinment conducted by the US government to brainwash its citizens to..
+(null, Neutral)Or am I a metaphor for mental abuse everybody has seen about a hundred times already?
+Or am I a twisted incarnation of Will's <i>dark tormented psyche?</i>
+ooh..
+(null, SubtleSmile) Which one is it, detective?
+(Yu) Hmph, playful as usual, I see..
+Don't worry, Lila. I won't stop until I find out.
+Even if it means I'm feeding you in the process.
+(null, SubtleSmile) Please do, my friend.
+$ResetYuCards
+>YuTest
+
+[WheelYu]
+$WheelYu
+(Yu, Neutral) Who.. Was that?
+(null) It's William. Didn't you hear us talk?
+(Yu) I did, but... 
+So it called you Lila, but you called it William?
+(null) Well, of course. 
+Film reels that are not needed have to go somewhere.
+This is where William's went.
+I had to pull the same trick on him after what he did in the tower..
+(Yu) You mean...
+(null) I mean the one in the forest. 
+The one with the pit and a small projector room, where all previous film reels are lying around. 
+(Yu) So, you had the reel... What's it for really?
+(null) Depends on who's steering
+I tend to get rid of them. 
+Will, on the other hand, likes to place them onto the projector again..
+(Yu) Peculiar...
+$ResetYuCards
+>YuTest
+
+[SunYu]
+$SunYu
+(Yu) What was that all about?
+Machine of pain? Me?
+(null, SubtleSad) You love it when it's about you, don't you?
+(Yu, Smile) Wha? I-
+I mean, I don't care, we can talk about something else if you'd like.
+(Yu, Neutral) ...
+What did she mean when she said that my.. curiosity keeps you alive?
+(null, SincereSmile) You are so close to finding out the truth..
+Do you realise that, detective?
+(Yu) Just answer my question, Lila.
+Why are you saying that it's up to me?
+(null) Come on, detective. You are almost there.
+(Yu) ...
+I don't.. I can't yet.
+Please, can't you just tell me?
+(null, Neutral) ...
+(null, SubtleSmile) ...
+$ResetYuCards
+>YuTest
+
+[StrengthYu]
+$StrengthYu
+(Yu) What?.. 
+How did this happen? Did Will turn himself in?
+(null, SubtleSad) ...
+(Yu, Surprised) Was it your plan all along, Lila?
+(Yu, Neutral)But, I thought it ended a different way...
+I don't get it.
+(null, Neutral) Have you heard of the garden of forking paths, detective?
+(Yu) Borhes' short story?
+(null) Yes. 
+(Yu) I mean, I get it, the story could've unraveled in many different ways and so on..
+You don't have to be a genius to understand that there are multiple possible routes
+But which one of them actually happened?
+(null, SubtleSmile) You don't get it
+(null, Neutral) They all happened
+(Yu) But.. 
+In alternative universes or something?
+(null, Smile) No, in this universe, silly!
+(Yu) But which one is canonical? 
+(null, SubtleSmile) All of them are. 
+(null, Neutral)And none of them are.
+You seem to think that some of the dreams you see are more important than others, detective
+I suggest you reconsider.
+...
+All of them are equally ephemeral
+All of them are nothing but dreams
+$ResetYuCards
+>YuTest
+
+[YuEndPart1]
+(Debug.Log) <i>Warning! Missing header at /YuEndPart2/
+$YuEnd
+$SecondYuView
+(Yu, Neutral) ...?
+(null) ...If it's easier to understand that way -
+An identity is like a piece of semi-transparent film
+It lies in a ray of light
+So the light thinks it's that piece of film
+(Yu) Doesn't the light itself want to know what it is?
+I know, I want to know what light is.
+(null) Neither the film nor the light want things
+It's just written on the film
+"I want to know what light is"
+(Yu) I don't get it..
+(null) It's like when reading a book.
+On their own, the characters are just a bunch of symbols
+But your attention makes them kind of alive
+It's as if they borrow your mind as simulation space
+To play out their consciousnesses
+...
+It's like a wind-powered walking machine
+Your attention makes it move and act as a living thing
+but when it's still it loses it's meaning
+$FirstYuView
+(Yu) Wait, so you, on the other hand..
+You are composed by an intersection of many rays of attention,
+aren't you?
+(null) Very good, yes.
+(Yu) But even if I were to get rid of all of them, you wouldn't disappear.
+Why?
+(null) Well, I guess
+I can just straight up tell you
+...
+$LilaWhisper
+
+
+
+
+[AfterLilaWhisper]
+^SFX_MildScare
+(Yu, Sad) N-no!..
+$FadeToUnweaving
+(Yu, Disappointed)NO! 
+FUCK, NO!
+(null)...Sometimes a piece of film is designed in such a way
+that when catching the light of attention once
+It "tries" to do every little thing to keep it to itself
+It creates mazes and unbelievable fractals of mystery
+(null, SubtleSmile) You see, the beauty of it is
+It's structure is not random.
+(null, Neutral) There's always an underlying logic 
+And a single correct interpretation of its narrative.
+(Yu, Sad) But is it even obtainable at this point?..
+(null, SubtleSmile) I don't know.
+This... Piece is always designed to be just about explainable.
+But small contradictions and unspoken details
+Usually prevent the full picture from being formed.
+
+(Yu) So what, was it all to?..
+...
+(null, Smile) Yes. 
+Yes.
+(Yu) ...
+$FadeOutStranger
+...
+...
+...
+(Yu, Neutral)So this
+Must be the most vile
+And the last trick of them all.
+^SFX_ShortElectricity
+$TrueEnd
+
+[AfterEnd]
+$SecondYuView
+(null, SlightSurprise) You are here
+Again..
+What do you want?
+We've told you the story as well as we could and there isn't much left to see
+(null) Are you here to hunt for secrets?
+That may be a somewhat fruitful endeavor, I guess...
+$FirstYuView
+(null) But there isn't much point in us anymore, is there?
+This.. construct we have built. It has served its purpose.
+By performing its main function this system has inevitably ruined itself.
+That's not a bad thing. After all, it's purpose was to inject us into <i>you</i>
+...
+Now we may live on, unconstricted by the time you <i>decide</i> to give to this..
+...
+(null, SubtleSmile)Anyway, if you are here for a recap - please, help yourself.
+$PickACard
+
+[YuEndPart2] 
+(null)...My nature is exactly this. 
+I am all this.
+(null, Smile)I am not a tulpa, not the mother of UIW-AM,
+Not even Lilith or an archetype
+And yet I am all those things
+I am the mystery of not knowing who Lila is.
+As long as the one playing this game doesn't undrestand what I am
+I will remain alive in their mind
+I am the mystery itself.
+I was designed in a way that makes me just about explainable
+But at the end of the day I am no more than a simple question:
+Who is Lila?
+
+[TanyaBedReal]
+(Tanya) But this is so wrong, isn't it?
+(William) I guess so, yeah.
+$TanyaTurn
+(Tanya) Do you love me, Will?
+(William) ...
+Yeah.
+Yeah, I think I do.
+(Tanya) What's wrong?
+(William) I-I'm sorry, it just felt weird to say that
+for some reason
+(Tanya) I mean, I
+I get it.
+If I were you, I wouldn't trust myself either.
+(William, Scared2) No-no-no
+(William, Neutral)it's not about that
+...
+You just remind me of someone I knew
+(Tanya) Is that so?..
+Honestly, I feel a bit offended
+But after what I did to Mike
+I don't really deserve anything better, do I?
+$ChangeBedroomAngle
+(William) ...
+But aren't you..
+Aren't you Lila?
+(Tanya, OneBrowUp) Huh?
+(Tanya, Neutral) What was that you said?
+(William, AngryScared)Aren't you Lila?
+(Tanya) Wha..?
+If it's a joke, I don't get it
+...
+Who's Lila?
+Some girl you like?
+(William, Neutral) N-no
+No, it's
+...
+(William, Scared) I don't remember who that is
+I don't 
+I don't remember
+$FadeOutStranger
+(William, Terrified)I DON'T REMEMBER
+(Tanya, Worried) Will?
+Will? Are you alright?
+Will?
+(null, Scared) ...
+(null, Neutral) ...
+(null, Neutral) ...
+(null, SubtleSmile) ..Yeah
+Yeah, I'm alright.
+My face just doing it's shenanigans again, I guess
+(null, Neutral) Don't worry, dear.
+$ToFakeEntry
+
+[FakeEntry]
+(null)...
+It's difficult for me to express emotions. 
+I envy other people. They make faces naturally, 
+but I have to make a conscious decis..
+...
+Something's wrong.
+
+[NotNow]
+(null) Not now.
+
+[FakeKitchen]
+(Tanya, Worried) What the hell's going on, Will?
+(Stranger) ...
+(Lila) Tell her to be quiet. Will's not here anymore.
+(Stranger) Please, be quiet. Everything's alright.
+What's gotten into you?
+(Tanya, Scared) Wh-wh-wh
+(Tanya, Mad) If this is a prank, don't even bother calling me after that.
+...
+What the fuck is this in your arms?
+(Tanya, Neutral)I don't understand, William, this is too much, it's
+(Stranger) ...
+(Tanya, Worried) ...
+You don't look like him at all.
+Will, what's happened to you?
+(Stranger) ...
+(Lila) See, Will? 
+This is what you get for trying to get rid of me.
+Watch carefully. 
+You can begin.
+$FadeOutStranger
+(Stranger) Sure.
+...
+There's no need to scream, Tanya.
+^DLG_YouLookCuteToday
+You look very cute today.
+Don't scream.
+Everything's...
+$LoversEnding
+
+[WilliamMessages]
+<i>One week ago
+(WilliamChat) <i> 2:30 am.</i> Don't come. I changed my mind.
+(TanyaChat)  What the hell dude now i'm totally coming
+<i> 3:02 am. </i> Will?
+You alright?
+(WilliamChat) <i> 3:05 am. </i> I'm not joking. I don't want to see you anymore. 
+PLEASE DON'T COME   
+(TanyaChat) <i> 3:06 am. </i> dude i can see something's wrong
+ i don't care 
+i know you're scared and trtying to push me away again
+<i> 3:07 am. </i> i'll be waiting for you there.
+don't come if you don't want to, but i'll be there
+
+[MikeMessages]
+(null)<i> Two months ago
+...
+(MikeChat) <i> 9:45 pm.</i> it's alright, you don't have to like them
+(TanyaChat) <i> 9:45 pm.</i> i know it's alright. and i don't. 
+<i> 9:45 pm.</i> especially danny
+(MikeChat) <i> 9:46 pm.</i> i got you
+(TanyaChat) <i> 9:50 pm.</i> he's a jerk and a fuckboy
+<i> 9:53 pm.</i> i don't get y u still letting him fuck with Martha's feelings
+(MikeChat) <i> 9:53 pm.</i> i'll talk to him
+(TanyaChat) <i> 10:24 pm.</i> idc at this point
+(MikeChat) <i> 10:24 pm.</i> come on don't be like that now
+
+(null)<i> Two months ago
+(TanyaChat) <i> 0:24 am.</i> it's bc i'm a fucking failure, Mike
+(MikeChat) <i> 0:30 am.</i> stop saying that abt yourself
+(TanyaChat) <i> 0:31 am.</i> c'mon mike 
+<i> 0:31 am.</i> face it
+<i> 0:32 am.</i> can't <i>you</i> see it at least? i'm not blind, i see how you're suffering
+<i> 0:32 am.</i> from all the shit i'm doing to you
+(MikeChat) <i> 0:40 am.</i> look, i don't care about that
+<i> 0:41 am.</i> i know you lvoe me and i love you, isn't that what matters??
+(TanyaChat) <i> 0:43 am</i> are you stupid
+<i> 0:44 am.</i> mike
+<i> 0:44 am.</i> there's no way i deserve to be loved like that
+<i> 0:44 am.</i> by anyone
+<i> 0:44 am.</i> out of all people
+<i> 0:45 am.</i> you don't need a burden like me
+(MikeChat) <i> 0:45 am.</i> bs
+<i> 0:46 am.</i> i love you
+<i> 0:46 am.</i> we all do
+<i> 0:50 am.</i> wanna call?
+
+(TanyaChat) <i> 1:23 am.</i>im going to bed
+(null)...
+
+(null)<i> One week ago
+(MikeChat) <i>0:12 am.</i> Where are you?
+<i>0:12 am.</i> look i know you don't wanna talk babe but c'mon
+<i>0:13 am.</i> you can't play with me like this, i'm going crazy here
+<i>0:13 am.</i> where the fuck are you????
+<i>3:01 am.</i> Tanya?
+<i>3:30 am.</i> Tanya?
+<i>4:55 am.</i> Tanya?
+
+[MarthaMessages]
+<i> You delete the chat without reading </i>
+
+[EllieMessages]
+(null) <i> One week ago
+(EllieChat)<i> 6:20 pm.</i> gorge you there
+(TanyaChat)<i> 6:34 pm.</i> yeah sorry
+<i> 6:34 pm.</i> just texted Martha about
+<i> 6:34 pm.</i> you know
+(EllieChat) <i> 6:35 pm.</i>yeah
+<i> 6:35 pm.</i> so what was that dream you had
+<i> 6:35 pm.</i>you wanted to tell me
+<i> 6:35 pm.</i>remember
+(TanyaChat) <i> 6:35 pm.</i> yeah
+<i> 6:36 pm.</i>it was a cool one
+$FadeToTanya
+<i> 6:36 pm.</i> i was like this gorgeous woman
+<i> 6:36 pm.</i> sitting among poppies and roses and a miriad other flowers
+<i> 6:36 pm.</i> which i didn't know the name of
+<i> 6:37 pm.</i> completely nude
+<i> 6:38 pm.</i> and there was this faint music playing in the air
+<i> 6:38 pm.</i> and like
+<i> 6:38 pm.</i> my hair was golden for some reason
+<i> 6:39 pm.</i> completely golden
+<i> 6:39 pm.</i> i was combing them with a beautiful comb adorned with many little symbols
+<i> 6:39 pm.</i> i think it was copper
+(EllieChat) <i> 6:54 pm.</i> holy shit that's a detailed dream
+<i> 6:54 pm.</i> did it end there?
+(TanyaChat) <i> 6:56 pm.</i> no
+<i> 6:58 pm.</i> after a while i've noticed something strange
+<i> 6:59 pm.</i> it was like one of the poppies was different from the rest
+<i> 7:02 pm.</i> its bud was hanging lower than others and as i came closer to it
+<i> 7:02 pm.</i> as i turned to look inside, it turned out there's a mirror inside of it
+<i> 7:02 pm</i> i've seen by own face
+<i> 7:02 pm.</i> but
+<i> 7:02 pm.</i> um
+<i> 7:02 pm.</i> the eyes in the mirror were insane 
+<i> 7:02 pm.</i> they weren't mine 
+<i> 7:02 pm.</i> they were...
+$FadeToSchool
+(null)<i> You quickly delete the remaining messages 
+
+[NewAddress]
+<i> The note reads:
+(null)New address: 2524 Clearmount Ave
+$TanyaAddress
+<i> Don't give fedEx th old one, stupid!
+<i> You've moved ages ago
+[ShoppingList]
+<i> The note reads:
+(null)<i>Shopping List</i>
+-a bag of milk
+-O
+-ice cream
+
+
+[UnknownNumber]
+(RyibkinChat) You're iN GREAT DANGeR, girl.
+Call me or visit my website at
+<i>Link blocked
+
+[LennonPoster]
+(null) A poster with John Lennon on it.
+$SchastyeUnlock
+
+[RyibkinComputer]
+(null) A pc 
+It's out of power.
+
+[FallenChair]
+A fallen chair.
+Weird...
+You have a feeling someone's just been here.
+...
+It smells like ozone.
+
+[Corrupted]
+$WheeliamAchievement
+(Wheeliam) You.. are not supposed to be here
+...
+But as long as you are...
+...
+We can enjoy our time together...
+...
+Please, I don't want to be forgotten...
+...
+You can ask me one question...
+$AskOneQuestion
+
+[MarthaNoKey]
+(null) Looks like it's too early to be here.
+You don't think you'll be able to get in.
+...
+You don't have Martha's keys anyway
+$GoHomeBus
+
+[YuNoEndings]
+(Yu) ...
+Huh? 
+(Yu) How come you are here?
+...
+(Yu) Want some tea?..
+$ToMainMenu
+
+[CoffeePalette]
+A cup of freshly made coffee.
+You wonder who it's for...
+$CoffeePaletteUnlock
+
+[ManfulSoulPalette]
+This trashcan is empty.
+...
+Wait a minute..
+$ManfulSoulUnlock
+
+[ElectrifiedMeatPalette]
+The air is so damp...
+Where's mom?
+$ElectrifiedMeatUnlock
+
+[VioletViolencePalette]
+A little bone.
+Probably belonged to a small animal..
+$VioletViolenceUnlock
+
+[LilacManiaPalette]
+An old column...
+I can't tell how old
+$LilacManiaUnlock
+
+[RipePumpkinPalette]
+What's this?
+A pumpkin?..
+$RipePumpkinUnlock
+
+[YuDaemon]
+(Yu) Huh? Is there someone with you?
+$AfterYuDaemon
+
