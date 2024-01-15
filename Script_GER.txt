@@ -3,7 +3,7 @@
 
 [PartyPlaylist]
 (Ilia) Warte mal...
-Das ist ja gar nicht unsere Party-Playlist!
+Das ist ja gar nicht meine Party-Playlist!
 
 [StrangerEnd]
 $FadeOutStranger
@@ -133,7 +133,8 @@ Cris_Kaiju - Spanisch
 Kakihara - vereinfachtes Chinesisch
 Nerisuyu
 Garage Heathen - Russisch
-Zabulus - Deutsch
+Julian - Deutsch
+
 [GeneratedFaces]
 Fast alle Gesichter wurden mit generated.photos erstellt
 [TestedBy]
@@ -479,7 +480,7 @@ Stell dich einfach neben jede Tür...
 Was für eine angenehme Überraschung....
 (null) Hallo, William
 ...
-(null, Irritated) Du musst aufhören mich anzurufen. Es bringt nichts
+(null, Irritated) Du musst aufhören, mich anzurufen. Es bringt nichts
 Will, ich sage das nur einmal
 (null, ScaredAngry)Deine Tricks sind lächerlich. Selbst mit.. ihrer... Hilfe
 kommst du nicht zurück!
