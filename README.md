@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Unofficial German localization for the brilliant game *Who's Lila?*
+Unofficial German localization for the brilliant game *Who's Lila?* (build ID 9156161)
 
 *Who's Lila?* is a horror adventure game developed by Garage Heathen and published by Garage Heathen and IndieArk. It was released on Steam and itch.io for Microsoft Windows on February 23, 2022. *Who's Lila?* follows a young man named William Clarke who has trouble showing the proper emotions on his face and has to consciously move his muscles in order to make expressions. This forms the main gameplay mechanic of the game, where the player must morph William's expressions with a mouse to make the proper (or improper) expressions during conversations. This affects how other characters react to his dialogue and how conversations play out.
 
@@ -16,13 +16,25 @@ Who's Lila? is a project developed solely by Garage Heathen, who designed and pr
 
 ## To do
 
+- Fix typos and remaining English text
+- Fix umlauts (öüäß...)
 - Check localization quality
+- Mod DAEMON's .assets file
 - Add some voice acting (?)
 
 ## Screenshots
 
-to do
+![Screenshot 2024-01-16 003746](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/dadb58e2-9b4c-442e-a716-48deed3da858)
+
+![Screenshot 2024-01-16 003509](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/72257f5e-cc83-4efc-a2c6-333345d2b733)
+
+![Screenshot 2024-01-16 003858](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/bf96a1a2-5152-42ad-b8fe-346218805527)
+
+![Screenshot 2024-01-16 004221](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/1802fc71-c0ff-494d-a264-088b1ce48c3a)
 
 ## Installation
 
-to do
+Copy the modded `sharedassets0.assets` file and the original `sharedassets0.assets.bak` file into the game's `WhosLila_Data` directory.
+The `WhosLila_Data` directory can be found by right-clicking the game in Steam and then selecting Manage > Browse local files.
+
+
