@@ -196,7 +196,7 @@ Beenden
 [Back]
 Zurück
 [SummonToDesktop]
-BESCHWÖREN zum Desktop
+BESCHWOEREN zum Desktop
 [Palettes]
 Paletten
 [Audio]
