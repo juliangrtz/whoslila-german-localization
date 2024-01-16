@@ -1,5 +1,5 @@
 [Infinite]
-{InfiniteQuestion, -1} Ich möchte meine Gesichtsausdrücke noch ein wenig üben...
+{InfiniteQuestion, -1} Ich will meine Gesichtsausdrücke noch ein wenig üben...
 
 [PartyPlaylist]
 (Ilia) Warte mal...
@@ -1099,7 +1099,7 @@ Ich glaube ein Detektiv will mich sprechen
 (null, Neutral) Name?
 (Martha) I-Ich weiß nicht, ich glaube es war ein asiatischer Name...
 Etwas wie Detektiv Yu, ich bin mir nicht sicher...
-(Martha, Neutral)Anyway, why do y...
+(Martha, Neutral)Wie auch immer, waru-
 (null, Neutral) Es ist nicht nett, Gerüchte zu verbreiten, Martha.
 Das ist ein Zeichen einer sehr,
 (null, SubtleSmile)sehr schlechten Freundin
@@ -1859,7 +1859,7 @@ Ich habe gerade ein Mädchen zum Badezimmer gebracht
 (Hurley) Was? Hat sich Martha wegen diesem Penner betrunken?
 (William) Wegen Danny, ja
 (Hurley) ...
-(William) Ellie and Tanya wollen ihr jetzt helfen
+(William) Ellie und Tanya wollen ihr jetzt helfen
 (Hurley) Oh, alles klar
 Dann muss ich wohl nicht mehr helfen
 Danke für die Info
@@ -2072,7 +2072,7 @@ $ToNeutral
 Du bist...
 (Ellie) Hey, hast du Martha gesehen?
 (Tanya) Warte kurz, Ellie
-He probably doesn't know who that is..
+Er weiß wahrscheinlich nicht, wer das ist...
 Du bist der Neue, oder?
 {NewGuy, 2, GreatFace, 13} J-ja
 
