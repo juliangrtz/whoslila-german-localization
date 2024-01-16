@@ -21,7 +21,7 @@ The `WhosLila_Data` directory can be found by right-clicking the game in Steam a
 
 ## To do
 
-- Fix typos and remaining English text
+- Fix typos
 - Fix umlauts (öüäß...)
 - Check localization quality
 - Mod DAEMON's .assets file
