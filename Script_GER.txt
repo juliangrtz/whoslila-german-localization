@@ -3,7 +3,7 @@
 
 [PartyPlaylist]
 (Ilia) Warte mal...
-Das ist ja gar nicht meine Party-Playlist!
+Das ist nicht meine Party-Playlist!
 
 [StrangerEnd]
 $FadeOutStranger
@@ -32,7 +32,7 @@ Tatsächlich bin ich gerade da.
 $FadeInStranger
 
 [PartygoerWeirdSong]
-(Partygoer)Was ist das denn für 'ne Musik?
+(Partygoer)Was zum Teufel ist das denn für 'ne Musik?!
 Bestimmt so ein experimentelles Zeug oder so...
 (null)...
 
@@ -58,7 +58,7 @@ Dokument gesperrt
 [EasyMode]
 Einfache Schwierigkeit (längere Antwortzeiten und Gesicht verzieht sich nicht)
 [BoilerSave]
-Heizräume
+Heizraum
 [VeilSave]
 Der Schleier
 [WillApartmentSave]
@@ -86,17 +86,17 @@ PERSON
 [TanyaKennedyMissing]
 TANYA KENNEDY   
 [BasicEmotions]
-Grundemotionen
+Grundgefühle
 [HappyNote]
 FREUDE
 [SadNote]
-TRAUER
+TRAURIG
 [AngryNote]
-WUT
+WÜTEND
 [WowNote]
 WOW!
 [EwNote]
-PFUI!
+IGITT!
 [FearNote]
 FURCHT
 
@@ -165,7 +165,7 @@ an @hivelings
 ...und an Dich!
 [Emotions]
 Du hast gelächelt
-Dein Gesicht blieb emotionslos
+Dein Gesicht blieb neutral
 Du hast ein trauriges Gesicht gemacht
 Du hast ein wütendes Gesicht gemacht
 Du wirkst angeekelt
@@ -173,7 +173,7 @@ Du wirkst verängstigt
 Du hast ein überraschtes Gesicht gemacht
 [EmotionsVisualizer]
 Lächeln
-Emotionslos
+Neutral
 Traurig
 Wütend
 Angeekelt
@@ -218,11 +218,11 @@ Löschen
 [Load]
 Laden
 [Submit]
-Bestätigen
+Fertig
 [Paused]
 Pausiert
 [SaveLoad]
-Speichern / Laden
+Speichern/Laden
 [NewSave]
 Neuer Spielstand
 [Tasks]
@@ -413,7 +413,7 @@ Kriminalbeamter Fisher
 [???]
 ???
 [Yu]
-Detektiv Yu
+Sonderermittler Yu
 [RyibkinChat]
 +7 976 *** 33 22
 [MikeChat]
@@ -433,8 +433,10 @@ Klassenzimmer #598
 Klassenzimmer #610
 Klassenzimmer #312
 Klassenzimmer #908
+
 [MarthaClassroom]
 Klassenzimmer #430
+
 [Janitor]
 (Frank)Der Zutritt zu den Heizräumen ist verboten, Kollege!
 ...
@@ -472,7 +474,7 @@ Stell dich einfach neben jede Tür...
 ...und hör zu.
 
 [Death]
-{CloseEyes, 6}SCHLIEẞ DEINE AUGEN
+{CloseEyes, 6}SCHLIEß DEINE AUGEN
 [SteamMachine]
 ^DLG_Lila
 (Machine)Lila....
@@ -540,7 +542,7 @@ $ToNeutral
 <i> Du entscheidest dich, eine Show abzuziehen </i>
 Nein, ich meine...
 (null, FakePain) Wie könnte sie nur - sie ist mir die ganze Zeit aus dem Weg gegangen...
-Ja, wir haben uns getrennt, aber die arme wird vermisst! Wir müssen reden, i-ich..
+Ja, wir haben uns getrennt, aber die Arme wird vermisst! Wir müssen reden, i-ich..
 (Ellie) Warte, i-ihr seid ausgegangen?!
 (null)<i> Ihr seid nicht ausgegangen </i>
 Oh, aber behalte es für dich... Ich muss sie wirklich sehen, auf der Stelle
@@ -901,7 +903,7 @@ Doch manche schauen weg.
 
 [TutorialDisgust]
 $ToNeutral
-Wenn mich ein komischer Typ im Kaufhaus belästigt, dann verschrecke ich ihn
+Wenn mich ein komischer Typ im Supermarkt anmacht, dann verschrecke ich ihn
 {TutorialAnger, 10}mit einem wütenden Gesicht
 
 
@@ -1514,7 +1516,7 @@ $Fall
 
 [HospitalDialogue]
 (William) Also, ich wollte dich etwas fragen...
-Wenn ich dich nicht über Imposition wahrnehme, wohin gehst du dann?
+Wohin gehst du, wenn ich dich nicht visuell beeindrucke?
 (Lila) Haha... 
 Nirgendwohin. Ich höre einfach auf
 zu existieren, weißt du
@@ -2145,7 +2147,7 @@ Danke dir, Will
 >TanyaLeaveFriends
 
 [HeyGuysNatural]
-<i> This sounded natural
+<i> Das klang neutral
 (Mike, SubtleSmile) Was geht, Alter?
 (Mike, Neutral) Wir kennen uns nicht, oder?
 (William, Neutral) Ja, ich war seit Anfang des Jahres nicht mehr viel in der Schule
@@ -2488,7 +2490,7 @@ wegen Mike...
    (Stranger)
     (Stranger)
  ^DLG_SheHasHerFace
- (Stranger) <b>SIE HATTE IHR GESICHT</b>
+ (Stranger) <b>SIE HAT IHR GESICHT</b>
  (William, SlightlyScared) N-nein, ich...
  Es kann nicht sie gewesen sein,
  (William, Scared)ich habe...
@@ -2520,7 +2522,7 @@ wegen Mike...
 <b>...</b>
 <b>Was will das Schiff?
 <i> Nach der ersten Regung deines Verstandes
-<i> scheint die Kreatur all deine Lüste verstanden zu haben
+<i> scheint die Kreatur all deine Lüste verstanden zu haben.
 <b> Es ist bekannt.
 <b> Wir helfen dir auf die Sprünge. Als Gegenleistung wird nichts verlangt.
 <b> Deine Zustimmung benötigen wir nicht.
@@ -3891,7 +3893,7 @@ Welche Beziehung hattest du zu Tanya Kennedy?
 {WeWereFriends, 10} Wir waren befreundet
 
 [Torso]
-(null)<i> His face changes
+(null)<i> Sein Gesicht ändert sich
 (BC) Soso. Freunde.
 ...
 (null)<i> Er scheint in Gedanken versunken zu sein
@@ -4276,7 +4278,7 @@ Außerdem hätte er einen Schrei einer jungen Frau gehört.
 (BC, Neutral) ...
 ...
 (BC) Sag mal, William.
-Mir ist da etwas aufgefallen.
+Mir ist da etwas aufgefallen...
 Warum riechst du nach Waschmittel?
 $ToCreditsWillCulpritMartha
 
