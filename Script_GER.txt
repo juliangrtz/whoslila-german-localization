@@ -1302,12 +1302,12 @@ Es kann nicht sein, dass du davon nichts weißt
 Wir haben's alle gesehen
 (null, SubtleSmile) Martha hat es gesehen, nicht du
 (Mike, Neutral) Pass auf, Schwachkopf,
-I'm not sure why I have to explain this, but if it's her word against yours, 
-I'd rather believe my best friend than a weirdo like you
-(null, SlightlyScared) You are making a mistake, Graves
-(Mike, AngrySad) Look, man, I don't even give a fuck by now, just tell me where she is
+Ich weiß nicht, warum ich das erklären muss, aber wenn ihr Wort gegen deines steht,
+glaube ich lieber meinem besten Freund als einem Spinner wie dir
+(null, SlightlyScared) Du machst einen Fehler, Graves
+(Mike, AngrySad) Pass auf, Alter, mir ist das scheißegal, sag mir einfach, wo sie ist
 Ich... Ich
-kann einfach nicht mehr
+kann einfach nicht mehr!
 {MarthaLying, 2, Angry, 12} Martha lügt dich an!
 
 [WeDidntHaveAThingSincere]
@@ -2148,7 +2148,7 @@ Danke dir, Will
 <i> This sounded natural
 (Mike, SubtleSmile) Was geht, Alter?
 (Mike, Neutral) Wir kennen uns nicht, oder?
-(William, Neutral) Yeah, I haven't been to school much since the start of the year
+(William, Neutral) Ja, ich war seit Anfang des Jahres nicht mehr viel in der Schule
 (Mike) Ah, verstehe
 (Mike, SubtleSmile)Nett, dich kennenzulernen, Will
 (Mike, Neutral)Danke, dass du dich so um Martha gekümmert hast
@@ -3335,7 +3335,7 @@ aber ich bin nicht gerade der muskolöseste
 ...
 (null, Neutral)Zum Glück kamen ein paar Leute, als sie das alles gehört haben
 (DH) Wer denn?
-(null, SlightlyScared) Oh I don't really know their names, unfortunately.
+(null, SlightlyScared) Oh, leider kenne ich ihre Namen nicht wirklich.
 (null, Neutral)Einer trug einen Kapuzenpullover, der andere hatte Dreadlocks
 $FadeToInterrogation
 (DH) Alles klar. Habt ihr irgendwelche Verletzungen?
@@ -3934,7 +3934,6 @@ Ich frage Sie einfach, weil ich keinen Zweifel daran habe, um wessen Arbeit es s
 (BC, Neutral) ...
 ...
 (BC, Serious)Dir ist schon klar, dass sie eine Familie hat, oder?
-Don't you want her mom and dad to have at least a little comfort in knowing where the remains of their girl are?
 Willst du nicht, dass ihre Eltern wenigstens wissen, wo die sterblichen Überreste ihres Mädchens sind?
 (null, Scared2) Sind Sie sicher... dass sie es ist?
 (BC, Neutral) Hast du den Verstand verloren? Wir wissen es bereits!
@@ -4101,7 +4100,7 @@ $FadeToBadCop
 (BC, ColdSmile) Also, noch ein leiser Kandidat?
 ...
 (BC, Neutral)Mein Name ist Detektiv Fisher.
-I don't have time to fuck around with you like Ted did, okay?
+Ich habe keine Zeit, mit dir herumzualbern wie Ted, okay?
 (BC, Serious)Verstehst du, was ich sage, Junge?
 {SilentBadCop, 2, Scared2, 9} ...
 
@@ -4135,7 +4134,6 @@ Du willst dich nicht einmal verteiden.
 (null) ...
 (BC, Neutral) Stell dir mal vor, wie sich ihre Mutter fühlen muss.
 Wie sie sich fühlen muss, wenn sie erfährt, dass ihre Tochter von einem Mörder wie dir umgebracht wurde.
-Imagine her face. How spiteful and disgusted she'll be when she sees you in court.
 Stell dir ihr Gesicht vor. Wie angewidert und boshaft sie schauen wird.
 Du bist nicht wirklich ein Mensch, hm? Eher ein trauriger Versuch, einer zu sein, oder?
 (null) ...
