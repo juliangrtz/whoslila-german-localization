@@ -14,6 +14,11 @@ The game includes several endings, which depend on places the player chooses to 
 
 Who's Lila? is a project developed solely by Garage Heathen, who designed and programmed the game, as well as composing the music for it. He often posted behind-the-scenes screenshots and photos about the game's development on his Twitter account.
 
+## Installation
+
+Copy the modded `sharedassets0.assets` file and the original `sharedassets0.assets.bak` file into the game's `WhosLila_Data` directory.
+The `WhosLila_Data` directory can be found by right-clicking the game in Steam and then selecting Manage > Browse local files.
+
 ## To do
 
 - Fix typos and remaining English text
@@ -33,10 +38,4 @@ Who's Lila? is a project developed solely by Garage Heathen, who designed and pr
 ![Screenshot 2024-01-16 013059](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/bf6aabd3-f24c-431f-8f30-3f61ac35f471)
 
 ![Screenshot 2024-01-16 004221](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/1802fc71-c0ff-494d-a264-088b1ce48c3a)
-
-## Installation
-
-Copy the modded `sharedassets0.assets` file and the original `sharedassets0.assets.bak` file into the game's `WhosLila_Data` directory.
-The `WhosLila_Data` directory can be found by right-clicking the game in Steam and then selecting Manage > Browse local files.
-
 
