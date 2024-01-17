@@ -282,7 +282,7 @@ Mit Strupnev reden
 [GoToDepotTask]
 Die alte Lagerhalle auffinden
 [FindCallerTask]
-Den zweiten Anrufer finden
+Den zweiten Rufer finden
 [GoHaveFunTask]
 Viel Spaß, Dummkopf!
 [BurntTask]
