@@ -30,7 +30,7 @@ The `WhosLila_Data` directory can be found by right-clicking the game in Steam a
 
 ![Screenshot 2024-01-16 003746](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/dadb58e2-9b4c-442e-a716-48deed3da858)
 
-![Screenshot 2024-01-16 003509](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/72257f5e-cc83-4efc-a2c6-333345d2b733)
+![Screenshot 2024-01-17 013103](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/4af391c0-6ca7-4757-a059-54df2b7e8af3)
 
 ![Screenshot 2024-01-16 003858](https://github.com/juliangrtz/whoslila-german-localization/assets/152074442/bf96a1a2-5152-42ad-b8fe-346218805527)
 
