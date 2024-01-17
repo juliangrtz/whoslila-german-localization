@@ -387,7 +387,7 @@ Rundschreiben
 [Machine]
 Maschine
 [Student]
-Student
+Schüler
 [Jay]
 Jay
 [Mandy]
