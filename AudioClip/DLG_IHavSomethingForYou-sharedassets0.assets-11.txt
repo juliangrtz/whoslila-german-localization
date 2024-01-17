@@ -1,0 +1,18 @@
+0 AudioClip Base
+ 1 string m_Name = "DLG_IHavSomethingForYou"
+ 0 int m_LoadType = 0
+ 0 int m_Channels = 2
+ 0 int m_Frequency = 44100
+ 0 int m_BitsPerSample = 16
+ 0 float m_Length = 1,9156463
+ 0 bool m_IsTrackerFormat = false
+ 1 bool m_Ambisonic = false
+ 0 int m_SubsoundIndex = 0
+ 0 bool m_PreloadAudioData = true
+ 0 bool m_LoadInBackground = false
+ 1 bool m_Legacy3D = true
+ 0 StreamedResource m_Resource
+  1 string m_Source = "german_audio_clips.resource"
+  0 FileSize m_Offset = 1060640
+  0 UInt64 m_Size = 100768
+ 1 int m_CompressionFormat = 1
