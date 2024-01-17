@@ -12,7 +12,7 @@ Will is the last person who saw a missing girl, Tanya Kennedy, alive and must na
 
 The game includes several endings, which depend on places the player chooses to go and what expressions they make William do. In addition, it features ARG elements, as it requires using external sources and websites in order to gain the full picture and access to every ending.
 
-Who's Lila? is a project developed solely by Garage Heathen, who designed and programmed the game, as well as composing the music for it. He often posted behind-the-scenes screenshots and photos about the game's development on his Twitter account.
+*Who's Lila?* is a project developed solely by Garage Heathen, who designed and programmed the game, as well as composing the music for it. He often posted behind-the-scenes screenshots and photos about the game's development on his Twitter account.
 
 ## Installation
 
