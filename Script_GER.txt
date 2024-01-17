@@ -4895,7 +4895,7 @@ Ich bin mir nicht sicher, ob das Ende ein Sieg des Guten war...
 oder ein schrecklicher Fehler.
 (null, Neutral)Zu schade.
 (null, SubtleSmile) Hehe
-Ähnlich wie ich scheinen Sie nicht leicht zu sättigen zu sein.
+Ähnlich wie ich scheinen Sie nicht so leicht zufrieden zu geben.
 Vielleicht könnten wir noch ein paar Karten besprechen?
 (Yu) Sicher.
 $ResetYuCards
