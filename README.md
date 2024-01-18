@@ -19,10 +19,14 @@ The game includes several endings, which depend on places the player chooses to 
 Copy the modded `sharedassets0.assets` file and the original `sharedassets0.assets.bak` file into the game's `WhosLila_Data` directory.
 The `WhosLila_Data` directory can be found by right-clicking the game in Steam and then selecting Manage > Browse local files.
 
+## Known issues
+
+Unfortunately, the fonts in the game render certain German characters not that well, especially so-called umlauts (öüäÖÜÄß...).
+
 ## To do
 
 - Fix typos
-- Fix umlauts (öüäß...)
+- Fix umlauts
 - Check localization quality
 - Mod DAEMON's .assets file
 
