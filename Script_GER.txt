@@ -4989,7 +4989,7 @@ $ResetYuCards
 $EmperorYu
 (Yu) Wer ist der Prinz?
 (null, Neutral) Niemand. Immer wenn du das Wort "Wer" benutzt,
-Sie zeigen nur mit dem Finger auf diese dummen Projektorrollen
+zeigst du nur mit dem Finger auf diese dummen Projektorrollen.
 Der Prinz ist kein Wer.
 Wer das Projektorlicht sehen will, muss über den Film hinausschauen.
 (Yu) Warum brauchen Sie dann selbst eine Rolle?
