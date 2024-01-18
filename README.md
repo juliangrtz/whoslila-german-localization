@@ -16,7 +16,7 @@ The game includes several endings, which depend on places the player chooses to 
 
 ## Installation
 
-Copy the modded `sharedassets0.assets` file and the original `sharedassets0.assets.bak` file into the game's `WhosLila_Data` directory. If you want to localize the DAEMON's text too then do the same but for `DAEMON\sharedassets0.assets`.
+Copy the modded `sharedassets0.assets` file and the original `sharedassets0.assets.bak` file into the game's `WhosLila_Data` directory. If you want to localize the DAEMON's text too then do the same but for `DAEMON\sharedassets0.assets`. This time, however, you have to replace the file located at `DAEMON\DAEMON_Data` in the installation path of *Who's Lila?*.
 The `WhosLila_Data` directory can be found by right-clicking the game in Steam and then selecting Manage > Browse local files.
 
 ## Known issues
