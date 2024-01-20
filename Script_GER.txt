@@ -787,10 +787,10 @@ $FindMarthaClassroomTask
 
 [Matthew]
 Das ist Matthews Spind.
-Er ist verschlossen.
+Er ist abgeschlossen.
 [Graves]
 Dieser Spind gehört Michael Graves.
-Er ist verschlossen.
+Er ist abgeschlossen.
 [PizzaBox]
 Ein leerer Pizzakarton mit ein paar Krümeln
 [SpilledBeer]
@@ -812,7 +812,7 @@ in zwei oder mehr Sprachen bis zum Schulabschluss"
 trotz zahlreicher Umstände eine ungewöhnlich hohe Lernbereitschaft an den Tag legt"
 <i> ...und so weiter </i>
 [CantRideTrash]
-(null)Ich muss erst den Müll rausbringen
+(null)Ich muss zuerst den Müll rausbringen
 [HaveToTakePhone]
 (null)Ich muss ans Telefon gehen
 [BlueVelvet]
@@ -881,7 +881,7 @@ Jeden Morgen gehe ich ins Badezimmer, um zu proben, wie mein Gesicht heute aussi
 [NoTrash]
 (null)Ich muss erst den Müll runterbringen
 [ThrewTrash]
-(null)Okay, jetzt kann ich losfahren
+(null)Gut, jetzt kann ich losfahren
 $SchoolTask
 
 [Silence]
@@ -964,7 +964,7 @@ Das bin <i>ich</i>, hm?
 $StopPhone
 (???) Hey!
 ...
-Wieso gehst du nicht an das Telefon, das sie dir gaben?
+Warum gehst du nicht ans Telefon, das sie dir gegeben haben?
 ...
 Wie auch immer, hast du's schon mitbekommen?
 Vater Lawrence ist tot.
