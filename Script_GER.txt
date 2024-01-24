@@ -3,7 +3,7 @@
 
 [PartyPlaylist]
 (Ilia) Warte mal...
-Das ist nicht meine Party-Playlist!
+Das ist ja gar nicht meine Party-Playlist!
 
 [StrangerEnd]
 $FadeOutStranger
@@ -553,10 +553,10 @@ $KnowClassroom
 $ToNeutral
 
 [EllieSoftLock]
-<i> Das sah äußerst merkwürdig aus </i>
+<i> Das sah sehr merkwürdig aus </i>
 <i> Ellie wirkt etwas verängstigt </i>
-(Ellie) T-Tut mir leid... I-Ich muss jetzt Hausaufgaben machen.
-Könntest du bitte gehen?
+(Ellie) T-Tut mir leid... I-Ich muss jetzt meine Hausaufgaben machen.
+Könntest du mich bitte alleine arbeiten lassen?
 ...
 (null, Neutral) ...
 (null, AwkwardSmile) Klar
@@ -565,7 +565,7 @@ Könntest du bitte gehen?
 $ToNeutral
 
 [EllieDisbelief]
-(Ellie) Bist du sicher? Wie heiße ich denn?
+(Ellie) Bist du dir sicher? Wie heiße ich denn?
 {Laura, 7} Laura Hayward
 
 [LauraSmiled] 
@@ -807,7 +807,7 @@ Ein Preis an Martha Jennings
 "als Anerkennung für außergewöhnliche Sprachkenntnisse
 in zwei oder mehr Sprachen bis zum Schulabschluss"
 [MatthewPrize]
-(null)Ein Preis an Pablo Ramirez,
+(null)Ein Preis an Pablo Ramírez,
 "der sich charakterlich entwickelt hat und
 trotz zahlreicher Umstände eine ungewöhnlich hohe Lernbereitschaft an den Tag legt"
 <i> ...und so weiter </i>
@@ -819,7 +819,7 @@ trotz zahlreicher Umstände eine ungewöhnlich hohe Lernbereitschaft an den Tag 
 (null)<i>"Blue Velvet"</i> von David Lynch
 Das einzig Coole in dieser Wohnung
 [Heathen]
-(null)Ein komischer, pilzartiger Zwerg ist auf dem Poster
+(null)Ein komischer, pilzartiger, nicht reagierender Zwerg ist auf dem Poster
 <i>"Garage Heathen"?</i>
 Wer zur Hölle soll das sein?
 [MarthasBed]
@@ -1832,13 +1832,13 @@ Es riecht gut hier draußen
 <i> Das ist Matt Hurley, er schmeißt die Party </i>
 (Hurley) Hey, Alter
 Will, richtig?
-(William, SubtleSmile) Oh, hallo Matt
-Ähm, tut mir leid, dass ich zu spät bin
+(William, SubtleSmile) Oh, hey Matt
+Ähm, tut mir echt leid, dass ich zu spät bin
 (Hurley) Hey, mach dir keine Sorgen, Will
-Die Nacht fängt gerade erst an, komm rein!
-Willst du etwas Bier?
-(William, Neutral) Ähm.. Nein danke, ich passe
-Aber danke für die Einladung
+Die Nacht fängt gerade erst an, komm doch rein!
+Willst du etwas trinken? Bier? Vodka? Limo?
+(William, Neutral) Ähm... Nein danke
+Aber danke dir für die Einladung!
 (Hurley) Kein Problem. Fühl dich wie zu Hause
 (null)<i> Matt und die Jungs hier sind echt großartig.
 Ich wünschte, ich wäre nicht so schüchtern und könnte ihm das einfach sagen</i>
@@ -1930,9 +1930,9 @@ $FadeInStranger
 [GarageDancer]
 (Ilia) Ich lllliebe diesen Song!!!
 ...
-Ich habe ihn geschrieben, weißt du...
+Ich habe ihn komponiert, weißt du...
 Er gefällt dir, oder???
-(William) Öööhm... Total.
+(William) Öööhm... Aber sowas von.
 [DancerChanged]
 (Ilia) ...
 Ein neuer Song...
@@ -2178,7 +2178,7 @@ $ToNeutral
 
 [TanyaLeaveFriends]
 (null)<i> Es herrscht eine peinliche Stille
-(Tanya) Also dann, wenn es Martha wieder gut geht, schnappe ich etwas Luft
+(Tanya) Also dann, wenn es Martha wieder gut geht, dann schnappe ich etwas Luft
 (Mike, Angry) Hey, warte mal!
 Wir sind gerade erst gekommen...
 (Tanya) ...
@@ -2915,7 +2915,7 @@ Das geschah hier, in einem Wohnungskomplex in der Nähe.
 [BurntHallTrigger]
 (William) Ich nannte diesen Ort mein zweites Zuhause.
 Was ist hier bloß passiert?
-Jetzt riecht es nach Staub und Asche.
+Jetzt riecht es hier nur nach nach Staub und Asche.
 $SaveAuto
 
 [Interrogation]
@@ -2926,7 +2926,7 @@ $CloseAllItemGraphics
 Also, William, ich werde dir jetzt einige Fragen stellen, in Ordnung?
 (null) Okay.
 (DH) Weißt du, warum du hier bist?
-{WhyHere, 10} Nein, weiß ich nicht, Herr Hutchins
+{WhyHere, 10} Nein, weiß ich es nicht, Herr Hutchins
 
 [NoWhyHereUnconfident]
 (null) <i> Du sahst nicht sehr selbstbewusst aus
@@ -3490,7 +3490,7 @@ Annie, du bist so ein <b>ungezogenes, freches</b> Mädchen
 (null, SubtleSad)Annie hat mit mir danach nicht mehr geredet.
 Ich dachte, ich würde meiner Mutter nie vergeben,
 wissen Sie.
-Aber wenn man ständig zusammen wohnt, vergibt man irgendwann automatisch.
+Aber wenn man ständig zusammen wohnt, vergibt man dem anderen irgendwann automatisch.
 (DH) Das hört sich schrecklich an, Will.
 Es muss schwierig mit ihr gewesen sein.
 (null) Nein, ich...
@@ -4103,7 +4103,7 @@ $FadeToBadCop
 ...
 (BC, Neutral)Mein Name ist Detektiv Fisher.
 Ich habe keine Zeit, mit dir herumzualbern wie Ted, okay?
-(BC, Serious)Verstehst du, was ich sage, Junge?
+(BC, Serious)Verstehst du, was ich dir sage, Junge?
 {SilentBadCop, 2, Scared2, 9} ...
 
 [SilentBadCopNeutral]
@@ -4719,7 +4719,7 @@ Es tut mir leid, i-ich...
 Ich weiß aber nicht wohin.
 Du musst nur ein Teil von mir sein, du bist nicht mehr als ich.
 Also warum kannst du nicht einfach gehen?
-BITTE
+BITTE! BITTE!!!
 $LilaFloatClose
 
 [LilaNonsense]
@@ -4918,7 +4918,7 @@ Viele andere werden versuchen, sich selbst zu täuschen.
 Ich denke, dass nur einer der vielen Wege real ist.
 Dennoch existieren sie alle gleichzeitig und überschneiden sich.
 (Yu) Auf seltsame Weise
-scheinen sie sich auch gegenseitig die Logik zu diktieren
+scheinen sie sich auch gegenseitig die Logik vorzuschreiben
 ...
 Ich bin mir allerdings noch nicht sicher, ob ich das Bild in Gänze begreifen kann ...
 (null) Haben Sie das Gefühl, dass Sie das müssen?
