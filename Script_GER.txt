@@ -5048,7 +5048,7 @@ Es ist schön zu sehen, wie William Freunde findet.
 (null) Hmpf. Sie sind nicht seine Freunde.
 Sie haben gesehen, wie sie ihn angesehen haben und wie sie ...
 (Yu) Werden wir eifersüchtig?
-(null, wütend) Was?
+(null, Angry) Was?
 (null, Neutral) Ich hege für niemanden solche Gefühle, ich...
 (Yu) Hehe, alles klar
 Übrigens, was war das für eine Gestalt in der Ecke?
